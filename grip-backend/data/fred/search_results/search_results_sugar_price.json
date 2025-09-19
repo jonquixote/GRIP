@@ -1,0 +1,208 @@
+{
+  "search_term": "sugar price",
+  "collected_at": "2025-09-19T06:28:45.601309",
+  "series": [
+    {
+      "id": "PSUGAISAUSDM",
+      "title": "Global price of Sugar, No. 11, World",
+      "frequency": "Monthly",
+      "units": "U.S. Cents per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 56,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "APU0000715211",
+      "title": "Average Price: Sugar, White, All Sizes (Cost per Pound/453.6 Grams) in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 53,
+      "observation_start": "1980-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "ATNHPIUS26420Q",
+      "title": "All-Transactions House Price Index for Houston-The Woodlands-Sugar Land, TX (MSA)",
+      "frequency": "Quarterly",
+      "units": "Index 1995:Q1=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 48,
+      "observation_start": "1976-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "APUS37B72610",
+      "title": "Average Price: Electricity per Kilowatt-Hour in Houston-The Woodlands-Sugar Land, TX (CBSA)",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 34,
+      "observation_start": "1978-11-01",
+      "observation_end": "2024-12-01"
+    },
+    {
+      "id": "PSUGAUSAUSDM",
+      "title": "Global price of Sugar, No. 16, US",
+      "frequency": "Monthly",
+      "units": "U.S. Cents per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 31,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "WPU02530702",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Beet Sugar",
+      "frequency": "Monthly",
+      "units": "Index Dec 2002=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 24,
+      "observation_start": "2002-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3113143113141",
+      "title": "Producer Price Index by Industry: Cane Sugar Manufacturing: Raw Cane Sugar and Sugarcane Mill Products and Byproducts",
+      "frequency": "Monthly",
+      "units": "Index Jun 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 24,
+      "observation_start": "1967-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XTOBEZ19M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco for Euro Area (19 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 22,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU0252",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Raw Cane Sugar and Sugar Cane Mill Products and Byproducts",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "1977-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IR000",
+      "title": "Import Price Index (End Use): Green Coffee, Cocoa Beans, and Cane Sugar",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 19,
+      "observation_start": "1982-03-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CUURA318SA0",
+      "title": "Consumer Price Index for All Urban Consumers: All Items in Houston-The Woodlands-Sugar Land, TX (CBSA)",
+      "frequency": "Monthly",
+      "units": "Index 1982-1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 19,
+      "observation_start": "1914-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "ATNHPIUS48201A",
+      "title": "All-Transactions House Price Index for Harris County, TX",
+      "frequency": "Annual",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 19,
+      "observation_start": "1975-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "CP0110EZ19M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Food for Euro Area (19 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 18,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "ATNHPIUS48015A",
+      "title": "All-Transactions House Price Index for Austin County, TX",
+      "frequency": "Annual",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 17,
+      "observation_start": "1986-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "PSUGAUSAUSDQ",
+      "title": "Global price of Sugar, No. 16, US",
+      "frequency": "Quarterly",
+      "units": "U.S. Cents per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 17,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "PCU3113133113130",
+      "title": "Producer Price Index by Industry: Beet Sugar Manufacturing: Beet Sugar",
+      "frequency": "Monthly",
+      "units": "Index Jun 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 15,
+      "observation_start": "1982-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "MEDLISPRIPERSQUFEE26420",
+      "title": "Housing Inventory: Median Listing Price per Square Feet in Houston-the Woodlands-Sugar Land, TX (CBSA)",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 14,
+      "observation_start": "2016-07-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "MEDLISPRI26420",
+      "title": "Housing Inventory: Median Listing Price in Houston-the Woodlands-Sugar Land, TX (CBSA)",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 14,
+      "observation_start": "2016-07-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3113131131",
+      "title": "Producer Price Index by Industry: Sugar Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 14,
+      "observation_start": "2003-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU31133113",
+      "title": "Producer Price Index by Industry: Sugar and Confectionery Product Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 11,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

@@ -1,0 +1,17 @@
+{
+  "id": "DCOILBRENTEU",
+  "realtime_start": "2025-09-17",
+  "realtime_end": "2025-09-17",
+  "title": "Crude Oil Prices: Brent - Europe",
+  "observation_start": "1987-05-20",
+  "observation_end": "2025-09-15",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Dollars per Barrel",
+  "units_short": "$ per Barrel",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2025-09-17 12:15:02-05",
+  "popularity": "73",
+  "notes": "Definitions, Sources and Explanatory Notes (http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp)"
+}

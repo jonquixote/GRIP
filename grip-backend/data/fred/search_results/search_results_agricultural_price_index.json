@@ -1,0 +1,208 @@
+{
+  "search_term": "agricultural price index",
+  "collected_at": "2025-09-19T10:05:10.387335",
+  "series": [
+    {
+      "id": "WPU01190102",
+      "title": "Producer Price Index by Commodity: Farm Products: Almonds",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 48,
+      "observation_start": "1991-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01190106",
+      "title": "Producer Price Index by Commodity: Farm Products: Pistachios",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 46,
+      "observation_start": "1991-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU0131",
+      "title": "Producer Price Index by Commodity: Farm Products: Slaughter Cattle",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 45,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "OBMMIUSDA30YF",
+      "title": "30-Year Fixed Rate USDA Mortgage Index",
+      "frequency": "Daily",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 45,
+      "observation_start": "2017-01-03",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "WPU01110205",
+      "title": "Producer Price Index by Commodity: Farm Products: Avocados",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 44,
+      "observation_start": "1991-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01",
+      "title": "Producer Price Index by Commodity: Farm Products",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 40,
+      "observation_start": "1913-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPS012202",
+      "title": "Producer Price Index by Commodity: Farm Products: Corn",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 39,
+      "observation_start": "1975-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01830111",
+      "title": "Producer Price Index by Commodity: Farm Products: Peanuts",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 36,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01830171",
+      "title": "Producer Price Index by Commodity: Farm Products: Canola",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 35,
+      "observation_start": "2011-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01830131",
+      "title": "Producer Price Index by Commodity: Farm Products: Soybeans",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 34,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01130603",
+      "title": "Producer Price Index by Commodity: Farm Products: Russet Potatoes",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 34,
+      "observation_start": "1991-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU111",
+      "title": "Producer Price Index by Commodity: Machinery and Equipment: Agricultural Machinery and Equipment",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 33,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU017107",
+      "title": "Producer Price Index by Commodity: Farm Products: Eggs for Fresh Use",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 33,
+      "observation_start": "1991-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01130217",
+      "title": "Producer Price Index by Commodity: Farm Products: Tomatoes",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 33,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU0121",
+      "title": "Producer Price Index by Commodity: Farm Products: Wheat",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 33,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3253203253201",
+      "title": "Producer Price Index by Industry: Pesticide and Other Agricultural Chemical Manufacturing: Agricultural and Commercial Pesticides and Chemicals",
+      "frequency": "Monthly",
+      "units": "Index Jun 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 32,
+      "observation_start": "2003-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU012",
+      "title": "Producer Price Index by Commodity: Farm Products: Grains",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 30,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU011306",
+      "title": "Producer Price Index by Commodity: Farm Products: Potatoes",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 29,
+      "observation_start": "2011-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01190104",
+      "title": "Producer Price Index by Commodity: Farm Products: Walnuts",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 29,
+      "observation_start": "1991-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPS0131",
+      "title": "Producer Price Index by Commodity: Farm Products: Slaughter Cattle",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 29,
+      "observation_start": "1967-01-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

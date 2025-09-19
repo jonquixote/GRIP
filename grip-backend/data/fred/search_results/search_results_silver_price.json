@@ -1,0 +1,188 @@
+{
+  "search_term": "silver price",
+  "collected_at": "2025-09-19T10:01:24.201499",
+  "series": [
+    {
+      "id": "PCU2122212122210",
+      "title": "Producer Price Index by Industry: Gold Ore and Silver Ore Mining: Gold Ores",
+      "frequency": "Monthly",
+      "units": "Index Jun 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 59,
+      "observation_start": "1985-06-01",
+      "observation_end": "2017-12-01"
+    },
+    {
+      "id": "PCU2122221222",
+      "title": "Producer Price Index by Industry: Gold Ore and Silver Ore Mining",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 23,
+      "observation_start": "1984-12-01",
+      "observation_end": "2018-08-01"
+    },
+    {
+      "id": "A04018GB00LONA286NNBR",
+      "title": "Price of Bar Silver for London, Great Britain",
+      "frequency": "Annual",
+      "units": "Dollars per Fine Ounce",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 22,
+      "observation_start": "1833-01-01",
+      "observation_end": "1933-01-01"
+    },
+    {
+      "id": "IP7106",
+      "title": "Import Price Index (Harmonized System): Silver (Including Silver Plated with Gold or Platinum), Unwrought or in Semimanufactured Forms, or in Powder Form",
+      "frequency": "Monthly",
+      "units": "Index Dec 2021=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 14,
+      "observation_start": "2021-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "NASDAQQSLVO",
+      "title": "Credit Suisse NASDAQ Silver FLOWS106 Price Index",
+      "frequency": "Daily",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "2013-02-28",
+      "observation_end": "2025-09-18"
+    },
+    {
+      "id": "VXSLVCLS",
+      "title": "CBOE Silver ETF Volatility Index (DISCONTINUED)",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "2011-03-16",
+      "observation_end": "2022-02-11"
+    },
+    {
+      "id": "ATNHPIUS43524Q",
+      "title": "All-Transactions House Price Index for Silver Spring-Frederick-Rockville, MD (MSAD) (DISCONTINUED)",
+      "frequency": "Quarterly",
+      "units": "Index 1995:Q1=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "1976-04-01",
+      "observation_end": "2018-07-01"
+    },
+    {
+      "id": "IM681",
+      "title": "Import Price Index (SITC): Silver, platinum and other platinum group metals (DISCONTINUED)",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1995-01-01",
+      "observation_end": "2005-12-01"
+    },
+    {
+      "id": "PCU3259923259923",
+      "title": "Producer Price Index by Industry: Photographic Film and Chemical Manufacturing: Photographic Sensitized Film, Plates, Etc., Not Silver Halide Type (DISCONTINUED)",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2003-12-01",
+      "observation_end": "2007-04-01"
+    },
+    {
+      "id": "AVELISPRI15580",
+      "title": "Housing Inventory: Average Listing Price in Butte-Silver Bow, MT (CBSA)",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2016-07-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "ATNHPIUS30093A",
+      "title": "All-Transactions House Price Index for Silver Bow County, MT",
+      "frequency": "Annual",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "1991-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "PRIINCCOU43500",
+      "title": "Housing Inventory: Price Increased Count in Silver City, NM (CBSA)",
+      "frequency": "Monthly",
+      "units": "Level",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2016-07-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "AVELISPRIYY15580",
+      "title": "Housing Inventory: Average Listing Price Year-Over-Year in Butte-Silver Bow, MT (CBSA)",
+      "frequency": "Monthly",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2017-07-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU325992325992T1",
+      "title": "Producer Price Index by Industry: Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing: Photographic Sensitized Film, Plates, Paper, and Cloth, Silver-Halide-Type (Excluding X-Ray)",
+      "frequency": "Monthly",
+      "units": "Index Jan 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2000-01-01",
+      "observation_end": "2024-09-01"
+    },
+    {
+      "id": "MEDLISPRIPERSQUFEE15580",
+      "title": "Housing Inventory: Median Listing Price per Square Feet in Butte-Silver Bow, MT (CBSA)",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2016-07-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU1542060121",
+      "title": "Producer Price Index by Commodity: Miscellaneous Products: Photographic Sensitized Film, Plates, Paper, and Cloth, Silver-Halide-Type (Excluding X-Ray)",
+      "frequency": "Monthly",
+      "units": "Index Dec 2007=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2007-12-01",
+      "observation_end": "2024-09-01"
+    },
+    {
+      "id": "WPU1542060122",
+      "title": "Producer Price Index by Commodity: Miscellaneous Products: Photographic Sensitized Film, Plates, Paper and Cloth, Other Than Silver-Halide-Type (Including X-Ray)",
+      "frequency": "Monthly",
+      "units": "Index Dec 2007=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2007-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3259923259921",
+      "title": "Producer Price Index by Industry: Photographic Film and Chemical Manufacturing: Photographic Sensitized Film, Plates, Etc., Silver Halide Type (DISCONTINUED)",
+      "frequency": "Monthly",
+      "units": "Index Jan 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2000-01-01",
+      "observation_end": "2007-06-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 18
+}

@@ -1,0 +1,711 @@
+{
+  "total_commodities": 83,
+  "successful_collections": [
+    {
+      "name": "Gold",
+      "url_name": "gold",
+      "category": "Precious Metals",
+      "records": 420,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/gold_data_1996_2025.json"
+    },
+    {
+      "name": "Silver",
+      "url_name": "silver",
+      "category": "Precious Metals",
+      "records": 298,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/silver_data_1996_2025.json"
+    },
+    {
+      "name": "Copper",
+      "url_name": "copper",
+      "category": "Base Metals",
+      "records": 418,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/copper_data_1996_2025.json"
+    },
+    {
+      "name": "Aluminum",
+      "url_name": "aluminum",
+      "category": "Base Metals",
+      "records": 422,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/aluminum_data_1996_2025.json"
+    },
+    {
+      "name": "Lead",
+      "url_name": "lead",
+      "category": "Base Metals",
+      "records": 381,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/lead_data_1996_2025.json"
+    },
+    {
+      "name": "Zinc",
+      "url_name": "zinc",
+      "category": "Base Metals",
+      "records": 230,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/zinc_data_1996_2025.json"
+    },
+    {
+      "name": "Nickel",
+      "url_name": "nickel",
+      "category": "Base Metals",
+      "records": 465,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/nickel_data_1996_2025.json"
+    },
+    {
+      "name": "Tin",
+      "url_name": "tin",
+      "category": "Base Metals",
+      "records": 400,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/tin_data_1996_2025.json"
+    },
+    {
+      "name": "Cobalt",
+      "url_name": "cobalt",
+      "category": "Critical Minerals",
+      "records": 327,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/cobalt_data_1996_2025.json"
+    },
+    {
+      "name": "Lithium",
+      "url_name": "lithium",
+      "category": "Critical Minerals",
+      "records": 274,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/lithium_data_1996_2025.json"
+    },
+    {
+      "name": "Graphite",
+      "url_name": "graphite",
+      "category": "Critical Minerals",
+      "records": 343,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/graphite_data_1996_2025.json"
+    },
+    {
+      "name": "Tungsten",
+      "url_name": "tungsten",
+      "category": "Critical Minerals",
+      "records": 340,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/tungsten_data_1996_2025.json"
+    },
+    {
+      "name": "Titanium",
+      "url_name": "titanium",
+      "category": "Critical Minerals",
+      "records": 137,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/titanium_data_1996_2025.json"
+    },
+    {
+      "name": "Platinum",
+      "url_name": "platinum",
+      "category": "Precious Metals",
+      "records": 805,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/platinum_data_1996_2025.json"
+    },
+    {
+      "name": "Palladium",
+      "url_name": "platinum",
+      "category": "Precious Metals",
+      "records": 805,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/platinum_data_1996_2025.json"
+    },
+    {
+      "name": "Rhodium",
+      "url_name": "platinum",
+      "category": "Precious Metals",
+      "records": 805,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/platinum_data_1996_2025.json"
+    },
+    {
+      "name": "Iridium",
+      "url_name": "platinum",
+      "category": "Precious Metals",
+      "records": 771,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/platinum_data_1996_2025.json"
+    },
+    {
+      "name": "Osmium",
+      "url_name": "platinum",
+      "category": "Precious Metals",
+      "records": 805,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/platinum_data_1996_2025.json"
+    },
+    {
+      "name": "Ruthenium",
+      "url_name": "platinum",
+      "category": "Precious Metals",
+      "records": 805,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/platinum_data_1996_2025.json"
+    },
+    {
+      "name": "Rare Earths",
+      "url_name": "rare_earths",
+      "category": "Critical Minerals",
+      "records": 9,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/rare_earths_data_1996_2025.json"
+    },
+    {
+      "name": "Indium",
+      "url_name": "indium",
+      "category": "Technology Minerals",
+      "records": 272,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/indium_data_1996_2025.json"
+    },
+    {
+      "name": "Gallium",
+      "url_name": "gallium",
+      "category": "Technology Minerals",
+      "records": 55,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/gallium_data_1996_2025.json"
+    },
+    {
+      "name": "Germanium",
+      "url_name": "germanium",
+      "category": "Technology Minerals",
+      "records": 91,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/germanium_data_1996_2025.json"
+    },
+    {
+      "name": "Silicon",
+      "url_name": "silicon",
+      "category": "Technology Minerals",
+      "records": 103,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/silicon_data_1996_2025.json"
+    },
+    {
+      "name": "Antimony",
+      "url_name": "antimony",
+      "category": "Technology Minerals",
+      "records": 293,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/antimony_data_1996_2025.json"
+    },
+    {
+      "name": "Bismuth",
+      "url_name": "bismuth",
+      "category": "Technology Minerals",
+      "records": 237,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/bismuth_data_1996_2025.json"
+    },
+    {
+      "name": "Tantalum",
+      "url_name": "tantalum",
+      "category": "Technology Minerals",
+      "records": 79,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/tantalum_data_1996_2025.json"
+    },
+    {
+      "name": "Niobium",
+      "url_name": "niobium",
+      "category": "Technology Minerals",
+      "records": 63,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/niobium_data_1996_2025.json"
+    },
+    {
+      "name": "Vanadium",
+      "url_name": "vanadium",
+      "category": "Technology Minerals",
+      "records": 161,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/vanadium_data_1996_2025.json"
+    },
+    {
+      "name": "Molybdenum",
+      "url_name": "molybdenum",
+      "category": "Technology Minerals",
+      "records": 413,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/molybdenum_data_1996_2025.json"
+    },
+    {
+      "name": "Chromium",
+      "url_name": "chromium",
+      "category": "Technology Minerals",
+      "records": 228,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/chromium_data_1996_2025.json"
+    },
+    {
+      "name": "Manganese",
+      "url_name": "manganese",
+      "category": "Technology Minerals",
+      "records": 267,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/manganese_data_1996_2025.json"
+    },
+    {
+      "name": "Iron Ore",
+      "url_name": "iron_ore",
+      "category": "Base Metals",
+      "records": 137,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/iron_ore_data_1996_2025.json"
+    },
+    {
+      "name": "Steel",
+      "url_name": "iron_and_steel",
+      "category": "Base Metals",
+      "records": 373,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/iron_and_steel_data_1996_2025.json"
+    },
+    {
+      "name": "Magnesium",
+      "url_name": "magnesium",
+      "category": "Light Metals",
+      "records": 73,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/magnesium_data_1996_2025.json"
+    },
+    {
+      "name": "Phosphate",
+      "url_name": "phosphate_rock",
+      "category": "Fertilizer Minerals",
+      "records": 327,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/phosphate_rock_data_1996_2025.json"
+    },
+    {
+      "name": "Potash",
+      "url_name": "potash",
+      "category": "Fertilizer Minerals",
+      "records": 217,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/potash_data_1996_2025.json"
+    },
+    {
+      "name": "Sulfur",
+      "url_name": "sulfur",
+      "category": "Industrial Minerals",
+      "records": 390,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/sulfur_data_1996_2025.json"
+    },
+    {
+      "name": "Salt",
+      "url_name": "salt",
+      "category": "Industrial Minerals",
+      "records": 303,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/salt_data_1996_2025.json"
+    },
+    {
+      "name": "Fluorspar",
+      "url_name": "fluorspar",
+      "category": "Industrial Minerals",
+      "records": 349,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/fluorspar_data_1996_2025.json"
+    },
+    {
+      "name": "Boron",
+      "url_name": "boron",
+      "category": "Industrial Minerals",
+      "records": 139,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/boron_data_1996_2025.json"
+    },
+    {
+      "name": "Barite",
+      "url_name": "barite",
+      "category": "Industrial Minerals",
+      "records": 497,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/barite_data_1996_2025.json"
+    },
+    {
+      "name": "Diamond",
+      "url_name": "diamond",
+      "category": "Industrial Minerals",
+      "records": 233,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/diamond_data_1996_2025.json"
+    },
+    {
+      "name": "Diatomite",
+      "url_name": "diatomite",
+      "category": "Industrial Minerals",
+      "records": 405,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/diatomite_data_1996_2025.json"
+    },
+    {
+      "name": "Gypsum",
+      "url_name": "gypsum",
+      "category": "Construction Materials",
+      "records": 632,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/gypsum_data_1996_2025.json"
+    },
+    {
+      "name": "Feldspar",
+      "url_name": "feldspar",
+      "category": "Industrial Minerals",
+      "records": 615,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/feldspar_data_1996_2025.json"
+    },
+    {
+      "name": "Mica",
+      "url_name": "mica",
+      "category": "Industrial Minerals",
+      "records": 193,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/mica_data_1996_2025.json"
+    },
+    {
+      "name": "Vermiculite",
+      "url_name": "vermiculite",
+      "category": "Industrial Minerals",
+      "records": 229,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/vermiculite_data_1996_2025.json"
+    },
+    {
+      "name": "Talc",
+      "url_name": "talc",
+      "category": "Industrial Minerals",
+      "records": 236,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/talc_data_1996_2025.json"
+    },
+    {
+      "name": "Talc",
+      "url_name": "talc",
+      "category": "Industrial Minerals",
+      "records": 236,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/talc_data_1996_2025.json"
+    },
+    {
+      "name": "Asbestos",
+      "url_name": "asbestos",
+      "category": "Industrial Minerals",
+      "records": 224,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/asbestos_data_1996_2025.json"
+    },
+    {
+      "name": "Arsenic",
+      "url_name": "arsenic",
+      "category": "Technology Minerals",
+      "records": 116,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/arsenic_data_1996_2025.json"
+    },
+    {
+      "name": "Cadmium",
+      "url_name": "cadmium",
+      "category": "Technology Minerals",
+      "records": 379,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/cadmium_data_1996_2025.json"
+    },
+    {
+      "name": "Mercury",
+      "url_name": "mercury",
+      "category": "Technology Minerals",
+      "records": 177,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/mercury_data_1996_2025.json"
+    },
+    {
+      "name": "Selenium",
+      "url_name": "selenium",
+      "category": "Technology Minerals",
+      "records": 243,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/selenium_data_1996_2025.json"
+    },
+    {
+      "name": "Tellurium",
+      "url_name": "tellurium",
+      "category": "Technology Minerals",
+      "records": 59,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/tellurium_data_1996_2025.json"
+    },
+    {
+      "name": "Thallium",
+      "url_name": "thallium",
+      "category": "Technology Minerals",
+      "records": 45,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/thallium_data_1996_2025.json"
+    },
+    {
+      "name": "Thorium",
+      "url_name": "thorium",
+      "category": "Energy Minerals",
+      "records": 60,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/thorium_data_1996_2025.json"
+    },
+    {
+      "name": "Helium",
+      "url_name": "helium",
+      "category": "Energy Minerals",
+      "records": 136,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/helium_data_1996_2025.json"
+    },
+    {
+      "name": "Bromine",
+      "url_name": "bromine",
+      "category": "Chemical Minerals",
+      "records": 331,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/bromine_data_1996_2025.json"
+    },
+    {
+      "name": "Iodine",
+      "url_name": "iodine",
+      "category": "Chemical Minerals",
+      "records": 227,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/iodine_data_1996_2025.json"
+    },
+    {
+      "name": "Kyanite",
+      "url_name": "kyanite",
+      "category": "Industrial Minerals",
+      "records": 165,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/kyanite_data_1996_2025.json"
+    },
+    {
+      "name": "Andalusite",
+      "url_name": "kyanite",
+      "category": "Industrial Minerals",
+      "records": 165,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/kyanite_data_1996_2025.json"
+    },
+    {
+      "name": "Sillimanite",
+      "url_name": "kyanite",
+      "category": "Industrial Minerals",
+      "records": 165,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/kyanite_data_1996_2025.json"
+    },
+    {
+      "name": "Garnet",
+      "url_name": "garnet",
+      "category": "Abrasive Minerals",
+      "records": 190,
+      "file": "/Users/johnny/Code/GRIP/grip-backend/data/usgs/garnet_data_1996_2025.json"
+    }
+  ],
+  "failed_collections": [
+    {
+      "name": "Uranium",
+      "url_name": "uranium",
+      "category": "Energy Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Calcium",
+      "url_name": "calcium",
+      "category": "Industrial Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Bauxite",
+      "url_name": "bauxite",
+      "category": "Industrial Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Limestone",
+      "url_name": "limestone",
+      "category": "Construction Materials",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Sand and Gravel",
+      "url_name": "sand_gravel",
+      "category": "Construction Materials",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Crushed Stone",
+      "url_name": "stone_crushed",
+      "category": "Construction Materials",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Dimension Stone",
+      "url_name": "stone_dimension",
+      "category": "Construction Materials",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Clay",
+      "url_name": "clay",
+      "category": "Industrial Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Kaolin",
+      "url_name": "kaolin",
+      "category": "Industrial Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Bentonite",
+      "url_name": "bentonite",
+      "category": "Industrial Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Perlite",
+      "url_name": "perlite",
+      "category": "Industrial Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Sodium Sulfate",
+      "url_name": "sodium-sulfate",
+      "category": "Chemical Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Soda Ash",
+      "url_name": "soda_ash",
+      "category": "Chemical Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Zeolites",
+      "url_name": "zeolites",
+      "category": "Industrial Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Wollastonite",
+      "url_name": "wollastonite",
+      "category": "Industrial Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Corundum",
+      "url_name": "corundum",
+      "category": "Abrasive Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Emery",
+      "url_name": "emery",
+      "category": "Abrasive Minerals",
+      "records": 0,
+      "error": "No data collected"
+    },
+    {
+      "name": "Sandpaper",
+      "url_name": "sandpaper",
+      "category": "Abrasive Minerals",
+      "records": 0,
+      "error": "No data collected"
+    }
+  ],
+  "total_records": 19788,
+  "by_category": {
+    "Precious Metals": {
+      "commodities": [
+        "Gold",
+        "Silver",
+        "Platinum",
+        "Palladium",
+        "Rhodium",
+        "Iridium",
+        "Osmium",
+        "Ruthenium"
+      ],
+      "total_records": 5514
+    },
+    "Industrial Minerals": {
+      "commodities": [
+        "Sulfur",
+        "Salt",
+        "Fluorspar",
+        "Boron",
+        "Barite",
+        "Diamond",
+        "Diatomite",
+        "Feldspar",
+        "Mica",
+        "Vermiculite",
+        "Talc",
+        "Talc",
+        "Asbestos",
+        "Kyanite",
+        "Andalusite",
+        "Sillimanite"
+      ],
+      "total_records": 4544
+    },
+    "Technology Minerals": {
+      "commodities": [
+        "Indium",
+        "Gallium",
+        "Germanium",
+        "Silicon",
+        "Antimony",
+        "Bismuth",
+        "Tantalum",
+        "Niobium",
+        "Vanadium",
+        "Molybdenum",
+        "Chromium",
+        "Manganese",
+        "Arsenic",
+        "Cadmium",
+        "Mercury",
+        "Selenium",
+        "Tellurium",
+        "Thallium"
+      ],
+      "total_records": 3281
+    },
+    "Base Metals": {
+      "commodities": [
+        "Copper",
+        "Aluminum",
+        "Lead",
+        "Zinc",
+        "Nickel",
+        "Tin",
+        "Iron Ore",
+        "Steel"
+      ],
+      "total_records": 2826
+    },
+    "Critical Minerals": {
+      "commodities": [
+        "Cobalt",
+        "Lithium",
+        "Graphite",
+        "Tungsten",
+        "Titanium",
+        "Rare Earths"
+      ],
+      "total_records": 1430
+    },
+    "Construction Materials": {
+      "commodities": [
+        "Gypsum"
+      ],
+      "total_records": 632
+    },
+    "Chemical Minerals": {
+      "commodities": [
+        "Bromine",
+        "Iodine"
+      ],
+      "total_records": 558
+    },
+    "Fertilizer Minerals": {
+      "commodities": [
+        "Phosphate",
+        "Potash"
+      ],
+      "total_records": 544
+    },
+    "Energy Minerals": {
+      "commodities": [
+        "Thorium",
+        "Helium"
+      ],
+      "total_records": 196
+    },
+    "Abrasive Minerals": {
+      "commodities": [
+        "Garnet"
+      ],
+      "total_records": 190
+    },
+    "Light Metals": {
+      "commodities": [
+        "Magnesium"
+      ],
+      "total_records": 73
+    }
+  }
+}

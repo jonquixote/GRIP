@@ -1,0 +1,3859 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "2025-06-01",
+      "price": 1973.85619047619,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 1956.71227272727,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 1905.74909090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 2030.88285714286,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 1957.07,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 1921.51782608696,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 1987.91090909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 1987.52619047619,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 2033.99608695652,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 2002.73571428571,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 1999.11181818182,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 2106.93782608696,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-06-01",
+      "price": 2147.1015,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-05-01",
+      "price": 2220.01739130435,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 2124.96909090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-03-01",
+      "price": 2054.66666666667,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-02-01",
+      "price": 2079.82761904762,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 2087.38869565217,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-12-01",
+      "price": 2027.20285714286,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-11-01",
+      "price": 2188.45545454545,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 2131.35909090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-09-01",
+      "price": 2252.10142857143,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-08-01",
+      "price": 2154.61434782609,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 2109.1219047619,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-06-01",
+      "price": 2122.88636363636,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 2088.27304347826,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 2144.8615,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-03-01",
+      "price": 2115.17826086957,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-02-01",
+      "price": 2093.0625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 2207.40318181818,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-12-01",
+      "price": 2226.11363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-11-01",
+      "price": 2099.99272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 1999.86047619048,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-09-01",
+      "price": 1870.10136363636,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 2068.84391304348,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 1985.19619047619,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-06-01",
+      "price": 2075.15954545455,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-05-01",
+      "price": 2147.77772727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 2386.10857142857,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-03-01",
+      "price": 2344.83565217391,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-02-01",
+      "price": 2296.8605,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 2331.8495,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-12-01",
+      "price": 2301.69,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 2329.97727272727,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 2344.83238095238,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-09-01",
+      "price": 2248.29772727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-08-01",
+      "price": 2414.46761904762,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 2337.51363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-06-01",
+      "price": 2191.02909090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-05-01",
+      "price": 2182.5345,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 2011.919,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 1948.00043478261,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 2080.1125,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 2014.7255,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-12-01",
+      "price": 2020.46904761905,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-11-01",
+      "price": 1915.62380952381,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 1776.265,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-09-01",
+      "price": 1872.91181818182,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-08-01",
+      "price": 1936.27,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 1817.92608695652,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 1744.84318181818,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-05-01",
+      "price": 1626.33526315789,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 1657.546,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-03-01",
+      "price": 1734.44136363636,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-02-01",
+      "price": 1872.5375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 1923.93181818182,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-12-01",
+      "price": 1900.5375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-11-01",
+      "price": 2021.15476190476,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 2184.08695652174,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-09-01",
+      "price": 2071.84523809524,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-08-01",
+      "price": 2044.54761904762,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 1975.64130434783,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-06-01",
+      "price": 1899.7,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-05-01",
+      "price": 1815.19047619048,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 1938.9875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-03-01",
+      "price": 2046.46428571429,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-02-01",
+      "price": 2062.7875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 1997.13636363636,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-12-01",
+      "price": 1972.31578947368,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-11-01",
+      "price": 1937.11363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 1987.55434782609,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-09-01",
+      "price": 2022.9125,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-08-01",
+      "price": 2053.53409090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 2207.02272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-06-01",
+      "price": 2436.28571428571,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-05-01",
+      "price": 2360.92857142857,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 2352.4125,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-03-01",
+      "price": 2390.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-02-01",
+      "price": 2581.0625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 2584.09090909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-12-01",
+      "price": 2509.92105263158,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-11-01",
+      "price": 2461.43181818182,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 2498.21590909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-09-01",
+      "price": 2374.39285714286,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-08-01",
+      "price": 2348.46590909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 2269.85714285714,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-06-01",
+      "price": 2132.93181818182,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 2125.10714285714,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 2220.61111111111,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-03-01",
+      "price": 2280.92391304348,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-02-01",
+      "price": 2311.5,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 2242.61904761905,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-12-01",
+      "price": 2209.8375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-11-01",
+      "price": 2180.57954545455,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 2024.4880952381,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-09-01",
+      "price": 1947.64318181818,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 1835.52272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 1834.78571428571,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-06-01",
+      "price": 1712.77272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-05-01",
+      "price": 1707.8,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 1732.27380952381,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-03-01",
+      "price": 1802.19047619048,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 1765.75,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 1646.2,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-12-01",
+      "price": 1706.58333333333,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-11-01",
+      "price": 1618.34523809524,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 1720.11363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-09-01",
+      "price": 1684.25,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-08-01",
+      "price": 1703.6,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 1763.04347826087,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 1829.5,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-05-01",
+      "price": 1991.77631578947,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 2005.3625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-03-01",
+      "price": 1792.47045454545,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-02-01",
+      "price": 1795.6625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 1843.13095238095,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 1938.10714285714,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-11-01",
+      "price": 2030.1825,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 2034.26086956522,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 2117.23863636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-08-01",
+      "price": 2236.8375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 2193.23913043478,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-06-01",
+      "price": 2106.94047619048,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-05-01",
+      "price": 2097.325,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 2087.0875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-03-01",
+      "price": 2053.08333333333,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-02-01",
+      "price": 2108.025,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 2143.17045454545,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-12-01",
+      "price": 2136.7275,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-11-01",
+      "price": 2089.55952380952,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 2115.42826086957,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-09-01",
+      "price": 2084.91904761905,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-08-01",
+      "price": 2173.08333333333,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 2047.72826086957,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-06-01",
+      "price": 2099.6875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-05-01",
+      "price": 2031.89285714286,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 2024.36904761905,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-03-01",
+      "price": 2173.35,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-02-01",
+      "price": 2365.7875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 2334.46590909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-12-01",
+      "price": 2279.80263157895,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-11-01",
+      "price": 2181.96590909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 2141.96739130435,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-09-01",
+      "price": 2177.675,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-08-01",
+      "price": 1897.77272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 1881.47727272727,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-06-01",
+      "price": 1850.95789473684,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-05-01",
+      "price": 1999.25,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 2073.64473684211,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-03-01",
+      "price": 2056.69318181818,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-02-01",
+      "price": 2121.2619047619,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 2100.21428571429,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-12-01",
+      "price": 2024.5625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-11-01",
+      "price": 1994.21590909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 1960.38095238095,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-09-01",
+      "price": 2287.67045454545,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 2393.05681818182,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 2681.02380952381,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-06-01",
+      "price": 2524.98863636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-05-01",
+      "price": 2419.6375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 2719.34722222222,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-03-01",
+      "price": 2624.02173913043,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-02-01",
+      "price": 2595.575,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 2583.975,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-12-01",
+      "price": 2413.20238095238,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 2364.97727272727,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 2383.54761904762,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-09-01",
+      "price": 2192.85227272727,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-08-01",
+      "price": 2082.79761904762,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 1843.96590909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-06-01",
+      "price": 1707.28409090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-05-01",
+      "price": 1876.78947368421,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 2272.15,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 2162.67608695652,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 2125.775,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 2352.15,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-12-01",
+      "price": 2326.26285714286,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-11-01",
+      "price": 2303.44047619048,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 2227.69318181818,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-09-01",
+      "price": 2205.47727272727,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-08-01",
+      "price": 1893.0375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 1673.97826086957,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 1667.11363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-05-01",
+      "price": 1446.68421052632,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 1393.9125,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-03-01",
+      "price": 1246.52272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-02-01",
+      "price": 1099.625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 1144.90476190476,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 968.166666666667,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-11-01",
+      "price": 1286.425,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 1494.26086956522,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 1872.30681818182,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-08-01",
+      "price": 1902.85,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 1960.04347826087,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-06-01",
+      "price": 1860.5119047619,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-05-01",
+      "price": 2216.0875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 2834.875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-03-01",
+      "price": 3012.93421052632,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-02-01",
+      "price": 3089.60714285714,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 2621.78409090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-12-01",
+      "price": 2616.08333333333,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-11-01",
+      "price": 3319.90909090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 3722.60869565217,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-09-01",
+      "price": 3228.025,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-08-01",
+      "price": 3115.19318181818,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 3072.43181818182,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-06-01",
+      "price": 2436.64285714286,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-05-01",
+      "price": 2106.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 1984.15789473684,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-03-01",
+      "price": 1908.97727272727,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-02-01",
+      "price": 1775.075,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 1664.34090909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-12-01",
+      "price": 1709.15789473684,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-11-01",
+      "price": 1626.02272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 1525.65909090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-09-01",
+      "price": 1346.52857142857,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-08-01",
+      "price": 1179.31818181818,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 1053.2619047619,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-06-01",
+      "price": 963.613636363636,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 1167.5,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 1170.55555555556,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-03-01",
+      "price": 1193.89130434783,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-02-01",
+      "price": 1267.4375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 1258.14285714286,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-12-01",
+      "price": 1120.15,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-11-01",
+      "price": 1017.84090909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 999.404761904762,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-09-01",
+      "price": 932.772727272727,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 887.420454545455,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 857.52380952381,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-06-01",
+      "price": 982.647727272727,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-05-01",
+      "price": 985.2875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 980.47619047619,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-03-01",
+      "price": 1001.69047619048,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-02-01",
+      "price": 972.975,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 954.225,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-12-01",
+      "price": 972.333333333333,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 966.306818181818,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 932.857142857143,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-09-01",
+      "price": 932.159090909091,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-08-01",
+      "price": 916.619047619048,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 931.340909090909,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-06-01",
+      "price": 863.727272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-05-01",
+      "price": 804.092105263158,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 747.025,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 878.141304347826,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-02-01",
+      "price": 885.1525,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 753.559523809524,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 690.107142857143,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-11-01",
+      "price": 622.6625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 587.434782608696,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 520.961363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-08-01",
+      "price": 493.7575,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 513.336956521739,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-06-01",
+      "price": 467.654761904762,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-05-01",
+      "price": 462.325,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 438.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-03-01",
+      "price": 454.709523809524,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-02-01",
+      "price": 474.5125,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 444.825,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-12-01",
+      "price": 441.209523809524,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-11-01",
+      "price": 441.442857142857,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 418.247826086957,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-09-01",
+      "price": 420.542857142857,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-08-01",
+      "price": 424.333333333333,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 446.026086956522,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-06-01",
+      "price": 439.983333333333,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-05-01",
+      "price": 450.386363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 472.090476190476,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-03-01",
+      "price": 480.675,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-02-01",
+      "price": 480.925,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 511.086363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-12-01",
+      "price": 482.905882352941,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-11-01",
+      "price": 486.713636363636,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 468.582608695652,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-09-01",
+      "price": 464.805,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-08-01",
+      "price": 483.627272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 462.154545454545,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-06-01",
+      "price": 444.733333333333,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-05-01",
+      "price": 466.076190476191,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 477.588888888889,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-03-01",
+      "price": 498.845454545455,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-02-01",
+      "price": 501.71,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 478.536363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-12-01",
+      "price": 463.53,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-11-01",
+      "price": 465.877272727273,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 484.786363636364,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-09-01",
+      "price": 488.047619047619,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-08-01",
+      "price": 472.573913043478,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 453.104761904762,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-06-01",
+      "price": 419.554545454545,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 412.608695652174,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 423.02,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-03-01",
+      "price": 441.84,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-02-01",
+      "price": 453.25,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 471.875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-12-01",
+      "price": 478.735294117647,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-11-01",
+      "price": 477.568181818182,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 496.404761904762,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-09-01",
+      "price": 506.5,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-08-01",
+      "price": 502.238095238095,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 495.113636363636,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-06-01",
+      "price": 495.454545454545,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-05-01",
+      "price": 540.710526315789,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 517.075,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-03-01",
+      "price": 506.795454545455,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-02-01",
+      "price": 512.95,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 491.625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-12-01",
+      "price": 500.605255126953,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-11-01",
+      "price": 493.024993896484,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 493.204559326172,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-09-01",
+      "price": 519.454528808594,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-08-01",
+      "price": 526.849975585938,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 543.642883300781,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-06-01",
+      "price": 526.476196289063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-05-01",
+      "price": 542.73681640625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 571.775024414063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-03-01",
+      "price": 558.977294921875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-02-01",
+      "price": 515.625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 530.650024414063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-12-01",
+      "price": 525.738098144531,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-11-01",
+      "price": 562.599975585938,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 598.195678710938,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-09-01",
+      "price": 632.880981445313,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-08-01",
+      "price": 607.375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 633.5,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-06-01",
+      "price": 614.047607421875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-05-01",
+      "price": 617.849975585938,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 641.613647460938,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-03-01",
+      "price": 693.552612304688,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-02-01",
+      "price": 657.894714355469,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 691.522705078125,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-12-01",
+      "price": 689.357116699219,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-11-01",
+      "price": 720.285705566406,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 741.065246582031,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-09-01",
+      "price": 794.261901855469,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-08-01",
+      "price": 816.166687011719,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 783.782592773438,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-06-01",
+      "price": 796.575012207031,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-05-01",
+      "price": 840.976196289063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 812.025024414063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-03-01",
+      "price": 816.700012207031,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-02-01",
+      "price": 768.428588867188,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 709.880981445313,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-12-01",
+      "price": 728.026306152344,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-11-01",
+      "price": 710.5,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 639.386352539063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-09-01",
+      "price": 591.25,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-08-01",
+      "price": 623.386352539063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 622.400024414063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-06-01",
+      "price": 610.272705078125,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-05-01",
+      "price": 595.880981445313,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 605.777770996094,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-03-01",
+      "price": 582.04345703125,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-02-01",
+      "price": 577.799987792969,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 664.809509277344,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-12-01",
+      "price": 634.375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-11-01",
+      "price": 679.321044921875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 640.642883300781,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-09-01",
+      "price": 612.954528808594,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-08-01",
+      "price": 570.568176269531,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 579.047607421875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-06-01",
+      "price": 524.477294921875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-05-01",
+      "price": 475.857147216797,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 440.421051025391,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-03-01",
+      "price": 451.086944580078,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-02-01",
+      "price": 484.450012207031,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 491.404754638672,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-12-01",
+      "price": 460.375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-11-01",
+      "price": 401.636352539063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 386.071441650391,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-09-01",
+      "price": 376.340911865234,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-08-01",
+      "price": 389.880950927734,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 389.636352539063,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-06-01",
+      "price": 397.061309814453,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-05-01",
+      "price": 407.657562255859,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 422.113708496094,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-03-01",
+      "price": 405.427062988281,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-02-01",
+      "price": 415.000946044922,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 436.901947021484,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-12-01",
+      "price": 456.697265625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-11-01",
+      "price": 462.054107666016,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 540.45263671875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-09-01",
+      "price": 624.83984375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-08-01",
+      "price": 655.278076171875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 633.2509765625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-06-01",
+      "price": 551.019287109375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-05-01",
+      "price": 520.75,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 533.256103515625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-03-01",
+      "price": 523.1494140625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-02-01",
+      "price": 505.746032714844,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 515.671875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-12-01",
+      "price": 531.3681640625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-11-01",
+      "price": 506.241180419922,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 522.19873046875,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-09-01",
+      "price": 538.94970703125,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-08-01",
+      "price": 541.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 549.590087890625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-06-01",
+      "price": 549.43994140625,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-05-01",
+      "price": 559.820068359375,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 600.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-03-01",
+      "price": 602.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-02-01",
+      "price": 593.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 600.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-12-01",
+      "price": 624.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-11-01",
+      "price": 700.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 760.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-09-01",
+      "price": 838.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-08-01",
+      "price": 875.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 875.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-06-01",
+      "price": 837.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-05-01",
+      "price": 825.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 835.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-03-01",
+      "price": 1059.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-02-01",
+      "price": 779.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-01-01",
+      "price": 707.0,
+      "commodity": "lead",
+      "source": "FRED",
+      "series_id": "PLEADUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    }
+  ],
+  "series_id": "PLEADUSDM",
+  "count": 426,
+  "commodity": "lead",
+  "series_info": {
+    "id": "PLEADUSDM",
+    "realtime_start": "2025-09-16",
+    "realtime_end": "2025-09-16",
+    "title": "Global price of Lead",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "U.S. Dollars per Metric Ton",
+    "units_short": "U.S. $ per Metric Ton",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:11-05",
+    "popularity": 48,
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

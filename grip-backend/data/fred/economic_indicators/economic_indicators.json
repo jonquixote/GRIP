@@ -1,0 +1,272 @@
+{
+  "collected_at": "2025-09-19T11:21:35.862999",
+  "indicators": {
+    "GDP": {
+      "value": 23703.782,
+      "date": "2025-04-01",
+      "series_id": "GDPC1"
+    },
+    "GDP_Growth": {
+      "value": 3.3,
+      "date": "2025-04-01",
+      "series_id": "A191RL1Q225SBEA"
+    },
+    "Nominal_GDP": {
+      "value": 30353.902,
+      "date": "2025-04-01",
+      "series_id": "GDP"
+    },
+    "CPI": {
+      "value": 323.364,
+      "date": "2025-08-01",
+      "series_id": "CPIAUCSL"
+    },
+    "Core_CPI": {
+      "value": 329.793,
+      "date": "2025-08-01",
+      "series_id": "CPILFESL"
+    },
+    "PPI": {
+      "value": 262.443,
+      "date": "2025-08-01",
+      "series_id": "PPIACO"
+    },
+    "Industrial_Production": {
+      "value": 103.9203,
+      "date": "2025-08-01",
+      "series_id": "INDPRO"
+    },
+    "Unemployment": {
+      "value": 4.3,
+      "date": "2025-08-01",
+      "series_id": "UNRATE"
+    },
+    "Employment": {
+      "value": 159540.0,
+      "date": "2025-08-01",
+      "series_id": "PAYEMS"
+    },
+    "Manufacturing_Employment": {
+      "value": 12722.0,
+      "date": "2025-08-01",
+      "series_id": "MANEMP"
+    },
+    "Unemployment_Rate": {
+      "value": 4.3,
+      "date": "2025-08-01",
+      "series_id": "UNRATE"
+    },
+    "Labor_Force_Participation": {
+      "value": 62.3,
+      "date": "2025-08-01",
+      "series_id": "CIVPART"
+    },
+    "Average_Hourly_Earnings": {
+      "value": 36.53,
+      "date": "2025-08-01",
+      "series_id": "CES0500000003"
+    },
+    "Federal_Funds_Rate": {
+      "value": 4.33,
+      "date": "2025-08-01",
+      "series_id": "FEDFUNDS"
+    },
+    "10Y_Treasury_Rate": {
+      "value": 4.06,
+      "date": "2025-09-17",
+      "series_id": "DGS10"
+    },
+    "3M_Treasury_Rate": {
+      "value": 4.02,
+      "date": "2025-09-17",
+      "series_id": "DGS3MO"
+    },
+    "Corporate_Bond_Yield": {
+      "value": 6.0,
+      "date": "2025-08-01",
+      "series_id": "BAA"
+    },
+    "TED_Spread": {
+      "value": 0.09,
+      "date": "2022-01-21",
+      "series_id": "TEDRATE"
+    },
+    "M1_Money_Supply": {
+      "value": 18861.1,
+      "date": "2025-07-01",
+      "series_id": "M1SL"
+    },
+    "M2_Money_Supply": {
+      "value": 22115.4,
+      "date": "2025-07-01",
+      "series_id": "M2SL"
+    },
+    "M3_Money_Supply": {
+      "value": 10298.7,
+      "date": "2006-02-01",
+      "series_id": "M3SL"
+    },
+    "Dollar_Index": {
+      "value": 120.4905,
+      "date": "2025-09-12",
+      "series_id": "DTWEXBGS"
+    },
+    "Euro_USD": {
+      "value": 1.1714,
+      "date": "2025-09-12",
+      "series_id": "DEXUSEU"
+    },
+    "Yen_USD": {
+      "value": 147.85,
+      "date": "2025-09-12",
+      "series_id": "DEXJPUS"
+    },
+    "Yuan_USD": {
+      "value": 7.1242,
+      "date": "2025-09-12",
+      "series_id": "DEXCHUS"
+    },
+    "Pound_USD": {
+      "value": 1.3547,
+      "date": "2025-09-12",
+      "series_id": "DEXUSUK"
+    },
+    "Case_Shiller_Index": {
+      "value": 331.515,
+      "date": "2025-06-01",
+      "series_id": "CSUSHPINSA"
+    },
+    "Housing_Starts": {
+      "value": 1307.0,
+      "date": "2025-08-01",
+      "series_id": "HOUST"
+    },
+    "Existing_Home_Sales": {
+      "value": 4010000.0,
+      "date": "2025-07-01",
+      "series_id": "EXHOSLUSM495S"
+    },
+    "Consumer_Spending": {
+      "value": 20643.893,
+      "date": "2025-04-01",
+      "series_id": "PCEC"
+    },
+    "Retail_Sales": {
+      "value": 632490.0,
+      "date": "2025-08-01",
+      "series_id": "RSXFS"
+    },
+    "Consumer_Confidence": {
+      "value": 61.7,
+      "date": "2025-07-01",
+      "series_id": "UMCSENT"
+    },
+    "Trade_Balance": {
+      "value": -78311.0,
+      "date": "2025-07-01",
+      "series_id": "BOPGSTB"
+    },
+    "Exports": {
+      "value": 2631.134,
+      "date": "2025-04-01",
+      "series_id": "EXPGSC1"
+    },
+    "Imports": {
+      "value": 3660.09,
+      "date": "2025-04-01",
+      "series_id": "IMPGSC1"
+    },
+    "VIX": {
+      "value": 15.72,
+      "date": "2025-09-17",
+      "series_id": "VIXCLS"
+    },
+    "Inflation_Rate": {
+      "value": 2.94952520485207,
+      "date": "2024-01-01",
+      "series_id": "FPCPITOTLZGUSA"
+    },
+    "Stock_Market_Index": {
+      "value": 6631.96,
+      "date": "2025-09-18",
+      "series_id": "SP500"
+    },
+    "10Y_Breakeven_Inflation": {
+      "value": 2.38,
+      "date": "2025-09-18",
+      "series_id": "T10YIE"
+    },
+    "High_Yield_Spread": {
+      "value": 2.79,
+      "date": "2025-09-17",
+      "series_id": "BAMLH0A0HYM2"
+    },
+    "NASDAQ_Composite": {
+      "value": 22470.73,
+      "date": "2025-09-18",
+      "series_id": "NASDAQCOM"
+    },
+    "Manufacturing_PMI": {
+      "error": "Failed to get response for Manufacturing_PMI"
+    },
+    "University_of_Michigan_Inflation_Expectations": {
+      "value": 4.5,
+      "date": "2025-07-01",
+      "series_id": "MICH"
+    },
+    "House_Price_Index": {
+      "value": 703.91,
+      "date": "2025-04-01",
+      "series_id": "USSTHPI"
+    },
+    "Foreign_Direct_Investment": {
+      "error": "Failed to get response for Foreign_Direct_Investment"
+    },
+    "Capacity_Utilization": {
+      "value": 67.826,
+      "date": "2025-08-01",
+      "series_id": "CAPUTLG2211S"
+    },
+    "Business_Inventories": {
+      "error": "Failed to get response for Business_Inventories"
+    },
+    "New_Private_Housing_Permits": {
+      "value": 1312.0,
+      "date": "2025-08-01",
+      "series_id": "PERMIT"
+    },
+    "30Y_Conventional_Mortgage_Rate": {
+      "value": 6.26,
+      "date": "2025-09-18",
+      "series_id": "MORTGAGE30US"
+    },
+    "Total_Assets_of_Commercial_Banks": {
+      "value": 5060117.91,
+      "date": "2025-07-01",
+      "series_id": "TOTALSL"
+    },
+    "Job_Openings": {
+      "value": 7181.0,
+      "date": "2025-07-01",
+      "series_id": "JTSJOL"
+    },
+    "Total_Nonfarm_Payrolls": {
+      "value": 159540.0,
+      "date": "2025-08-01",
+      "series_id": "PAYEMS"
+    },
+    "Motor_Vehicle_Retail_Sales": {
+      "error": "Failed to get response for Motor_Vehicle_Retail_Sales"
+    },
+    "Restaurant_and_Bar_Sales": {
+      "error": "Failed to get response for Restaurant_and_Bar_Sales"
+    },
+    "Trade_Balance_Goods": {
+      "error": "Failed to get response for Trade_Balance_Goods"
+    },
+    "Trade_Balance_Services": {
+      "error": "Failed to get response for Trade_Balance_Services"
+    }
+  },
+  "count": 49
+}

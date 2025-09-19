@@ -1,0 +1,138 @@
+{
+  "search_term": "inflation rate",
+  "collected_at": "2025-09-19T10:05:41.731411",
+  "series": [
+    {
+      "id": "CPIAUCSL",
+      "title": "Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "Index 1982-1984=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 97,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "T10YIE",
+      "title": "10-Year Breakeven Inflation Rate",
+      "frequency": "Daily",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 88,
+      "observation_start": "2003-01-02",
+      "observation_end": "2025-09-18"
+    },
+    {
+      "id": "FPCPITOTLZGUSA",
+      "title": "Inflation, consumer prices for the United States",
+      "frequency": "Annual",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 86,
+      "observation_start": "1960-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "DFII10",
+      "title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",
+      "frequency": "Daily",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 84,
+      "observation_start": "2003-01-02",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "CPILFESL",
+      "title": "Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "Index 1982-1984=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 84,
+      "observation_start": "1957-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CORESTICKM159SFRBATL",
+      "title": "Sticky Price Consumer Price Index less Food and Energy",
+      "frequency": "Monthly",
+      "units": "Percent Change from Year Ago",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 83,
+      "observation_start": "1968-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCEPI",
+      "title": "Personal Consumption Expenditures: Chain-type Price Index",
+      "frequency": "Monthly",
+      "units": "Index 2017=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 83,
+      "observation_start": "1959-01-01",
+      "observation_end": "2025-07-01"
+    },
+    {
+      "id": "T5YIE",
+      "title": "5-Year Breakeven Inflation Rate",
+      "frequency": "Daily",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 83,
+      "observation_start": "2003-01-02",
+      "observation_end": "2025-09-18"
+    },
+    {
+      "id": "CPIAUCNS",
+      "title": "Consumer Price Index for All Urban Consumers: All Items in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "Index 1982-1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 80,
+      "observation_start": "1913-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PPIACO",
+      "title": "Producer Price Index by Commodity: All Commodities",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 79,
+      "observation_start": "1913-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCEPILFE",
+      "title": "Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)",
+      "frequency": "Monthly",
+      "units": "Index 2017=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 77,
+      "observation_start": "1959-01-01",
+      "observation_end": "2025-07-01"
+    },
+    {
+      "id": "CUSR0000SETA02",
+      "title": "Consumer Price Index for All Urban Consumers: Used Cars and Trucks in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "Index 1982-1984=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 74,
+      "observation_start": "1953-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GDPDEF",
+      "title": "Gross Domestic Product: Implicit Price Deflator",
+      "frequency": "Quarterly",
+      "units": "Index 2017=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 74,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-04-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 13
+}

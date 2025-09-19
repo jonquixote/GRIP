@@ -1,0 +1,17 @@
+{
+  "id": "DHHNGSP",
+  "realtime_start": "2025-09-18",
+  "realtime_end": "2025-09-18",
+  "title": "Henry Hub Natural Gas Spot Price",
+  "observation_start": "1997-01-07",
+  "observation_end": "2025-09-15",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Dollars per Million BTU",
+  "units_short": "$ Per Mil. BTU",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2025-09-17 12:31:02-05",
+  "popularity": 66,
+  "notes": "More information about this series can be found at http://www.eia.gov/dnav/ng/TblDefs/ng_pri_fut_tbldef2.asp"
+}

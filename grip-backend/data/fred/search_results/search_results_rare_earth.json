@@ -1,0 +1,28 @@
+{
+  "search_term": "rare earth",
+  "collected_at": "2025-09-19T03:58:29.250774",
+  "series": [
+    {
+      "id": "IP28",
+      "title": "Import Price Index (Harmonized System): Inorganic Chemicals; Organic or Inorganic Compounds of Precious Metals, of Rare-Earth Metals, of Radioactive Elements or of Isotopes",
+      "frequency": "Monthly",
+      "units": "Index Dec 2024=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 15,
+      "observation_start": "2024-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "ID28",
+      "title": "Export Price Index (Harmonized System): Inorganic Chemicals; Organic or Inorganic Compounds of Precious Metals, of Rare-Earth Metals, of Radioactive Elements or of Isotopes",
+      "frequency": "Monthly",
+      "units": "Index Jan 2025=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "2025-01-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 2,
+  "filtered_count": 2
+}

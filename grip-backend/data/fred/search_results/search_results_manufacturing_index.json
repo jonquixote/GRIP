@@ -1,0 +1,168 @@
+{
+  "search_term": "manufacturing index",
+  "collected_at": "2025-09-19T10:07:40.086245",
+  "series": [
+    {
+      "id": "PCUOMFGOMFG",
+      "title": "Producer Price Index by Industry: Total Manufacturing Industries",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 71,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU325211325211",
+      "title": "Producer Price Index by Industry: Plastics Material and Resin Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1980=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 70,
+      "observation_start": "1976-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "USSLIND",
+      "title": "Leading Index for the United States",
+      "frequency": "Monthly",
+      "units": "Percent",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 67,
+      "observation_start": "1982-01-01",
+      "observation_end": "2020-02-01"
+    },
+    {
+      "id": "PCU32733273",
+      "title": "Producer Price Index by Industry: Cement and Concrete Product Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 61,
+      "observation_start": "2003-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU33443344",
+      "title": "Producer Price Index by Industry: Semiconductor and Other Electronic Component Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 58,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "USPHCI",
+      "title": "Coincident Economic Activity Index for the United States",
+      "frequency": "Monthly",
+      "units": "Index 2007=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 57,
+      "observation_start": "1979-01-01",
+      "observation_end": "2025-07-01"
+    },
+    {
+      "id": "PCU335311335311",
+      "title": "Producer Price Index by Industry: Electric Power and Specialty Transformer Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Jun 1981=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 57,
+      "observation_start": "1967-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU325325",
+      "title": "Producer Price Index by Industry: Chemical Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 57,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU32221132221102",
+      "title": "Producer Price Index by Industry: Corrugated and Solid Fiber Box Manufacturing: Corrugated Shipping Containers for Paper and Allied Products",
+      "frequency": "Monthly",
+      "units": "Index Mar 1980=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 56,
+      "observation_start": "1980-03-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU335313335313",
+      "title": "Producer Price Index by Industry: Switchgear and Switchboard Apparatus Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Jun 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 55,
+      "observation_start": "1985-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3364133641",
+      "title": "Producer Price Index by Industry: Aerospace Product and Parts Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Jun 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 55,
+      "observation_start": "1985-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU335311335311P",
+      "title": "Producer Price Index by Industry: Electric Power and Specialty Transformer Manufacturing: Primary Products",
+      "frequency": "Monthly",
+      "units": "Index Jun 1981=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 54,
+      "observation_start": "1981-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3353133531",
+      "title": "Producer Price Index by Industry: Electrical Equipment Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 53,
+      "observation_start": "2003-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3272132721",
+      "title": "Producer Price Index by Industry: Glass and Glass Product Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 50,
+      "observation_start": "2003-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CEFDFSA066MSFRBPHI",
+      "title": "Future Capital Expenditures; Diffusion Index for Federal Reserve District 3: Philadelphia",
+      "frequency": "Monthly",
+      "units": "Index",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 49,
+      "observation_start": "1968-05-01",
+      "observation_end": "2025-09-01"
+    },
+    {
+      "id": "PCU311311",
+      "title": "Producer Price Index by Industry: Food Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 49,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 16
+}

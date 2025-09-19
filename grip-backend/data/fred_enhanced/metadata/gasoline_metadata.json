@@ -1,0 +1,17 @@
+{
+  "id": "GASREGW",
+  "realtime_start": "2025-09-19",
+  "realtime_end": "2025-09-19",
+  "title": "US Regular All Formulations Gas Price",
+  "observation_start": "1990-08-20",
+  "observation_end": "2025-09-15",
+  "frequency": "Weekly, Ending Monday",
+  "frequency_short": "W",
+  "units": "Dollars per Gallon",
+  "units_short": "$ per Gallon",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2025-09-16 09:06:18-05",
+  "popularity": "74",
+  "notes": "Weighted average based on sampling of approximately 900 retail outlets, 8:00AM Monday. The price represents self-service unless only full-service is available and includes all taxes. See (http://www.eia.doe.gov/oil_gas/petroleum/data_publications/wrgp/mogas_home_page.html) for further definitions. Regular Gasoline has an antiknock index (average of the research octane rating and the motor octane number) greater than or equal to 85 and less than 88. Octane requirements may vary by altitude."
+}

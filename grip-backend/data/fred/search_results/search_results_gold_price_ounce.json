@@ -1,0 +1,18 @@
+{
+  "search_term": "gold price ounce",
+  "collected_at": "2025-09-19T04:14:52.054034",
+  "series": [
+    {
+      "id": "A04018GB00LONA286NNBR",
+      "title": "Price of Bar Silver for London, Great Britain",
+      "frequency": "Annual",
+      "units": "Dollars per Fine Ounce",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 23,
+      "observation_start": "1833-01-01",
+      "observation_end": "1933-01-01"
+    }
+  ],
+  "total_found": 2,
+  "filtered_count": 1
+}

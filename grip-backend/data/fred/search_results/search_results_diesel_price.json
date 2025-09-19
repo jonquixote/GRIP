@@ -1,0 +1,208 @@
+{
+  "search_term": "diesel price",
+  "collected_at": "2025-09-19T05:46:35.620530",
+  "series": [
+    {
+      "id": "GASDESW",
+      "title": "US Diesel Sales Price",
+      "frequency": "Weekly, Ending Monday",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 59,
+      "observation_start": "1994-03-21",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "WPU057303",
+      "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: No. 2 Diesel Fuel",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 39,
+      "observation_start": "1973-02-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "DDFUELUSGULF",
+      "title": "Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast",
+      "frequency": "Daily",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 35,
+      "observation_start": "2006-06-14",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "WPU05730302",
+      "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: No. 2 Diesel Fuel",
+      "frequency": "Monthly",
+      "units": "Index Jun 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 24,
+      "observation_start": "1991-07-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GASDESM",
+      "title": "US Diesel Sales Price",
+      "frequency": "Monthly, End of Period",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 24,
+      "observation_start": "1994-04-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPS057303",
+      "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: No. 2 Diesel Fuel",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 24,
+      "observation_start": "1985-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3336183336183",
+      "title": "Producer Price Index by Industry: Other Engine Equipment Manufacturing: Diesel, Semidiesel, and Dual-Fuel Engines (Except Automotive)",
+      "frequency": "Monthly",
+      "units": "Index Dec 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 23,
+      "observation_start": "1975-12-01",
+      "observation_end": "2025-07-01"
+    },
+    {
+      "id": "APU000074717",
+      "title": "Average Price: Automotive Diesel Fuel (Cost per Gallon/3.785 Liters) in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 22,
+      "observation_start": "1998-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "DDFUELNYH",
+      "title": "Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor",
+      "frequency": "Daily",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "2006-06-14",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "GASDESMWW",
+      "title": "PADD II (Midwest District) Diesel Sales Price",
+      "frequency": "Weekly, Ending Monday",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 17,
+      "observation_start": "1994-03-21",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "WDFUELUSGULF",
+      "title": "Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast",
+      "frequency": "Weekly, Ending Friday",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 15,
+      "observation_start": "2006-06-16",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "GASDESLSW",
+      "title": "US Diesel Ultra Low Sulfur (0-15 ppm) Sales Price",
+      "frequency": "Weekly",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 12,
+      "observation_start": "2007-02-05",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "WDFUELLA",
+      "title": "Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles",
+      "frequency": "Weekly, Ending Friday",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 11,
+      "observation_start": "1996-04-19",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "GASDESGCW",
+      "title": "PADD III (Gulf Coast District) Diesel Sales Price",
+      "frequency": "Weekly, Ending Monday",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 9,
+      "observation_start": "1994-03-21",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "DDFUELLA",
+      "title": "Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles",
+      "frequency": "Daily",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1996-04-17",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "PCU3336183336185",
+      "title": "Producer Price Index by Industry: Other Engine Equipment Manufacturing: Diesel, Semidiesel, and Dual-Fuel Engines for Automobiles, Trucks, and Buses",
+      "frequency": "Monthly",
+      "units": "Index Dec 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1975-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "MDFUELLA",
+      "title": "Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: Los Angeles",
+      "frequency": "Monthly",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1996-04-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GASDESLSWCW",
+      "title": "PADD V (West Coast District) No 2 Diesel Ultra Low Sulfur (0-15 ppm) Sales Price",
+      "frequency": "Weekly",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "2007-02-05",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "MDFUELNYH",
+      "title": "Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: New York Harbor",
+      "frequency": "Monthly",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "2006-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU324110324110C2",
+      "title": "Producer Price Index by Industry: Petroleum Refineries: Diesel Fuel",
+      "frequency": "Monthly",
+      "units": "Index Jun 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "1985-06-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

@@ -1,0 +1,3007 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "1990-01-01",
+      "price": 1528.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-02-01",
+      "price": 1454.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-03-01",
+      "price": 1567.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 1526.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-05-01",
+      "price": 1527.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-06-01",
+      "price": 1566.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 1571.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-08-01",
+      "price": 1782.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-09-01",
+      "price": 2067.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 1946.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-11-01",
+      "price": 1618.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1990-12-01",
+      "price": 1522.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 1515.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-02-01",
+      "price": 1505.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-03-01",
+      "price": 1496.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 1392.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-05-01",
+      "price": 1299.94995117188,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-06-01",
+      "price": 1283.55004882813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 1297.54663085938,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-08-01",
+      "price": 1259.693359375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-09-01",
+      "price": 1212.09521484375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 1152.95458984375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-11-01",
+      "price": 1134.92504882813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1991-12-01",
+      "price": 1099.5263671875,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 1181.22729492188,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-02-01",
+      "price": 1270.75,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-03-01",
+      "price": 1282.02270507813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 1317.125,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-05-01",
+      "price": 1306.71069335938,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-06-01",
+      "price": 1275.27270507813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 1314.34790039063,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-08-01",
+      "price": 1305.55004882813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-09-01",
+      "price": 1270.21435546875,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 1180.84106445313,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-11-01",
+      "price": 1162.21435546875,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1992-12-01",
+      "price": 1209.02380371094,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 1208.09997558594,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-02-01",
+      "price": 1203.15002441406,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-03-01",
+      "price": 1150.47827148438,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 1110.27502441406,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-05-01",
+      "price": 1125.42102050781,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-06-01",
+      "price": 1168.09094238281,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 1203.18176269531,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-08-01",
+      "price": 1172.76196289063,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-09-01",
+      "price": 1116.90905761719,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 1089.42858886719,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-11-01",
+      "price": 1040.02270507813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1993-12-01",
+      "price": 1091.34997558594,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 1170.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-02-01",
+      "price": 1270.52502441406,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-03-01",
+      "price": 1287.69567871094,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 1277.28942871094,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-05-01",
+      "price": 1321.04760742188,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-06-01",
+      "price": 1402.36364746094,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 1491.95239257813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-08-01",
+      "price": 1457.06823730469,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-09-01",
+      "price": 1571.09094238281,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 1694.26196289063,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-11-01",
+      "price": 1885.88635253906,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1994-12-01",
+      "price": 1878.375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 2059.35717773438,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-02-01",
+      "price": 1905.44995117188,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-03-01",
+      "price": 1799.97827148438,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 1849.44445800781,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-05-01",
+      "price": 1765.47619628906,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-06-01",
+      "price": 1775.79541015625,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 1867.27502441406,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-08-01",
+      "price": 1890.04541015625,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-09-01",
+      "price": 1761.72497558594,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 1671.95458984375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-11-01",
+      "price": 1655.92858886719,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1995-12-01",
+      "price": 1657.81579589844,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 1584.47619628906,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-02-01",
+      "price": 1594.57141113281,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-03-01",
+      "price": 1614.85717773438,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 1587.40002441406,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-05-01",
+      "price": 1593.85717773438,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-06-01",
+      "price": 1485.75,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 1460.02172851563,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-08-01",
+      "price": 1466.78576660156,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-09-01",
+      "price": 1405.76196289063,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 1336.02172851563,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-11-01",
+      "price": 1451.04760742188,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1996-12-01",
+      "price": 1500.97619628906,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 1575.13635253906,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-02-01",
+      "price": 1582.05297851563,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-03-01",
+      "price": 1631.18420410156,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 1561.11364746094,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-05-01",
+      "price": 1625.44995117188,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-06-01",
+      "price": 1567.1904296875,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 1591.5869140625,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-08-01",
+      "price": 1710.02502441406,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-09-01",
+      "price": 1611.61901855469,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 1607.32604980469,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-11-01",
+      "price": 1598.32495117188,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1997-12-01",
+      "price": 1530.52380371094,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 1485.47497558594,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-02-01",
+      "price": 1465.17504882813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-03-01",
+      "price": 1438.31823730469,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 1417.55004882813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-05-01",
+      "price": 1364.31579589844,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-06-01",
+      "price": 1305.52380371094,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 1312.66662597656,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-08-01",
+      "price": 1310.55004882813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-09-01",
+      "price": 1341.88635253906,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 1303.70458984375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-11-01",
+      "price": 1295.30004882813,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1998-12-01",
+      "price": 1250.39477539063,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 1219.40002441406,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-02-01",
+      "price": 1186.475,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-03-01",
+      "price": 1179.86363636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 1277.85,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-05-01",
+      "price": 1323.13157894737,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-06-01",
+      "price": 1315.52272727273,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 1403.36363636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-08-01",
+      "price": 1421.69047619048,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-09-01",
+      "price": 1492.06818181818,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 1473.33333333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-11-01",
+      "price": 1472.43181818182,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "1999-12-01",
+      "price": 1554.73529411765,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 1679.85,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-02-01",
+      "price": 1679.425,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-03-01",
+      "price": 1579.64,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 1458.745,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 1468.0652173913,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-06-01",
+      "price": 1509.37272727273,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 1564.37619047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-08-01",
+      "price": 1530.3347826087,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-09-01",
+      "price": 1602.30952380952,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 1501.24545454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-11-01",
+      "price": 1475.55454545455,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2000-12-01",
+      "price": 1569.055,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 1619.87727272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-02-01",
+      "price": 1607.03,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-03-01",
+      "price": 1512.17272727273,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 1499.48333333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-05-01",
+      "price": 1542.39047619048,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-06-01",
+      "price": 1470.83333333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 1418.62272727273,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-08-01",
+      "price": 1377.84545454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-09-01",
+      "price": 1345.995,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 1283.53043478261,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-11-01",
+      "price": 1334.45454545455,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2001-12-01",
+      "price": 1348.72352941176,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 1371.36363636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-02-01",
+      "price": 1371.08,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-03-01",
+      "price": 1404.985,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 1370.38571428571,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-05-01",
+      "price": 1344.42727272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-06-01",
+      "price": 1356.93333333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 1337.8652173913,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-08-01",
+      "price": 1293.35714285714,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-09-01",
+      "price": 1301.7,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 1311.46086956522,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-11-01",
+      "price": 1373.26666666667,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2002-12-01",
+      "price": 1375.8619047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 1379.26818181818,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-02-01",
+      "price": 1421.535,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-03-01",
+      "price": 1386.52380952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 1334.29,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-05-01",
+      "price": 1400.3975,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-06-01",
+      "price": 1410.51666666667,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 1440.88043478261,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-08-01",
+      "price": 1457.225,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 1416.57727272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 1477.22391304348,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-11-01",
+      "price": 1511.585,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 1557.77857142857,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 1608.89285714286,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-02-01",
+      "price": 1685.225,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 1657.35434782609,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 1731.68,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-05-01",
+      "price": 1625.25,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-06-01",
+      "price": 1682.02954545455,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 1707.84090909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-08-01",
+      "price": 1692.07142857143,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-09-01",
+      "price": 1731.0,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 1830.35714285714,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 1817.34090909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2004-12-01",
+      "price": 1852.90952380952,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 1836.175,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-02-01",
+      "price": 1882.775,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-03-01",
+      "price": 1987.5,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 1891.9880952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-05-01",
+      "price": 1741.45,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-06-01",
+      "price": 1731.94318181818,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 1783.2619047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 1871.27272727273,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-09-01",
+      "price": 1837.69318181818,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 1934.14285714286,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-11-01",
+      "price": 2056.97045454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2005-12-01",
+      "price": 2250.9,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 2383.30238095238,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-02-01",
+      "price": 2453.375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-03-01",
+      "price": 2432.47826086957,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 2623.85833333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 2852.07142857143,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-06-01",
+      "price": 2490.95454545455,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 2511.83333333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-08-01",
+      "price": 2461.55227272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-09-01",
+      "price": 2484.38095238095,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 2657.14772727273,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-11-01",
+      "price": 2702.13636363636,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2006-12-01",
+      "price": 2823.67105263158,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 2799.05909090909,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-02-01",
+      "price": 2839.05,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-03-01",
+      "price": 2757.07954545455,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 2817.05263157895,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-05-01",
+      "price": 2804.60476190476,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-06-01",
+      "price": 2681.30952380952,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 2738.09090909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-08-01",
+      "price": 2512.60227272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-09-01",
+      "price": 2394.9625,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 2444.53260869565,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-11-01",
+      "price": 2507.15227272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2007-12-01",
+      "price": 2382.83333333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 2456.125,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-02-01",
+      "price": 2784.89285714286,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-03-01",
+      "price": 3012.05263157895,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 2968.03409090909,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-05-01",
+      "price": 2908.2775,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-06-01",
+      "price": 2967.86904761905,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 3067.45652173913,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-08-01",
+      "price": 2762.56,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 2524.14772727273,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 2122.02826086957,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-11-01",
+      "price": 1857.13,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 1504.41666666667,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 1420.35952380952,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-02-01",
+      "price": 1338.0625,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-03-01",
+      "price": 1338.07954545455,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 1431.8125,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-05-01",
+      "price": 1466.67105263158,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 1579.62727272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 1670.55652173913,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-08-01",
+      "price": 1927.6375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-09-01",
+      "price": 1835.59772727273,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 1875.66363636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-11-01",
+      "price": 1956.54761904762,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2009-12-01",
+      "price": 2181.25714285714,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 2230.1125,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 2053.27,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 2210.53043478261,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 2314.2775,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-05-01",
+      "price": 2044.71052631579,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-06-01",
+      "price": 1929.40909090909,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 1989.04545454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-08-01",
+      "price": 2110.44047619048,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-09-01",
+      "price": 2171.24318181818,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 2342.17857142857,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 2324.04545454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2010-12-01",
+      "price": 2356.66904761905,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 2439.7,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-02-01",
+      "price": 2515.26,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-03-01",
+      "price": 2555.5,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 2667.41666666667,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-05-01",
+      "price": 2587.2125,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-06-01",
+      "price": 2557.76136363636,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 2525.42857142857,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 2380.975,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-09-01",
+      "price": 2293.46136363636,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 2180.64761904762,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-11-01",
+      "price": 2079.98181818182,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2011-12-01",
+      "price": 2024.375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 2151.33333333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-02-01",
+      "price": 2207.91666666667,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-03-01",
+      "price": 2184.15909090909,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 2048.50526315789,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-05-01",
+      "price": 2002.52272727273,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-06-01",
+      "price": 1885.51315789474,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 1876.25,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-08-01",
+      "price": 1843.32727272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-09-01",
+      "price": 2064.12,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 1974.30434782609,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-11-01",
+      "price": 1948.82954545455,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2012-12-01",
+      "price": 2086.76315789474,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 2037.60681818182,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-02-01",
+      "price": 2053.595,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-03-01",
+      "price": 1911.2825,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 1861.02380952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-05-01",
+      "price": 1832.57142857143,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-06-01",
+      "price": 1814.5375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 1769.60869565217,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-08-01",
+      "price": 1816.23571428571,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-09-01",
+      "price": 1761.30476190476,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 1814.58260869565,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-11-01",
+      "price": 1747.96428571429,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2013-12-01",
+      "price": 1739.81,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 1727.41136363636,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-02-01",
+      "price": 1695.165,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-03-01",
+      "price": 1705.36666666667,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 1810.675,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-05-01",
+      "price": 1751.05,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-06-01",
+      "price": 1838.95238095238,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 1948.30434782609,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-08-01",
+      "price": 2030.4925,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 1990.43181818182,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 1946.18913043478,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-11-01",
+      "price": 2055.555,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 1909.45952380952,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 1814.71904761905,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-02-01",
+      "price": 1817.82,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-03-01",
+      "price": 1773.86363636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 1819.1875,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-05-01",
+      "price": 1804.03947368421,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 1687.72727272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 1639.5,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-08-01",
+      "price": 1548.125,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-09-01",
+      "price": 1589.60227272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 1516.48863636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-11-01",
+      "price": 1467.89285714286,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2015-12-01",
+      "price": 1497.20238095238,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 1481.1,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 1531.2619047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-03-01",
+      "price": 1531.0119047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 1571.22619047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-05-01",
+      "price": 1550.625,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-06-01",
+      "price": 1593.50681818182,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 1629.04761904762,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 1639.28409090909,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-09-01",
+      "price": 1592.36363636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 1665.90476190476,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-11-01",
+      "price": 1737.11363636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2016-12-01",
+      "price": 1727.7375,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 1791.2380952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-02-01",
+      "price": 1860.75,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-03-01",
+      "price": 1901.46739130435,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 1921.22222222222,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 1913.02380952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-06-01",
+      "price": 1885.28636363636,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 1902.96428571429,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-08-01",
+      "price": 2030.01136363636,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-09-01",
+      "price": 2096.4880952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 2131.48863636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-11-01",
+      "price": 2097.44090909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2017-12-01",
+      "price": 2080.47368421053,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 2209.72727272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-02-01",
+      "price": 2181.7875,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-03-01",
+      "price": 2069.2380952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 2254.6875,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-05-01",
+      "price": 2299.66666666667,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-06-01",
+      "price": 2237.61904761905,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 2082.23863636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-08-01",
+      "price": 2051.51136363636,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-09-01",
+      "price": 2026.4625,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 2029.85869565217,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-11-01",
+      "price": 1938.51136363636,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2018-12-01",
+      "price": 1920.38157894737,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 1853.71590909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-02-01",
+      "price": 1862.9875,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-03-01",
+      "price": 1871.21428571429,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 1845.425,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-05-01",
+      "price": 1781.2619047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-06-01",
+      "price": 1755.95,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 1796.98913043478,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-08-01",
+      "price": 1740.67857142857,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-09-01",
+      "price": 1753.5119047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 1725.95652173913,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-11-01",
+      "price": 1774.78571428571,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2019-12-01",
+      "price": 1771.38,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 1773.09090909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-02-01",
+      "price": 1688.095,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-03-01",
+      "price": 1610.89090909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 1459.9345,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-05-01",
+      "price": 1466.37157894737,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 1568.57045454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 1643.81217391304,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-08-01",
+      "price": 1738.55523809524,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-09-01",
+      "price": 1743.77454545455,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 1806.10181818182,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-11-01",
+      "price": 1935.28333333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2020-12-01",
+      "price": 2014.6719047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 2003.9755,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 2078.5935,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 2190.48260869565,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 2319.3925,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-05-01",
+      "price": 2434.7765,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-06-01",
+      "price": 2446.64545454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 2497.63545454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-08-01",
+      "price": 2602.99190476191,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-09-01",
+      "price": 2834.55681818182,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 2934.39380952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 2636.45227272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2021-12-01",
+      "price": 2695.53142857143,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 3005.9805,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-02-01",
+      "price": 3245.7855,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-03-01",
+      "price": 3498.37304347826,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 3246.99047619048,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-05-01",
+      "price": 2839.50545454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-06-01",
+      "price": 2575.66954545455,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 2408.42333333333,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 2433.91608695652,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-09-01",
+      "price": 2224.75590909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 2255.53523809524,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-11-01",
+      "price": 2350.71636363636,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2022-12-01",
+      "price": 2398.20681818182,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 2494.90090909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-02-01",
+      "price": 2416.1815,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-03-01",
+      "price": 2296.41695652174,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 2338.131,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 2274.01260869565,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-06-01",
+      "price": 2184.75363636364,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 2159.73238095238,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-08-01",
+      "price": 2135.58173913043,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-09-01",
+      "price": 2184.67380952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 2194.39090909091,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-11-01",
+      "price": 2202.25545454545,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2023-12-01",
+      "price": 2192.00523809524,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 2201.56652173913,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-02-01",
+      "price": 2179.45714285714,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-03-01",
+      "price": 2229.4419047619,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 2499.22818181818,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-05-01",
+      "price": 2566.31869565217,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-06-01",
+      "price": 2497.6055,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 2349.1252173913,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 2352.46727272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 2457.4780952381,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 2595.58304347826,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 2582.18857142857,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 2540.88227272727,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 2571.37043478261,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 2655.7725,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 2651.59857142857,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 2367.80045454546,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 2447.34409090909,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 2525.95904761905,
+      "commodity": "aluminum",
+      "source": "FRED",
+      "series_id": "PALUMUSDM"
+    }
+  ],
+  "series_id": "PALUMUSDM",
+  "count": 426,
+  "commodity": "aluminum",
+  "series_info": {
+    "id": "PALUMUSDM",
+    "realtime_start": "2025-09-19",
+    "realtime_end": "2025-09-19",
+    "title": "Global price of Aluminum",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "U.S. Dollars per Metric Ton",
+    "units_short": "U.S. $ per Metric Ton",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:03-05",
+    "popularity": "68",
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.  Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

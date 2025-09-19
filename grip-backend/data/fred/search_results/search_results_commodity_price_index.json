@@ -1,0 +1,208 @@
+{
+  "search_term": "commodity price index",
+  "collected_at": "2025-09-19T04:48:34.995190",
+  "series": [
+    {
+      "id": "PPIACO",
+      "title": "Producer Price Index by Commodity: All Commodities",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 79,
+      "observation_start": "1913-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GASREGW",
+      "title": "US Regular All Formulations Gas Price",
+      "frequency": "Weekly, Ending Monday",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 74,
+      "observation_start": "1990-08-20",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "WPU0911",
+      "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 69,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU101707",
+      "title": "Producer Price Index by Commodity: Metals and Metal Products: Cold Rolled Steel Sheet and Strip",
+      "frequency": "Monthly",
+      "units": "Index Jun 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 69,
+      "observation_start": "1982-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPUSI012011",
+      "title": "Producer Price Index by Commodity: Special Indexes: Construction Materials",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 66,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU081",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Lumber",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 63,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IR",
+      "title": "Import Price Index (End Use): All Commodities",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 63,
+      "observation_start": "1982-09-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU101",
+      "title": "Producer Price Index by Commodity: Metals and Metal Products: Iron and Steel",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 62,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PNRGINDEXM",
+      "title": "Global price of Energy index",
+      "frequency": "Monthly",
+      "units": "Index 2016 = 100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 62,
+      "observation_start": "1992-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "PPIFIS",
+      "title": "Producer Price Index by Commodity: Final Demand",
+      "frequency": "Monthly",
+      "units": "Index Nov 2009=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 61,
+      "observation_start": "2009-11-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PALLFNFINDEXQ",
+      "title": "Global Price Index of All Commodities",
+      "frequency": "Quarterly",
+      "units": "Index 2016 = 100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 60,
+      "observation_start": "2003-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "WPSFD4131",
+      "title": "Producer Price Index by Commodity: Final Demand: Finished Goods Less Foods and Energy",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 57,
+      "observation_start": "1974-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU091405",
+      "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Corrugated Paperboard in Sheets and Rolls, Lined and Unlined",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 57,
+      "observation_start": "1980-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU10170502",
+      "title": "Producer Price Index by Commodity: Metals and Metal Products: Steel Wire, Stainless Steel",
+      "frequency": "Monthly",
+      "units": "Index Dec 2010=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 57,
+      "observation_start": "2010-12-01",
+      "observation_end": "2023-07-01"
+    },
+    {
+      "id": "WPU10170674",
+      "title": "Producer Price Index by Commodity: Metals and Metal Products: Steel Pipe and Tube, Stainless Steel",
+      "frequency": "Monthly",
+      "units": "Index Dec 2010=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 57,
+      "observation_start": "2010-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU061",
+      "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Industrial Chemicals",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 56,
+      "observation_start": "1933-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PMETAINDEXM",
+      "title": "Global price of Metal index",
+      "frequency": "Monthly",
+      "units": "Index 2016 = 100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 55,
+      "observation_start": "1992-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "WPU07110224",
+      "title": "Producer Price Index by Commodity: Rubber and Plastic Products: Synthetic Rubber, Including Styrene-Butadiene Rubber (SBR) and Ethylene Propylene",
+      "frequency": "Monthly",
+      "units": "Index Jun 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 54,
+      "observation_start": "2003-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU1017",
+      "title": "Producer Price Index by Commodity: Metals and Metal Products: Steel Mill Products",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 52,
+      "observation_start": "1939-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU10",
+      "title": "Producer Price Index by Commodity: Metals and Metal Products",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 52,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

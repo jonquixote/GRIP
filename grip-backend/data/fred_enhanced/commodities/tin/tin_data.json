@@ -1,0 +1,1019 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "1990-01-01",
+      "price": 6339.53345320231,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 6270.50048209635,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 5845.53364832153,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 5885.96715597737,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 5569.60517274577,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 5655.29120605876,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 5632.13847986654,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 5526.8121673055,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 5577.41230485026,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 6193.80256324056,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 6802.68127151286,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 5842.47758175863,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 5790.7182156189,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 5405.80935684713,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 4769.40911746012,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 4704.25212774455,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 5266.22861302083,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 5458.0550428182,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 5264.33267211507,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 5851.29222681783,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 5711.64117574361,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 6141.92882167358,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 6646.87884025269,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 6289.00059532064,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 6217.22597794393,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 6350.9683047404,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 6149.58659292602,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 5917.72853932699,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 5882.25600976156,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 5657.5754627533,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 5450.85297915039,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 5571.23737737223,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 5301.87876089681,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 5847.67157174886,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 5607.07534764099,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 5388.28939618123,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 5219.31817004552,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 5429.21172248804,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 5257.18614718615,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 5659.86100500806,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 5686.35,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 5432.39611330698,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 5371.97308488613,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 5252.89090909091,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 5113.12878787879,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 4910.49067112225,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 3990.47129186603,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 3943.65422769898,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 3814.43855218855,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 4160.8759018759,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 4035.92753623188,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 4232.74327122153,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 4536.66767676768,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 4657.6598015873,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 4814.29239130435,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 5549.72230848861,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 6899.13153899241,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 9153.08931419458,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 9019.67316017316,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 8851.85997835498,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 8084.7376984127,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 7945.80772005772,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 7059.88149350649,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 6450.56403318903,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 7601.74712732919,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 8503.86405723906,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 8589.38203463204,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 10324.6188197767,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 12669.6348484848,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 14064.6060985798,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 14922.9181818182,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 16324.6142585273,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 17793.2734297866,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 22544.3504329004,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 20399.0737812912,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 13129.8802277433,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 11109.1724747475,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 13550.1149122807,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 14540.4373517787,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 15197.4141414141,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 17190.5434782609,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 17819.1178628389,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 20544.6525974026,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 25914.6810966811,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 29883.3115942029,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 28812.9254208754,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 24660.4749278499,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 20849.0866341991,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 22942.1479076479,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 20555.0873205742,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 19330.9700757576,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 21609.2195236114,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 24037.5450757576,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 20879.553968254,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 21312.3706004141,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 22896.8643029676,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 22636.2827200577,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 23146.15,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 21915.1945322793,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 19897.8674430642,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 18369.9802128427,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 15589.8034290271,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 15229.5495059289,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 15077.1966089466,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 15438.6043650794,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 16902.1191558442,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 18584.2572150072,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 20810.0676046176,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 20004.4854554865,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 19923.1645622896,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 20513.6984126984,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 19803.3273524721,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 21186.7998556999,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 20936.819047619,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 19308.5643939394,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 19148.6402815339,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 21038.3682539683,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 19773.8015873016,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 17139.1516563147,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 16693.305831608,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 16266.796969697,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 15730.8531100478,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 17693.8466218081,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 18810.3411471861,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 25098.9958333333,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 31038.2901515151,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 34643.8281818182,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 38768.0422294372,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 43241.5740652174,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 36968.251031746,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 23726.6536322856,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 21596.667972583,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 26287.4899169961,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 26151.5899472991,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 26785.8214768806,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 24424.0821284271,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 26233.0453416149,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 32168.7768102767,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 31656.1986131501,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 30179.3162761152,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 31852.2144906832,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 32263.9702958153,
+      "commodity": "tin",
+      "source": "FRED",
+      "series_id": "PTINUSDQ"
+    }
+  ],
+  "series_id": "PTINUSDQ",
+  "count": 142,
+  "commodity": "tin",
+  "series_info": {
+    "id": "PTINUSDQ",
+    "realtime_start": "2025-09-19",
+    "realtime_end": "2025-09-19",
+    "title": "Global price of Tin",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-04-01",
+    "frequency": "Quarterly",
+    "frequency_short": "Q",
+    "units": "U.S. Dollars per Metric Ton",
+    "units_short": "U.S. $ per Metric Ton",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:23-05",
+    "popularity": "47",
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.  Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

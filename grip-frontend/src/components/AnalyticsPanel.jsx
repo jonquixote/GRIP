@@ -2,7 +2,9 @@ import React, { useState, useEffect } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
 import { Button } from '../components/ui/button';
 import { Badge } from '../components/ui/badge';
+import { Input } from '../components/ui/input';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '../components/ui/select';
+import { Switch } from '../components/ui/switch';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '../components/ui/tabs';
 import { 
   LineChart, 
@@ -28,18 +30,37 @@ import {
   PieChart as PieChartIcon,
   Target,
   AlertTriangle,
-  CheckCircle
+  CheckCircle,
+  Settings,
+  Zap,
+  Database,
+  Globe
 } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { commodityService } from '../services/api';
 import AnalyticsDashboard from './AnalyticsDashboard';
+import CommodityDashboard from './CommodityDashboard';
+import CommoditySelect from './CommoditySelect';
+
+const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#8884D8'];
 
 const AnalyticsPanel = () => {
-  const [selectedCommodity, setSelectedCommodity] = useState('');
+  const [activeTab, setActiveTab] = useState('dashboard');
   const [commodities, setCommodities] = useState([]);
-  const [analysisData, setAnalysisData] = useState(null);
-  const [loading, setLoading] = useState(false);
-  const [analysisType, setAnalysisType] = useState('price');
+  const [selectedCommodity, setSelectedCommodity] = useState(null);
+  const [timeRange, setTimeRange] = useState('1Y');
+  const [analysisMode, setAnalysisMode] = useState('comprehensive');
+  
+  // Configuration states
+  const [config, setConfig] = useState({
+    dataSources: ['usgs', 'fred'],
+    analysisDepth: 'detailed',
+    forecastingModels: ['ml_ensemble', 'econometric'],
+    riskFactors: ['political', 'environmental', 'economic'],
+    visualizationType: 'interactive',
+    autoRefresh: false,
+    refreshInterval: 300
+  });
 
   useEffect(() => {
     fetchCommodities();
@@ -50,380 +71,288 @@ const AnalyticsPanel = () => {
       const response = await commodityService.getAll();
       setCommodities(response.data);
       if (response.data.length > 0) {
-        setSelectedCommodity(response.data[0].id.toString());
+        setSelectedCommodity(response.data[0]);
       }
     } catch (error) {
       console.error('Error fetching commodities:', error);
     }
   };
 
-  const fetchAnalysis = async () => {
-    if (!selectedCommodity) return;
-
-    try {
-      setLoading(true);
-      // Mock data for now
-      const mockData = {
-        summary: {
-          overall_assessment: 'Positive',
-          investment_outlook: 'Buy',
-          risk_level: 'Medium',
-          confidence_score: 0.85,
-          risk_factors: ['Supply chain disruption', 'Geopolitical tension']
-        }
-      };
-      setAnalysisData(mockData);
-    } catch (error) {
-      console.error('Error fetching analysis:', error);
-    } finally {
-      setLoading(false);
+  const generateMockChartData = (type) => {
+    const data = [];
+    for (let i = 0; i < 12; i++) {
+      data.push({
+        month: new Date(2023, i).toLocaleString('default', { month: 'short' }),
+        value: Math.floor(Math.random() * 1000) + 500,
+        volume: Math.floor(Math.random() * 100000) + 50000,
+        volatility: Math.random() * 10
+      });
     }
+    return data;
   };
 
-  useEffect(() => {
-    if (selectedCommodity) {
-      fetchAnalysis();
-    }
-  }, [selectedCommodity, analysisType]);
-
-  const generateMockChartData = (type) => {
-    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-    return months.map(month => ({
-      month,
-      value: Math.floor(Math.random() * 1000) + 500,
-      volume: Math.floor(Math.random() * 100) + 50,
-      volatility: Math.random() * 0.1 + 0.02
+  const handleConfigChange = (key, value) => {
+    setConfig(prev => ({
+      ...prev,
+      [key]: value
     }));
   };
 
-  const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042', '#8884D8'];
+  const handleDataSourceToggle = (source) => {
+    const newSources = config.dataSources.includes(source)
+      ? config.dataSources.filter(s => s !== source)
+      : [...config.dataSources, source];
+    handleConfigChange('dataSources', newSources);
+  };
 
-  const selectedCommodityData = commodities.find(c => c.id.toString() === selectedCommodity);
+  const handleForecastingModelToggle = (model) => {
+    const newModels = config.forecastingModels.includes(model)
+      ? config.forecastingModels.filter(m => m !== model)
+      : [...config.forecastingModels, model];
+    handleConfigChange('forecastingModels', newModels);
+  };
+
+  const handleRiskFactorToggle = (factor) => {
+    const newFactors = config.riskFactors.includes(factor)
+      ? config.riskFactors.filter(f => f !== factor)
+      : [...config.riskFactors, factor];
+    handleConfigChange('riskFactors', newFactors);
+  };
 
   return (
     <div className="space-y-6">
-      {/* Controls */}
-      <Card>
-        <CardHeader>
-          <CardTitle>Analytics Configuration</CardTitle>
-          <CardDescription>
-            Select commodity and analysis type to view detailed insights
-          </CardDescription>
-        </CardHeader>
-        <CardContent>
-          <div className="flex flex-col sm:flex-row gap-4">
-            <div className="flex-1">
-              <label className="text-sm font-medium mb-2 block">Commodity</label>
-              <Select value={selectedCommodity} onValueChange={setSelectedCommodity}>
-                <SelectTrigger>
-                  <SelectValue placeholder="Select a commodity" />
-                </SelectTrigger>
-                <SelectContent>
-                  {commodities.map(commodity => (
-                    <SelectItem key={commodity.id} value={commodity.id.toString()}>
-                      {commodity.name} ({commodity.symbol})
-                    </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-            </div>
-            <div className="flex-1">
-              <label className="text-sm font-medium mb-2 block">Analysis Type</label>
-              <Select value={analysisType} onValueChange={setAnalysisType}>
-                <SelectTrigger>
-                  <SelectValue />
-                </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="price">Price Analysis</SelectItem>
-                  <SelectItem value="production">Production Analysis</SelectItem>
-                  <SelectItem value="ml">ML Predictions</SelectItem>
-                </SelectContent>
-              </Select>
-            </div>
-            <div className="flex items-end">
-              <Button onClick={fetchAnalysis} disabled={loading}>
-                {loading ? 'Analyzing...' : 'Analyze'}
-              </Button>
-            </div>
-          </div>
-        </CardContent>
-      </Card>
+      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+        <div>
+          <h2 className="text-2xl font-bold">Analytics Dashboard</h2>
+          <p className="text-muted-foreground">Advanced resource intelligence analytics</p>
+        </div>
+        <div className="flex items-center gap-4">
+          <Select value={timeRange} onValueChange={setTimeRange}>
+            <SelectTrigger className="w-[120px]">
+              <SelectValue placeholder="Time range" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="1M">1 Month</SelectItem>
+              <SelectItem value="3M">3 Months</SelectItem>
+              <SelectItem value="6M">6 Months</SelectItem>
+              <SelectItem value="1Y">1 Year</SelectItem>
+              <SelectItem value="3Y">3 Years</SelectItem>
+              <SelectItem value="5Y">5 Years</SelectItem>
+            </SelectContent>
+          </Select>
+          <Select value={analysisMode} onValueChange={setAnalysisMode}>
+            <SelectTrigger className="w-[180px]">
+              <SelectValue placeholder="Analysis mode" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="comprehensive">Comprehensive</SelectItem>
+              <SelectItem value="price">Price Focus</SelectItem>
+              <SelectItem value="production">Production Focus</SelectItem>
+              <SelectItem value="risk">Risk Assessment</SelectItem>
+            </SelectContent>
+          </Select>
+        </div>
+      </div>
 
-      {/* Analysis Results */}
-      {analysisData && (
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          className="space-y-6"
-        >
-          {/* Summary Cards */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {analysisData.summary && (
-              <>
-                <Card>
-                  <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                    <CardTitle className="text-sm font-medium">Overall Assessment</CardTitle>
-                    <Target className="h-4 w-4 text-muted-foreground" />
-                  </CardHeader>
-                  <CardContent>
-                    <Badge className={
-                      analysisData.summary.overall_assessment === 'Positive' 
-                        ? 'bg-green-100 text-green-800' 
-                        : analysisData.summary.overall_assessment === 'Negative'
-                        ? 'bg-red-100 text-red-800'
-                        : 'bg-yellow-100 text-yellow-800'
-                    }>
-                      {analysisData.summary.overall_assessment}
-                    </Badge>
-                    <p className="text-xs text-muted-foreground mt-2">
-                      Investment Outlook: {analysisData.summary.investment_outlook}
-                    </p>
-                  </CardContent>
-                </Card>
+      {/* Analysis Tabs */}
+      <Tabs defaultValue="dashboard" className="space-y-4">
+        <TabsList>
+          <TabsTrigger value="dashboard">Dashboard</TabsTrigger>
+          <TabsTrigger value="configuration">Configuration</TabsTrigger>
+          <TabsTrigger value="commodities">Commodities</TabsTrigger>
+        </TabsList>
 
-                <Card>
-                  <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                    <CardTitle className="text-sm font-medium">Risk Level</CardTitle>
-                    <AlertTriangle className="h-4 w-4 text-muted-foreground" />
-                  </CardHeader>
-                  <CardContent>
-                    <Badge className={
-                      analysisData.summary.risk_level === 'Low' 
-                        ? 'bg-green-100 text-green-800' 
-                        : analysisData.summary.risk_level === 'High'
-                        ? 'bg-red-100 text-red-800'
-                        : 'bg-yellow-100 text-yellow-800'
-                    }>
-                      {analysisData.summary.risk_level}
-                    </Badge>
-                    <p className="text-xs text-muted-foreground mt-2">
-                      {analysisData.summary.risk_factors?.length || 0} risk factors identified
-                    </p>
-                  </CardContent>
-                </Card>
+        <TabsContent value="dashboard" className="space-y-6">
+          <AnalyticsDashboard />
+        </TabsContent>
 
-                <Card>
-                  <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                    <CardTitle className="text-sm font-medium">Confidence Score</CardTitle>
-                    <CheckCircle className="h-4 w-4 text-muted-foreground" />
-                  </CardHeader>
-                  <CardContent>
-                    <div className="text-2xl font-bold">
-                      {(analysisData.summary.confidence_score * 100).toFixed(0)}%
-                    </div>
-                    <p className="text-xs text-muted-foreground">
-                      Analysis reliability
-                    </p>
-                  </CardContent>
-                </Card>
-              </>
-            )}
-          </div>
-
-          {/* Analysis Tabs */}
-          <Tabs defaultValue="charts" className="space-y-4">
-            <TabsList>
-              <TabsTrigger value="charts">Charts</TabsTrigger>
-              <TabsTrigger value="statistics">Statistics</TabsTrigger>
-              <TabsTrigger value="insights">Insights</TabsTrigger>
-              <TabsTrigger value="dashboard">Dashboard</TabsTrigger>
-            </TabsList>
-
-            <TabsContent value="charts" className="space-y-6">
-              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-                {/* Price Trend Chart */}
-                <Card>
-                  <CardHeader>
-                    <CardTitle className="flex items-center space-x-2">
-                      <LineChart className="h-5 w-5" />
-                      <span>Price Trend</span>
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <ResponsiveContainer width="100%" height={300}>
-                      <LineChart data={generateMockChartData('price')}>
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis dataKey="month" />
-                        <YAxis />
-                        <Tooltip />
-                        <Line 
-                          type="monotone" 
-                          dataKey="value" 
-                          stroke="#8884d8" 
-                          strokeWidth={2}
-                          dot={{ fill: '#8884d8' }}
+        <TabsContent value="configuration" className="space-y-6">
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center space-x-2">
+                <Settings className="h-5 w-5" />
+                <span>Analytics Configuration</span>
+              </CardTitle>
+              <CardDescription>
+                Configure data sources, analysis parameters, and visualization options
+              </CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-6">
+              {/* Data Sources */}
+              <div>
+                <h3 className="text-lg font-medium mb-3">Data Sources</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <Card>
+                    <CardContent className="pt-4">
+                      <div className="flex items-center justify-between">
+                        <div className="flex items-center space-x-2">
+                          <Database className="h-5 w-5 text-blue-500" />
+                          <span>USGS Data</span>
+                        </div>
+                        <Switch
+                          checked={config.dataSources.includes('usgs')}
+                          onCheckedChange={() => handleDataSourceToggle('usgs')}
                         />
-                      </LineChart>
-                    </ResponsiveContainer>
-                  </CardContent>
-                </Card>
-
-                {/* Volume Analysis Chart */}
-                <Card>
-                  <CardHeader>
-                    <CardTitle className="flex items-center space-x-2">
-                      <BarChart3 className="h-5 w-5" />
-                      <span>Volume Analysis</span>
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <ResponsiveContainer width="100%" height={300}>
-                      <BarChart data={generateMockChartData('volume')}>
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis dataKey="month" />
-                        <YAxis />
-                        <Tooltip />
-                        <Bar dataKey="volume" fill="#82ca9d" />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </CardContent>
-                </Card>
-
-                {/* Volatility Chart */}
-                <Card>
-                  <CardHeader>
-                    <CardTitle className="flex items-center space-x-2">
-                      <Activity className="h-5 w-5" />
-                      <span>Volatility Index</span>
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <ResponsiveContainer width="100%" height={300}>
-                      <AreaChart data={generateMockChartData('volatility')}>
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis dataKey="month" />
-                        <YAxis />
-                        <Tooltip />
-                        <Area type="monotone" dataKey="volatility" stroke="#ffc658" fill="#ffc658" fillOpacity={0.3} />
-                      </AreaChart>
-                    </ResponsiveContainer>
-                  </CardContent>
-                </Card>
-
-                {/* Distribution Pie Chart */}
-                <Card>
-                  <CardHeader>
-                    <CardTitle className="flex items-center space-x-2">
-                      <PieChartIcon className="h-5 w-5" />
-                      <span>Market Distribution</span>
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <ResponsiveContainer width="100%" height={300}>
-                      <PieChart>
-                        <Pie
-                          data={[
-                            { name: 'North America', value: 35 },
-                            { name: 'Europe', value: 25 },
-                            { name: 'Asia-Pacific', value: 30 },
-                            { name: 'South America', value: 7 },
-                            { name: 'Africa', value: 3 }
-                          ]}
-                          cx="50%"
-                          cy="50%"
-                          labelLine={false}
-                          outerRadius={80}
-                          fill="#8884d8"
-                          dataKey="value"
-                          label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`}
-                        >
-                          {COLORS.map((entry, index) => (
-                            <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-                          ))}
-                        </Pie>
-                        <Tooltip />
-                      </PieChart>
-                    </ResponsiveContainer>
-                  </CardContent>
-                </Card>
+                      </div>
+                      <p className="text-sm text-muted-foreground mt-2">
+                        Geological survey data from USGS and other national agencies
+                      </p>
+                    </CardContent>
+                  </Card>
+                  <Card>
+                    <CardContent className="pt-4">
+                      <div className="flex items-center justify-between">
+                        <div className="flex items-center space-x-2">
+                          <BarChart3 className="h-5 w-5 text-indigo-500" />
+                          <span>FRED Data</span>
+                        </div>
+                        <Switch
+                          checked={config.dataSources.includes('fred')}
+                          onCheckedChange={() => handleDataSourceToggle('fred')}
+                        />
+                      </div>
+                      <p className="text-sm text-muted-foreground mt-2">
+                        Economic indicators and financial data from Federal Reserve
+                      </p>
+                    </CardContent>
+                  </Card>
+                </div>
               </div>
-            </TabsContent>
 
-            <TabsContent value="statistics" className="space-y-6">
-              <Card>
-                <CardHeader>
-                  <CardTitle>Statistical Summary</CardTitle>
-                  <CardDescription>
-                    Key statistical measures for the selected commodity
-                  </CardDescription>
-                </CardHeader>
-                <CardContent>
-                  <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                    <div className="p-4 bg-muted rounded-lg">
-                      <div className="text-2xl font-bold">1,245.67</div>
-                      <div className="text-sm text-muted-foreground">Average Price</div>
-                    </div>
-                    <div className="p-4 bg-muted rounded-lg">
-                      <div className="text-2xl font-bold">8.2%</div>
-                      <div className="text-sm text-muted-foreground">Volatility</div>
-                    </div>
-                    <div className="p-4 bg-muted rounded-lg">
-                      <div className="text-2xl font-bold">12.4M</div>
-                      <div className="text-sm text-muted-foreground">Volume</div>
-                    </div>
-                    <div className="p-4 bg-muted rounded-lg">
-                      <div className="text-2xl font-bold">0.78</div>
-                      <div className="text-sm text-muted-foreground">Correlation</div>
-                    </div>
+              {/* Analysis Depth */}
+              <div>
+                <h3 className="text-lg font-medium mb-3">Analysis Depth</h3>
+                <Select value={config.analysisDepth} onValueChange={(value) => handleConfigChange('analysisDepth', value)}>
+                  <SelectTrigger>
+                    <SelectValue placeholder="Select analysis depth" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="basic">Basic Analysis</SelectItem>
+                    <SelectItem value="standard">Standard Analysis</SelectItem>
+                    <SelectItem value="detailed">Detailed Analysis</SelectItem>
+                    <SelectItem value="comprehensive">Comprehensive Analysis</SelectItem>
+                  </SelectContent>
+                </Select>
+                <p className="text-sm text-muted-foreground mt-2">
+                  Controls the depth and complexity of analytical computations
+                </p>
+              </div>
+
+              {/* Forecasting Models */}
+              <div>
+                <h3 className="text-lg font-medium mb-3">Forecasting Models</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {['ml_ensemble', 'econometric', 'expert_consensus', 'timeseries_arima'].map((model) => (
+                    <Card key={model}>
+                      <CardContent className="pt-4">
+                        <div className="flex items-center justify-between">
+                          <div className="flex items-center space-x-2">
+                            <Zap className="h-5 w-5 text-yellow-500" />
+                            <span className="capitalize">
+                              {model.replace('_', ' ')}
+                            </span>
+                          </div>
+                          <Switch
+                            checked={config.forecastingModels.includes(model)}
+                            onCheckedChange={() => handleForecastingModelToggle(model)}
+                          />
+                        </div>
+                        <p className="text-sm text-muted-foreground mt-2">
+                          {model === 'ml_ensemble' && 'Machine learning ensemble models'}
+                          {model === 'econometric' && 'Econometric forecasting models'}
+                          {model === 'expert_consensus' && 'Expert consensus algorithms'}
+                          {model === 'timeseries_arima' && 'Time series ARIMA models'}
+                        </p>
+                      </CardContent>
+                    </Card>
+                  ))}
+                </div>
+              </div>
+
+              {/* Risk Factors */}
+              <div>
+                <h3 className="text-lg font-medium mb-3">Risk Assessment Factors</h3>
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                  {['political', 'environmental', 'economic', 'geopolitical', 'supply_chain', 'market'].map((factor) => (
+                    <Card key={factor}>
+                      <CardContent className="pt-4">
+                        <div className="flex items-center justify-between">
+                          <div className="flex items-center space-x-2">
+                            <AlertTriangle className="h-5 w-5 text-red-500" />
+                            <span className="capitalize">{factor.replace('_', ' ')}</span>
+                          </div>
+                          <Switch
+                            checked={config.riskFactors.includes(factor)}
+                            onCheckedChange={() => handleRiskFactorToggle(factor)}
+                          />
+                        </div>
+                      </CardContent>
+                    </Card>
+                  ))}
+                </div>
+              </div>
+
+              {/* Visualization Options */}
+              <div>
+                <h3 className="text-lg font-medium mb-3">Visualization</h3>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <div>
+                    <Label htmlFor="visualizationType">Visualization Type</Label>
+                    <Select 
+                      value={config.visualizationType} 
+                      onValueChange={(value) => handleConfigChange('visualizationType', value)}
+                    >
+                      <SelectTrigger id="visualizationType">
+                        <SelectValue placeholder="Select visualization type" />
+                      </SelectTrigger>
+                      <SelectContent>
+                        <SelectItem value="interactive">Interactive Charts</SelectItem>
+                        <SelectItem value="static">Static Reports</SelectItem>
+                        <SelectItem value="dashboard">Dashboard View</SelectItem>
+                        <SelectItem value="presentation">Presentation Mode</SelectItem>
+                      </SelectContent>
+                    </Select>
                   </div>
-                </CardContent>
-              </Card>
-            </TabsContent>
-
-            <TabsContent value="insights" className="space-y-6">
-              <Card>
-                <CardHeader>
-                  <CardTitle>Market Insights</CardTitle>
-                  <CardDescription>
-                    AI-generated insights and recommendations
-                  </CardDescription>
-                </CardHeader>
-                <CardContent>
-                  <div className="space-y-4">
-                    <div className="p-4 border rounded-lg">
-                      <div className="flex items-start space-x-2">
-                        <TrendingUp className="h-5 w-5 text-green-500 mt-0.5" />
-                        <div>
-                          <h4 className="font-medium">Bullish Trend Detected</h4>
-                          <p className="text-sm text-muted-foreground mt-1">
-                            The commodity is showing strong upward momentum with a 78% confidence level.
-                          </p>
-                        </div>
-                      </div>
+                  <div>
+                    <div className="flex items-center justify-between">
+                      <Label htmlFor="autoRefresh">Auto Refresh</Label>
+                      <Switch
+                        id="autoRefresh"
+                        checked={config.autoRefresh}
+                        onCheckedChange={(checked) => handleConfigChange('autoRefresh', checked)}
+                      />
                     </div>
-                    <div className="p-4 border rounded-lg">
-                      <div className="flex items-start space-x-2">
-                        <AlertTriangle className="h-5 w-5 text-yellow-500 mt-0.5" />
-                        <div>
-                          <h4 className="font-medium">Supply Chain Risk</h4>
-                          <p className="text-sm text-muted-foreground mt-1">
-                            Potential disruption in key production regions may affect supply.
-                          </p>
-                        </div>
+                    {config.autoRefresh && (
+                      <div className="mt-2">
+                        <Label htmlFor="refreshInterval">Refresh Interval (seconds)</Label>
+                        <Input
+                          id="refreshInterval"
+                          type="number"
+                          min="30"
+                          max="3600"
+                          value={config.refreshInterval}
+                          onChange={(e) => handleConfigChange('refreshInterval', parseInt(e.target.value))}
+                        />
                       </div>
-                    </div>
-                    <div className="p-4 border rounded-lg">
-                      <div className="flex items-start space-x-2">
-                        <Target className="h-5 w-5 text-blue-500 mt-0.5" />
-                        <div>
-                          <h4 className="font-medium">Investment Recommendation</h4>
-                          <p className="text-sm text-muted-foreground mt-1">
-                            Consider increasing position size with a target price of $1,350.
-                          </p>
-                        </div>
-                      </div>
-                    </div>
+                    )}
                   </div>
-                </CardContent>
-              </Card>
-            </TabsContent>
+                </div>
+              </div>
 
-            <TabsContent value="dashboard" className="space-y-6">
-              <AnalyticsDashboard />
-            </TabsContent>
-          </Tabs>
-        </motion.div>
-      )}
+              {/* Save Configuration */}
+              <div className="flex justify-end">
+                <Button onClick={() => console.log('Configuration saved:', config)}>
+                  Save Configuration
+                </Button>
+              </div>
+            </CardContent>
+          </Card>
+        </TabsContent>
+
+        <TabsContent value="commodities" className="space-y-6">
+          <CommodityDashboard />
+        </TabsContent>
+      </Tabs>
     </div>
   );
 };

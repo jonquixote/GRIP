@@ -1,0 +1,38 @@
+{
+  "search_term": "palm oil price",
+  "collected_at": "2025-09-19T05:50:00.443393",
+  "series": [
+    {
+      "id": "PPOILUSDM",
+      "title": "Global price of Palm Oil",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 65,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "PPOILUSDQ",
+      "title": "Global price of Palm Oil",
+      "frequency": "Quarterly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 19,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "PPOILUSDA",
+      "title": "Global price of Palm Oil",
+      "frequency": "Annual",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 11,
+      "observation_start": "1990-01-01",
+      "observation_end": "2024-01-01"
+    }
+  ],
+  "total_found": 3,
+  "filtered_count": 3
+}

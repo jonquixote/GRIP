@@ -1,0 +1,3007 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "1990-01-01",
+      "price": 7056.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-02-01",
+      "price": 6977.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-03-01",
+      "price": 9267.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 8939.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-05-01",
+      "price": 8698.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-06-01",
+      "price": 8422.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 9318.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-08-01",
+      "price": 10957.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-09-01",
+      "price": 10844.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 9145.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-11-01",
+      "price": 8587.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1990-12-01",
+      "price": 8158.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 8569.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-02-01",
+      "price": 8672.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-03-01",
+      "price": 8700.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 9023.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-05-01",
+      "price": 8499.609375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-06-01",
+      "price": 8296.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 8515.201171875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-08-01",
+      "price": 8154.75,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-09-01",
+      "price": 7675.953125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 7453.86328125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-11-01",
+      "price": 7258.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1991-12-01",
+      "price": 7140.263671875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 7531.13671875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-02-01",
+      "price": 7888.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-03-01",
+      "price": 7430.455078125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 7417.951171875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-05-01",
+      "price": 7333.947265625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-06-01",
+      "price": 7202.36328125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 7516.173828125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-08-01",
+      "price": 7279.75,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-09-01",
+      "price": 6918.572265625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 6322.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-11-01",
+      "price": 5593.71484375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1992-12-01",
+      "price": 5751.1904296875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 5948.10009765625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-02-01",
+      "price": 6050.75,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-03-01",
+      "price": 5974.9130859375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 5987.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-05-01",
+      "price": 5777.78955078125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-06-01",
+      "price": 5544.318359375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 5051.181640625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-08-01",
+      "price": 4740.47607421875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-09-01",
+      "price": 4376.04541015625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 4464.85693359375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-11-01",
+      "price": 4642.27294921875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1993-12-01",
+      "price": 5139.7998046875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 5584.0478515625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-02-01",
+      "price": 5830.10009765625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-03-01",
+      "price": 5590.4345703125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 5400.26318359375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-05-01",
+      "price": 6082.85693359375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-06-01",
+      "price": 6287.04541015625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 6230.5712890625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-08-01",
+      "price": 5856.13623046875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-09-01",
+      "price": 6370.681640625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 6735.85693359375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-11-01",
+      "price": 7474.54541015625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1994-12-01",
+      "price": 8540.650390625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 9596.1904296875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-02-01",
+      "price": 8431.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-03-01",
+      "price": 7522.39111328125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 7405.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-05-01",
+      "price": 7262.380859375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-06-01",
+      "price": 7877.27294921875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 8618.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-08-01",
+      "price": 8931.818359375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-09-01",
+      "price": 8397.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 8068.86376953125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-11-01",
+      "price": 8498.095703125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1995-12-01",
+      "price": 8074.21044921875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 7870.71435546875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-02-01",
+      "price": 8198.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-03-01",
+      "price": 8046.39990234375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 8047.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-05-01",
+      "price": 8042.85693359375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-06-01",
+      "price": 7713.15771484375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 7202.60888671875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-08-01",
+      "price": 7037.619140625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-09-01",
+      "price": 7329.8095703125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 7028.69580078125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-11-01",
+      "price": 6960.71435546875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1996-12-01",
+      "price": 6571.0478515625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 7069.13623046875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-02-01",
+      "price": 7736.5791015625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-03-01",
+      "price": 7893.21044921875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 7313.13623046875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-05-01",
+      "price": 7476.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-06-01",
+      "price": 7060.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 6832.7392578125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-08-01",
+      "price": 6764.4501953125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-09-01",
+      "price": 6498.28564453125,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 6373.47802734375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-11-01",
+      "price": 6137.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1997-12-01",
+      "price": 5942.380859375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 5489.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-02-01",
+      "price": 5367.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-03-01",
+      "price": 5397.04541015625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 5391.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-05-01",
+      "price": 5016.84228515625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-06-01",
+      "price": 4456.90478515625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 4332.619140625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-08-01",
+      "price": 4078.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-09-01",
+      "price": 4100.9091796875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 3870.45458984375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-11-01",
+      "price": 4117.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1998-12-01",
+      "price": 3865.76318359375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 4264.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-02-01",
+      "price": 4623.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-03-01",
+      "price": 5002.95454545455,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 5054.75,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-05-01",
+      "price": 5395.78947368421,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-06-01",
+      "price": 5194.77272727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 5696.36363636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-08-01",
+      "price": 6431.42857142857,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-09-01",
+      "price": 7029.09090909091,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 7317.61904761905,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-11-01",
+      "price": 7946.81818181818,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "1999-12-01",
+      "price": 8073.23529411765,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 8315.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-02-01",
+      "price": 9583.75,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-03-01",
+      "price": 10255.4,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 9746.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 10122.9130434783,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-06-01",
+      "price": 8384.31818181818,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 8174.80952380952,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-08-01",
+      "price": 8038.4347826087,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-09-01",
+      "price": 8624.80952380952,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 7650.63636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-11-01",
+      "price": 7350.59090909091,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2000-12-01",
+      "price": 7318.8,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 6975.90909090909,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-02-01",
+      "price": 6546.8,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-03-01",
+      "price": 6165.18181818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 6363.11111111111,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-05-01",
+      "price": 7086.47619047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-06-01",
+      "price": 6674.33333333333,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 5962.54545454546,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-08-01",
+      "price": 5525.63636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-09-01",
+      "price": 5057.65,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 4830.78260869565,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-11-01",
+      "price": 5131.31818181818,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2001-12-01",
+      "price": 5315.82352941176,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 6061.36363636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-02-01",
+      "price": 6039.95,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-03-01",
+      "price": 6543.2,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 6956.80952380952,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-05-01",
+      "price": 6771.18181818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-06-01",
+      "price": 7147.61111111111,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 7137.69565217391,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-08-01",
+      "price": 6736.85714285714,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-09-01",
+      "price": 6664.95238095238,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 6818.91304347826,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-11-01",
+      "price": 7314.80952380952,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2002-12-01",
+      "price": 7206.33333333333,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 8032.80681818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-02-01",
+      "price": 8607.9,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-03-01",
+      "price": 8339.61904761905,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 7930.525,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-05-01",
+      "price": 8347.725,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-06-01",
+      "price": 8839.02380952381,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 8831.7,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-08-01",
+      "price": 9359.875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 9995.77272727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 11040.2826086957,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-11-01",
+      "price": 12052.375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 14185.2095238095,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 15089.3333333333,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-02-01",
+      "price": 15099.35,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 13786.5434782609,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 12725.9,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-05-01",
+      "price": 11228.6052631579,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-06-01",
+      "price": 13599.3636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 15020.0681818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-08-01",
+      "price": 13639.619047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-09-01",
+      "price": 13430.3636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 14378.4761904762,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 14089.5122727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2004-12-01",
+      "price": 13764.9761904762,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 14563.75,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-02-01",
+      "price": 15415.6,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-03-01",
+      "price": 16239.9047619048,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 16138.3333333333,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-05-01",
+      "price": 17002.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-06-01",
+      "price": 16113.1818181818,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 14587.5952380952,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 14962.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-09-01",
+      "price": 14154.5454545455,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 12431.119047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-11-01",
+      "price": 12235.0454545455,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2005-12-01",
+      "price": 13490.45,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 14660.8095238095,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-02-01",
+      "price": 14974.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-03-01",
+      "price": 14925.4782608696,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 18028.8888888889,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 21131.3333333333,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-06-01",
+      "price": 20585.9090909091,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 26185.7142857143,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-08-01",
+      "price": 30468.8636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-09-01",
+      "price": 29702.619047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 32551.1363636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-11-01",
+      "price": 31891.5909090909,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2006-12-01",
+      "price": 34400.5263157895,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 36821.5909090909,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-02-01",
+      "price": 41078.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-03-01",
+      "price": 46125.2272727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 49956.5789473684,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-05-01",
+      "price": 51783.3333333333,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-06-01",
+      "price": 41551.6666666667,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 33400.2272727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-08-01",
+      "price": 27649.6363636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-09-01",
+      "price": 29548.4,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 31156.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-11-01",
+      "price": 30505.6363636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2007-12-01",
+      "price": 26053.5555555556,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 27774.7727272727,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-02-01",
+      "price": 28064.9523809524,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-03-01",
+      "price": 31093.0526315789,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 28776.8181818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-05-01",
+      "price": 25656.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-06-01",
+      "price": 22562.5714285714,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 20106.9565217391,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-08-01",
+      "price": 19111.8,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 17781.8636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 12144.8695652174,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-11-01",
+      "price": 10776.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 9846.92857142857,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 11562.9523809524,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-02-01",
+      "price": 10410.75,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-03-01",
+      "price": 9710.72727272727,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 11331.6,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-05-01",
+      "price": 12720.0789473684,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 14944.3636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 16017.3913043478,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-08-01",
+      "price": 19375.925,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-09-01",
+      "price": 17404.6363636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 18489.4772727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-11-01",
+      "price": 16911.3333333333,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2009-12-01",
+      "price": 17121.619047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 18405.55,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 19060.55,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 22467.1739130435,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 26028.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-05-01",
+      "price": 21930.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-06-01",
+      "price": 19411.2954545455,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 19548.5227272727,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-08-01",
+      "price": 21448.7857142857,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-09-01",
+      "price": 22690.1363636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 23793.6785714286,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 22836.2272727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2010-12-01",
+      "price": 24099.5714285714,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 25621.225,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-02-01",
+      "price": 28412.175,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-03-01",
+      "price": 26710.347826087,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 26332.1666666667,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-05-01",
+      "price": 24164.55,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-06-01",
+      "price": 22420.9318181818,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 23847.9523809524,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 21864.6818181818,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-09-01",
+      "price": 20377.5909090909,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 19039.0476190476,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-11-01",
+      "price": 17873.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2011-12-01",
+      "price": 18246.0375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 19908.619047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-02-01",
+      "price": 20393.6666666667,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-03-01",
+      "price": 18660.8068181818,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 17892.8157894737,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-05-01",
+      "price": 16968.3181818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-06-01",
+      "price": 16603.6842105263,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 16128.4090909091,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-08-01",
+      "price": 15703.9886363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-09-01",
+      "price": 17287.9625,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 17168.7391304348,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-11-01",
+      "price": 16335.3636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2012-12-01",
+      "price": 17448.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 17494.0681818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-02-01",
+      "price": 17690.1,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-03-01",
+      "price": 16731.7,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 15629.3095238095,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-05-01",
+      "price": 14948.2261904762,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-06-01",
+      "price": 14280.275,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 13750.3152173913,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-08-01",
+      "price": 14308.2619047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-09-01",
+      "price": 13801.3928571429,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 14117.652173913,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-11-01",
+      "price": 13684.0119047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2013-12-01",
+      "price": 13924.55,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 14101.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-02-01",
+      "price": 14203.55,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-03-01",
+      "price": 15678.0952380952,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 17373.6,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-05-01",
+      "price": 19401.075,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-06-01",
+      "price": 18628.8095238095,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 19117.652173913,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-08-01",
+      "price": 18600.2,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 18034.7954545455,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 15812.3695652174,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-11-01",
+      "price": 15807.05,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 15962.0476190476,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 14849.1904761905,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-02-01",
+      "price": 14573.8375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-03-01",
+      "price": 13755.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 12830.925,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-05-01",
+      "price": 13511.3421052632,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 12825.2272727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 11413.097826087,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-08-01",
+      "price": 10386.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-09-01",
+      "price": 9937.54545454545,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 10316.8295454545,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-11-01",
+      "price": 9244.33333333333,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2015-12-01",
+      "price": 8707.78571428571,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 8507.2875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 8298.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-03-01",
+      "price": 8717.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 8878.85714285714,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-05-01",
+      "price": 8660.35,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-06-01",
+      "price": 8928.35227272727,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 10262.8571428571,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 10335.9886363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-09-01",
+      "price": 10191.7840909091,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 10259.7380952381,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-11-01",
+      "price": 11128.9090909091,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2016-12-01",
+      "price": 10972.275,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 9971.46428571429,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-02-01",
+      "price": 10643.3,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-03-01",
+      "price": 10204.6630434783,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 9609.27777777778,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 9155.11904761905,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-06-01",
+      "price": 8931.76136363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 9491.39285714286,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-08-01",
+      "price": 10889.9772727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-09-01",
+      "price": 11215.7857142857,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 11335.7727272727,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-11-01",
+      "price": 11972.0,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2017-12-01",
+      "price": 11495.1052631579,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 12864.875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-02-01",
+      "price": 13595.875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-03-01",
+      "price": 13392.5,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 13938.1,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-05-01",
+      "price": 14366.4880952381,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-06-01",
+      "price": 15105.6547619048,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 13793.8636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-08-01",
+      "price": 13411.3522727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-09-01",
+      "price": 12510.35,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 12314.9130434783,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-11-01",
+      "price": 11239.7159090909,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2018-12-01",
+      "price": 10835.0789473684,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 11523.0909090909,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-02-01",
+      "price": 12685.225,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-03-01",
+      "price": 13026.2738095238,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 12772.7875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-05-01",
+      "price": 12016.3095238095,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-06-01",
+      "price": 11943.9375,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 13546.3043478261,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-08-01",
+      "price": 15748.6428571429,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-09-01",
+      "price": 17656.880952381,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 17046.2173913043,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-11-01",
+      "price": 15171.8095238095,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2019-12-01",
+      "price": 13829.425,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 13506.8636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-02-01",
+      "price": 12715.55,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-03-01",
+      "price": 11846.2272727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 11804.0095,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-05-01",
+      "price": 12179.6052631579,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 12727.1522727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 13402.3039130435,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-08-01",
+      "price": 14575.7828571429,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-09-01",
+      "price": 14857.4886363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 15239.3636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-11-01",
+      "price": 15807.7333333333,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2020-12-01",
+      "price": 16823.0385714286,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 17863.176,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 18584.38,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 16406.6604347826,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 16521.25,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-05-01",
+      "price": 17602.1025,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-06-01",
+      "price": 17979.5659090909,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 18818.5113636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-08-01",
+      "price": 19141.2966666667,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-09-01",
+      "price": 19376.875,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 19362.3928571429,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 19932.8631818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2021-12-01",
+      "price": 20015.5485714286,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 22355.4,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-02-01",
+      "price": 24015.55,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-03-01",
+      "price": 33924.1764705882,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 33133.8095238095,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-05-01",
+      "price": 28228.8868181818,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-06-01",
+      "price": 25877.0681818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 21481.8928571429,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 22034.8913043478,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-09-01",
+      "price": 22773.9663636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 22032.8928571429,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-11-01",
+      "price": 25562.6977272727,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2022-12-01",
+      "price": 28985.9204545455,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 28271.4909090909,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-02-01",
+      "price": 26727.95,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-03-01",
+      "price": 23288.6082608696,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 23770.7995,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 22134.7826086957,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-06-01",
+      "price": 21233.2781818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 21091.2619047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-08-01",
+      "price": 20446.3582608696,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-09-01",
+      "price": 19644.6428571429,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 18264.0354545455,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-11-01",
+      "price": 17027.3636363636,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2023-12-01",
+      "price": 16443.5238095238,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 16111.6669565217,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-02-01",
+      "price": 16338.4642857143,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-03-01",
+      "price": 17397.3604761905,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 18132.3640909091,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-05-01",
+      "price": 19576.5465217391,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-06-01",
+      "price": 17498.0075,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 16334.8752173913,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 16303.2877272727,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 16167.6776190476,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 16765.8034782609,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 15726.9476190476,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 15438.6563636364,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 15374.0608695652,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 15287.031,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 16048.2019047619,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 15146.0022727273,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 15350.4031818182,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 15003.1076190476,
+      "commodity": "nickel",
+      "source": "FRED",
+      "series_id": "PNICKUSDM"
+    }
+  ],
+  "series_id": "PNICKUSDM",
+  "count": 426,
+  "commodity": "nickel",
+  "series_info": {
+    "id": "PNICKUSDM",
+    "realtime_start": "2025-09-19",
+    "realtime_end": "2025-09-19",
+    "title": "Global price of Nickel",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "U.S. Dollars per Metric Ton",
+    "units_short": "U.S. $ per Metric Ton",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:14-05",
+    "popularity": "68",
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.  Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

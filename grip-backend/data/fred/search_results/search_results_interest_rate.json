@@ -1,0 +1,58 @@
+{
+  "search_term": "interest rate",
+  "collected_at": "2025-09-19T10:06:17.449060",
+  "series": [
+    {
+      "id": "BAMLH0A0HYM2",
+      "title": "ICE BofA US High Yield Index Option-Adjusted Spread",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 97,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLH0A0HYM2EY",
+      "title": "ICE BofA US High Yield Index Effective Yield",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 84,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "DFII10",
+      "title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed",
+      "frequency": "Daily",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 84,
+      "observation_start": "2003-01-02",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLC0A0CM",
+      "title": "ICE BofA US Corporate Index Option-Adjusted Spread",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 83,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLC0A4CBBB",
+      "title": "ICE BofA BBB US Corporate Index Option-Adjusted Spread",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 82,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 5
+}

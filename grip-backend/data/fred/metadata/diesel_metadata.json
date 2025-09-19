@@ -1,0 +1,17 @@
+{
+  "id": "GASDESW",
+  "realtime_start": "2025-09-18",
+  "realtime_end": "2025-09-18",
+  "title": "US Diesel Sales Price",
+  "observation_start": "1994-03-21",
+  "observation_end": "2025-09-15",
+  "frequency": "Weekly, Ending Monday",
+  "frequency_short": "W",
+  "units": "Dollars per Gallon",
+  "units_short": "$ per Gallon",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2025-09-16 09:06:10-05",
+  "popularity": 59,
+  "notes": "Weighted average based on sampling of approximately 350 retail outlets, as reported for the week. See (http://www.eia.doe.gov/oil_gas/petroleum/data_publications/wrgp/mogas_home_page.html) for further definitions."
+}

@@ -1,0 +1,208 @@
+{
+  "search_term": "lumber price",
+  "collected_at": "2025-09-19T06:30:04.315446",
+  "series": [
+    {
+      "id": "WPU0911",
+      "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 69,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU081",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Lumber",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 63,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPS081",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Lumber",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 51,
+      "observation_start": "1967-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU083",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Plywood",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 50,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU0811",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Softwood Lumber",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 44,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU091105",
+      "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp",
+      "frequency": "Monthly",
+      "units": "Index Jun 2006=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 41,
+      "observation_start": "2006-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU08",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 40,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU0812",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Hardwood Lumber",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 38,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3219203219205",
+      "title": "Producer Price Index by Industry: Wood Container and Pallet Manufacturing: Wood Pallets and Pallet Containers, Wood and Metal Combination",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 35,
+      "observation_start": "1985-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU08120401",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Oak and Maple Hardwood Flooring",
+      "frequency": "Monthly",
+      "units": "Index Jun 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 33,
+      "observation_start": "1984-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPS0911",
+      "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 30,
+      "observation_start": "1967-01-01",
+      "observation_end": "2014-12-01"
+    },
+    {
+      "id": "WPU084",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Other Wood Products",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 29,
+      "observation_start": "1966-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPS0811",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Softwood Lumber",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 27,
+      "observation_start": "1975-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU08410101",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Wood Pallets and Pallet Containers, Wood and Metal Combination",
+      "frequency": "Monthly",
+      "units": "Index Dec 2009=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 25,
+      "observation_start": "2009-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU09110501",
+      "title": "Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Wood Pulp",
+      "frequency": "Monthly",
+      "units": "Index Jun 2006=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 25,
+      "observation_start": "2006-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU08510505",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Wood Chips, Excluding Field Chips",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 22,
+      "observation_start": "2011-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU08110503",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Softwood Cut Stock and Dimension",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 20,
+      "observation_start": "1987-01-01",
+      "observation_end": "2025-05-01"
+    },
+    {
+      "id": "PCU3211133211135",
+      "title": "Producer Price Index by Industry: Sawmills: Wood Chips, Excluding Field Chips",
+      "frequency": "Monthly",
+      "units": "Index Dec 1980=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 17,
+      "observation_start": "1980-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU08510502",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Logs, Bolts, Timber and Pulpwood",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 17,
+      "observation_start": "2011-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU0841",
+      "title": "Producer Price Index by Commodity: Lumber and Wood Products: Wood Pallets and Pallet Containers, Wood and Metal Combination",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 17,
+      "observation_start": "1971-01-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

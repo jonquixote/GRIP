@@ -1,0 +1,208 @@
+{
+  "search_term": "industrial metal price",
+  "collected_at": "2025-09-19T10:03:53.087039",
+  "series": [
+    {
+      "id": "PCU3219203219205",
+      "title": "Producer Price Index by Industry: Wood Container and Pallet Manufacturing: Wood Pallets and Pallet Containers, Wood and Metal Combination",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 35,
+      "observation_start": "1985-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU332332",
+      "title": "Producer Price Index by Industry: Fabricated Metal Product Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 34,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3324313324311",
+      "title": "Producer Price Index by Industry: Metal Can Manufacturing: Steel Cans and Tinware Products",
+      "frequency": "Monthly",
+      "units": "Index Jun 1981=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 31,
+      "observation_start": "1981-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU33231233231211",
+      "title": "Producer Price Index by Industry: Fabricated Structural Metal Manufacturing: Fabricated Structural Iron and Steel for Industrial Buildings Metal Bar Joists, Short Span",
+      "frequency": "Monthly",
+      "units": "Index Jun 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 26,
+      "observation_start": "2011-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3335173335172",
+      "title": "Producer Price Index by Industry: Machine Tool Manufacturing: Metal Cutting Machine Tools",
+      "frequency": "Monthly",
+      "units": "Index Jun 1983=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 24,
+      "observation_start": "1970-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3324313324313",
+      "title": "Producer Price Index by Industry: Metal Can Manufacturing: Aluminum Cans (Including Lids, Ends, and Parts Shipped Separately)",
+      "frequency": "Monthly",
+      "units": "Index Jun 1981=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 23,
+      "observation_start": "1975-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3329193329194",
+      "title": "Producer Price Index by Industry: Other Metal Valve and Pipe Fitting Manufacturing: Metal Fittings, Flanges, and Unions for Pipe Fittings",
+      "frequency": "Monthly",
+      "units": "Index Dec 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "1965-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU2122321223",
+      "title": "Producer Price Index by Industry: Copper, Nickel, Lead and Zinc Mining",
+      "frequency": "Monthly",
+      "units": "Index Jun 1988=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 20,
+      "observation_start": "1988-06-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "PCU3323123323121",
+      "title": "Producer Price Index by Industry: Fabricated Structural Metal Manufacturing: Fabricated Structural Metal Bar Joists and Concrete Reinforcing Bars",
+      "frequency": "Monthly",
+      "units": "Index Jun 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 20,
+      "observation_start": "1965-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU332420332420",
+      "title": "Producer Price Index by Industry: Metal Tanks, Heavy Gauge, Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 19,
+      "observation_start": "2003-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3327223327223199",
+      "title": "Producer Price Index by Industry: Bolt, Nut, Screw, Rivet, and Washer Manufacturing: Other Externally Threaded Metal Fasteners, Including Studs (Except Aircraft Types)",
+      "frequency": "Monthly",
+      "units": "Index Dec 1999=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 19,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU33231233231212",
+      "title": "Producer Price Index by Industry: Fabricated Structural Metal Manufacturing: Fabricated Structural Iron and Steel for Commercial, Residential, Institutional, and Public Buildings",
+      "frequency": "Monthly",
+      "units": "Index Jun 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 18,
+      "observation_start": "2011-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU332322332322",
+      "title": "Producer Price Index by Industry: Sheet Metal Work Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 17,
+      "observation_start": "1982-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3399913399917",
+      "title": "Producer Price Index by Industry: Gasket, Packing, and Sealing Device Manufacturing: Metallic Gaskets and Machined Seals",
+      "frequency": "Monthly",
+      "units": "Index Dec 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 17,
+      "observation_start": "1985-12-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "PCU3323113323111",
+      "title": "Producer Price Index by Industry: Prefabricated Metal Buildings and Components Manufacturing: Prefabricated Metal Buildings and Component Systems (Excluding Farm Service Buildings, Residential Buildings, and Parts)",
+      "frequency": "Monthly",
+      "units": "Index Dec 1981=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 16,
+      "observation_start": "1975-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU4299304299301",
+      "title": "Producer Price Index by Industry: Material Recyclers: Ferrous Metal Scrap",
+      "frequency": "Monthly",
+      "units": "Index Dec 1986=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 16,
+      "observation_start": "1986-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3359113359111",
+      "title": "Producer Price Index by Industry: Battery Manufacturing: Storage Batteries, Lead Acid Type, BCI Dimensional Size Group 8D or Smaller",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 15,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU332919332919",
+      "title": "Producer Price Index by Industry: Other Metal Valve and Pipe Fitting Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 13,
+      "observation_start": "1972-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU331331",
+      "title": "Producer Price Index by Industry: Primary Metal Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 13,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU332321332321",
+      "title": "Producer Price Index by Industry: Metal Window and Door Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Jun 1983=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 13,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

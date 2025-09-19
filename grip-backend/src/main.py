@@ -49,9 +49,16 @@ app.register_blueprint(usgs_test_bp)
 app.register_blueprint(file_ingestion_bp)
 
 # Database configuration from environment variables
-app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', f"sqlite:///{os.path.join(os.path.dirname(__file__), 'database', 'app.db')}")
+database_path = os.path.abspath(os.path.join(os.path.dirname(__file__), 'database', 'app.db'))
+# Force the absolute path for the database URI
+database_uri = f"sqlite:///{database_path}"
+print(f"Database URI: {database_uri}")
+print(f"Database path: {database_path}")
+app.config['SQLALCHEMY_DATABASE_URI'] = database_uri
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db.init_app(app)
+
+# Uncomment to create database tables on startup
 with app.app_context():
     db.create_all()
 

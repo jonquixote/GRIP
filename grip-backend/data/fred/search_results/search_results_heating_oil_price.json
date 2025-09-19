@@ -1,0 +1,208 @@
+{
+  "search_term": "heating oil price",
+  "collected_at": "2025-09-19T05:45:31.328928",
+  "series": [
+    {
+      "id": "DHOILNYH",
+      "title": "No. 2 Heating Oil Prices: New York Harbor",
+      "frequency": "Daily",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 40,
+      "observation_start": "1986-06-02",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "WHOILNYH",
+      "title": "No. 2 Heating Oil Prices: New York Harbor",
+      "frequency": "Weekly, Ending Friday",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 31,
+      "observation_start": "1986-06-06",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "00XTOBEZ19M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco for Euro Area (19 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 22,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "MHOILNYH",
+      "title": "No. 2 Heating Oil Prices: New York Harbor",
+      "frequency": "Monthly",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 12,
+      "observation_start": "1986-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GOODS0DEM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Goods (Overall Index Excluding Services) for Germany",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 8,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "AHOILNYH",
+      "title": "No. 2 Heating Oil Prices: New York Harbor",
+      "frequency": "Annual",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "1986-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "00XTOBEZCCM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco for Euro Area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU05730201",
+      "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Home Heating Oil and Distillates",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1973-02-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPS057302",
+      "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Home Heating Oil and Distillates",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1975-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XALCIEM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Alcohol and Tobacco for Ireland",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XTOBITM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco for Italy",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XTOBFRM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco for France",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XALCFRM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Alcohol and Tobacco for France",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GOODS0NLM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Goods (Overall Index Excluding Services) for Netherlands",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0453GRM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Liquid Fuels for Greece",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GOODS0EZ19M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Goods (Overall Index Excluding Services) for Euro Area (19 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU333414333414D",
+      "title": "Producer Price Index by Industry: Heating Equipment (Except Warm Air Furnaces) Manufacturing: Other Heating Equipment, Except Electric (Including Parts for Nonelectric Equipment and Oil Burners)",
+      "frequency": "Monthly",
+      "units": "Index Jun 1999=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "1999-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU057302",
+      "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Home Heating Oil and Distillates",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "1975-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GOODS0EZ18M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Goods (Overall Index Excluding Services) for Euro Area (18 countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2000-12-01",
+      "observation_end": "2022-11-01"
+    },
+    {
+      "id": "00XFUEEZCCM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Liquid Fuels and Lubricants for Personal Transport Equipment for Euro Area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

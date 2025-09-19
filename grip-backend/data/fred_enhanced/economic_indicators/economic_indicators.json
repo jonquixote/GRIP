@@ -1,0 +1,236 @@
+{
+  "collected_at": "2025-09-19T12:44:56.041409",
+  "indicators": {
+    "GDP": {
+      "value": 2182.681,
+      "date": "1947-01-01",
+      "series_id": "GDPC1"
+    },
+    "GDP_Growth": {
+      "value": -1.0,
+      "date": "1947-04-01",
+      "series_id": "A191RL1Q225SBEA"
+    },
+    "Nominal_GDP": {
+      "value": 243.164,
+      "date": "1947-01-01",
+      "series_id": "GDP"
+    },
+    "CPI": {
+      "value": 21.48,
+      "date": "1947-01-01",
+      "series_id": "CPIAUCSL"
+    },
+    "Core_CPI": {
+      "value": 28.5,
+      "date": "1957-01-01",
+      "series_id": "CPILFESL"
+    },
+    "PPI": {
+      "value": 12.1,
+      "date": "1913-01-01",
+      "series_id": "PPIACO"
+    },
+    "Industrial_Production": {
+      "value": 4.8654,
+      "date": "1919-01-01",
+      "series_id": "INDPRO"
+    },
+    "Unemployment": {
+      "value": 3.4,
+      "date": "1948-01-01",
+      "series_id": "UNRATE"
+    },
+    "Employment": {
+      "value": 29923.0,
+      "date": "1939-01-01",
+      "series_id": "PAYEMS"
+    },
+    "Manufacturing_Employment": {
+      "value": 9077.0,
+      "date": "1939-01-01",
+      "series_id": "MANEMP"
+    },
+    "Unemployment_Rate": {
+      "value": 3.4,
+      "date": "1948-01-01",
+      "series_id": "UNRATE"
+    },
+    "Labor_Force_Participation": {
+      "value": 58.6,
+      "date": "1948-01-01",
+      "series_id": "CIVPART"
+    },
+    "Average_Hourly_Earnings": {
+      "value": 20.05,
+      "date": "2006-03-01",
+      "series_id": "CES0500000003"
+    },
+    "Federal_Funds_Rate": {
+      "value": 0.8,
+      "date": "1954-07-01",
+      "series_id": "FEDFUNDS"
+    },
+    "10Y_Treasury_Rate": {
+      "value": 4.06,
+      "date": "1962-01-02",
+      "series_id": "DGS10"
+    },
+    "3M_Treasury_Rate": {
+      "value": 17.01,
+      "date": "1981-09-01",
+      "series_id": "DGS3MO"
+    },
+    "Corporate_Bond_Yield": {
+      "value": 7.12,
+      "date": "1919-01-01",
+      "series_id": "BAA"
+    },
+    "TED_Spread": {
+      "value": 0.9,
+      "date": "1986-01-02",
+      "series_id": "TEDRATE"
+    },
+    "M1_Money_Supply": {
+      "value": 138.9,
+      "date": "1959-01-01",
+      "series_id": "M1SL"
+    },
+    "M2_Money_Supply": {
+      "value": 286.6,
+      "date": "1959-01-01",
+      "series_id": "M2SL"
+    },
+    "M3_Money_Supply": {
+      "value": 288.8,
+      "date": "1959-01-01",
+      "series_id": "M3SL"
+    },
+    "Dollar_Index": {
+      "value": 101.4155,
+      "date": "2006-01-02",
+      "series_id": "DTWEXBGS"
+    },
+    "Euro_USD": {
+      "value": 1.1812,
+      "date": "1999-01-04",
+      "series_id": "DEXUSEU"
+    },
+    "Yen_USD": {
+      "value": 357.73,
+      "date": "1971-01-04",
+      "series_id": "DEXJPUS"
+    },
+    "Yuan_USD": {
+      "value": 1.5341,
+      "date": "1981-01-02",
+      "series_id": "DEXCHUS"
+    },
+    "Pound_USD": {
+      "value": 2.3938,
+      "date": "1971-01-04",
+      "series_id": "DEXUSUK"
+    },
+    "Housing_Starts": {
+      "value": 1657.0,
+      "date": "1959-01-01",
+      "series_id": "HOUST"
+    },
+    "Existing_Home_Sales": {
+      "value": 3980000.0,
+      "date": "2024-07-01",
+      "series_id": "EXHOSLUSM495S"
+    },
+    "Retail_Sales": {
+      "value": 142419.0,
+      "date": "1992-01-01",
+      "series_id": "RSXFS"
+    },
+    "Consumer_Confidence": {
+      "value": 86.2,
+      "date": "1952-11-01",
+      "series_id": "UMCSENT"
+    },
+    "Trade_Balance": {
+      "value": -2026.0,
+      "date": "1992-01-01",
+      "series_id": "BOPGSTB"
+    },
+    "Exports": {
+      "value": 93.767,
+      "date": "1947-01-01",
+      "series_id": "EXPGSC1"
+    },
+    "Imports": {
+      "value": 53.861,
+      "date": "1947-01-01",
+      "series_id": "IMPGSC1"
+    },
+    "VIX": {
+      "value": 17.24,
+      "date": "1990-01-02",
+      "series_id": "VIXCLS"
+    },
+    "Inflation_Rate": {
+      "value": 1.45797598627791,
+      "date": "1960-01-01",
+      "series_id": "FPCPITOTLZGUSA"
+    },
+    "Stock_Market_Index": {
+      "value": 1966.97,
+      "date": "2015-09-21",
+      "series_id": "SP500"
+    },
+    "10Y_Breakeven_Inflation": {
+      "value": 1.64,
+      "date": "2003-01-02",
+      "series_id": "T10YIE"
+    },
+    "High_Yield_Spread": {
+      "value": 3.13,
+      "date": "1996-12-31",
+      "series_id": "BAMLH0A0HYM2"
+    },
+    "NASDAQ_Composite": {
+      "value": 100.0,
+      "date": "1971-02-05",
+      "series_id": "NASDAQCOM"
+    },
+    "University_of_Michigan_Inflation_Expectations": {
+      "value": 5.2,
+      "date": "1978-01-01",
+      "series_id": "MICH"
+    },
+    "House_Price_Index": {
+      "value": 59.65,
+      "date": "1975-01-01",
+      "series_id": "USSTHPI"
+    },
+    "New_Private_Housing_Permits": {
+      "value": 1092.0,
+      "date": "1960-01-01",
+      "series_id": "PERMIT"
+    },
+    "30Y_Conventional_Mortgage_Rate": {
+      "value": 7.33,
+      "date": "1971-04-02",
+      "series_id": "MORTGAGE30US"
+    },
+    "Total_Assets_of_Commercial_Banks": {
+      "value": 6577.83,
+      "date": "1943-01-01",
+      "series_id": "TOTALSL"
+    },
+    "Job_Openings": {
+      "value": 5088.0,
+      "date": "2000-12-01",
+      "series_id": "JTSJOL"
+    },
+    "Total_Nonfarm_Payrolls": {
+      "value": 29923.0,
+      "date": "1939-01-01",
+      "series_id": "PAYEMS"
+    }
+  },
+  "count": 46
+}

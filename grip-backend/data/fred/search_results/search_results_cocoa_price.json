@@ -1,0 +1,208 @@
+{
+  "search_term": "cocoa price",
+  "collected_at": "2025-09-19T06:29:28.175147",
+  "series": [
+    {
+      "id": "PCOCOUSDM",
+      "title": "Global price of Cocoa",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 70,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "PCU3113513113517",
+      "title": "Producer Price Index by Industry: Chocolate and Confectionery Manufacturing from Cacao: Other Chocolate and Cocoa Products, Made from Cacao Beans",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 33,
+      "observation_start": "2011-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XTOBEZ19M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco for Euro Area (19 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 22,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IR000",
+      "title": "Import Price Index (End Use): Green Coffee, Cocoa Beans, and Cane Sugar",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 19,
+      "observation_start": "1982-03-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCOCOUSDA",
+      "title": "Global price of Cocoa",
+      "frequency": "Annual",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 18,
+      "observation_start": "1990-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "PCOCOUSDQ",
+      "title": "Global price of Cocoa",
+      "frequency": "Quarterly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 14,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "WPU025401053",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Cocoa Butter, Liquor, and Cocoa Base Chocolate Syrup Made from Cacao Beans",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 9,
+      "observation_start": "2011-12-01",
+      "observation_end": "2020-06-01"
+    },
+    {
+      "id": "CP0121ITM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Coffee, Tea and Cocoa for Italy",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 9,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GOODS0DEM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Goods (Overall Index Excluding Services) for Germany",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 8,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0118EZ19M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Sugar, Jam, Honey, Chocolate and Confectionery for Euro Area (19 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XTOBEZCCM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco for Euro Area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015, EA20-2023)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0121EZ19M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Coffee, Tea and Cocoa for Euro Area (19 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0120DEM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Non-Alcoholic Beverages for Germany",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0121MI15EA20M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Coffee, Tea and Cocoa for Euro Area (20 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU025401052",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Sweetened/Unsweetened Chocolate/Cocoa Powder, Cacao Beans",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "2011-12-01",
+      "observation_end": "2018-12-01"
+    },
+    {
+      "id": "PCU31135131135173",
+      "title": "Producer Price Index by Industry: Chocolate and Confectionery Manufacturing from Cacao: Cocoa Butter/Liquor/Cocoa Base Chocolate Syrup, Cacao Beans",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "2011-12-01",
+      "observation_end": "2016-06-01"
+    },
+    {
+      "id": "WPU02540109",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Other Chocolate and Cocoa Products, Made from Cacao Beans",
+      "frequency": "Monthly",
+      "units": "Index Jun 1983=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1983-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XALCIEM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Alcohol and Tobacco for Ireland",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XFUNEZ19M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Energy and Unprocessed Food for Euro Area (19 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "00XTOBITM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Overall Index Excluding Tobacco for Italy",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

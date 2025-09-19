@@ -1,0 +1,18 @@
+{
+  "search_term": "gold fixing",
+  "collected_at": "2025-09-19T05:01:43.402504",
+  "series": [
+    {
+      "id": "M04009DE00BERM370NNBR",
+      "title": "Wool, Wholesale Price for Berlin, Germany",
+      "frequency": "Monthly",
+      "units": "Marks per 100 Kilograms",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1879-01-01",
+      "observation_end": "1931-02-01"
+    }
+  ],
+  "total_found": 2,
+  "filtered_count": 1
+}

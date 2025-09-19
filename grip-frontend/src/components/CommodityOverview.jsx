@@ -12,18 +12,22 @@ import {
   Star,
   AlertCircle,
   BarChart3,
-  Activity
+  Activity,
+  Globe,
+  Zap
 } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { commodityService } from '../services/api';
+import { mockDataService } from '../services/mockData';
+import CommoditySearch from './CommoditySearch';
 
 const CommodityOverview = () => {
   const [commodities, setCommodities] = useState([]);
   const [filteredCommodities, setFilteredCommodities] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [searchTerm, setSearchTerm] = useState('');
   const [categoryFilter, setCategoryFilter] = useState('all');
   const [selectedCommodity, setSelectedCommodity] = useState(null);
+  const [searchTerm, setSearchTerm] = useState('');
 
   useEffect(() => {
     fetchCommodities();
@@ -31,15 +35,33 @@ const CommodityOverview = () => {
 
   useEffect(() => {
     filterCommodities();
-  }, [commodities, searchTerm, categoryFilter]);
+  }, [commodities, categoryFilter, searchTerm]);
 
   const fetchCommodities = async () => {
     try {
       setLoading(true);
       const response = await commodityService.getAll();
-      setCommodities(response.data);
+      // Add mock strategic importance and categories for now
+      const commoditiesWithDetails = response.data.map(commodity => ({
+        ...commodity,
+        strategic_importance: Math.floor(Math.random() * 10) + 1,
+        category: ['base metal', 'precious metal', 'critical metal', 'energy'][Math.floor(Math.random() * 4)]
+      }));
+      setCommodities(commoditiesWithDetails);
     } catch (error) {
       console.error('Error fetching commodities:', error);
+      // Fallback to mock data
+      try {
+        const mockResponse = await mockDataService.getCommodities();
+        const commoditiesWithDetails = mockResponse.data.map(commodity => ({
+          ...commodity,
+          strategic_importance: Math.floor(Math.random() * 10) + 1,
+          category: ['base metal', 'precious metal', 'critical metal', 'energy'][Math.floor(Math.random() * 4)]
+        }));
+        setCommodities(commoditiesWithDetails);
+      } catch (mockError) {
+        console.error('Error fetching mock commodities:', mockError);
+      }
     } finally {
       setLoading(false);
     }
@@ -82,11 +104,16 @@ const CommodityOverview = () => {
     return colors[category?.toLowerCase()] || 'bg-gray-100 text-gray-800 dark:bg-gray-900 dark:text-gray-200';
   };
 
-  const handleAnalyzeCommodity = async (commodityId) => {
-    // Mock analysis for now
+  const handleSearchChange = (e) => {
+    setSearchTerm(e.target.value);
+  };
+
+  const handleCommoditySelect = (commodity) => {
     setSelectedCommodity({
-      commodity: filteredCommodities.find(c => c.id === commodityId)
+      commodity
     });
+    // Also set the search term to the selected commodity name
+    setSearchTerm(commodity.name);
   };
 
   if (loading) {
@@ -109,13 +136,18 @@ const CommodityOverview = () => {
         </CardHeader>
         <CardContent>
           <div className="flex flex-col sm:flex-row gap-4">
-            <div className="relative flex-1">
-              <Search className="absolute left-3 top-3 h-4 w-4 text-muted-foreground" />
+            <div className="flex-1">
+              <CommoditySearch 
+                onCommoditySelect={handleCommoditySelect} 
+                onSearchChange={handleSearchChange}
+                searchValue={searchTerm}
+              />
+            </div>
+            <div className="w-full sm:w-[200px]">
               <Input
-                placeholder="Search commodities..."
+                placeholder="Or type to search..."
                 value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
-                className="pl-10"
+                onChange={handleSearchChange}
               />
             </div>
             <Select value={categoryFilter} onValueChange={setCategoryFilter}>

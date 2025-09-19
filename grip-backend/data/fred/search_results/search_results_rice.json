@@ -1,0 +1,208 @@
+{
+  "search_term": "rice",
+  "collected_at": "2025-09-19T03:57:00.156779",
+  "series": [
+    {
+      "id": "APU0000701312",
+      "title": "Average Price: Rice, White, Long Grain, Uncooked (Cost per Pound/453.6 Grams) in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 55,
+      "observation_start": "1980-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PRICENPQUSDM",
+      "title": "Global price of Rice, Thailand",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 48,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "WPU01230103",
+      "title": "Producer Price Index by Commodity: Farm Products: Rough Rice",
+      "frequency": "Monthly",
+      "units": "Index Dec 2004=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 15,
+      "observation_start": "2004-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "APU0300701312",
+      "title": "Average Price: Rice, White, Long Grain, Uncooked (Cost per Pound/453.6 Grams) in the South Census Region - Urban",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 12,
+      "observation_start": "1980-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "APU0400701312",
+      "title": "Average Price: Rice, White, Long Grain, Uncooked (Cost per Pound/453.6 Grams) in the West Census Region - Urban",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 11,
+      "observation_start": "1980-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "IQ000",
+      "title": "Export Price Index (End Use): Wheat, Rice and Other Food Grains",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 10,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU02130201",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Milled Rice (Including Second Heads, Screenings, Brewers, Bran, Sharps, Rice Flour, and Byproducts)",
+      "frequency": "Monthly",
+      "units": "Index Jun 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 9,
+      "observation_start": "1984-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PRICENPQUSDA",
+      "title": "Global price of Rice, Thailand",
+      "frequency": "Annual",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 8,
+      "observation_start": "1990-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "PCU3112123112120",
+      "title": "Producer Price Index by Industry: Rice Milling: Milled Rice and Byproducts",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 8,
+      "observation_start": "2003-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "APU0000701311",
+      "title": "Average Price: Rice, White, Long Grain, Precooked (Cost per Pound/453.6 Grams) in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1980-01-01",
+      "observation_end": "1981-12-01"
+    },
+    {
+      "id": "PCU31121231121204",
+      "title": "Producer Price Index by Industry: Rice Milling: Milled Rice (Including Second Heads, Screenings, Brewers, Bran, Sharps, Rice Flour, and Byproducts)",
+      "frequency": "Monthly",
+      "units": "Index Jun 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "2003-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU023402016",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Frozen Desserts Containing Fats Other Than Butterfat (Including Soy, Rice, Almond, Oats, etc.)",
+      "frequency": "Monthly",
+      "units": "Index Dec 2022=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "2022-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU0123",
+      "title": "Producer Price Index by Commodity: Farm Products: Rough Rice",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1991-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0111EUCCM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Bread and Cereals for European Union",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0111ROM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Bread and Cereals for Romania",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPS012301",
+      "title": "Producer Price Index by Commodity: Farm Products: Rough Rice",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "2019-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU012301031",
+      "title": "Producer Price Index by Commodity: Farm Products: Long Grain Rough Rice",
+      "frequency": "Monthly",
+      "units": "Index Sep 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "2015-09-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU311212311212",
+      "title": "Producer Price Index by Industry: Rice Milling",
+      "frequency": "Monthly",
+      "units": "Index Jun 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1965-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PRICENPQUSDQ",
+      "title": "Global price of Rice, Thailand",
+      "frequency": "Quarterly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "WPU012301",
+      "title": "Producer Price Index by Commodity: Farm Products: Rough Rice",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1991-12-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

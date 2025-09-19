@@ -1,0 +1,3859 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "2025-06-01",
+      "price": 8401.95273129209,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 9000.78733885103,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 8132.21849170564,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 8079.55612766149,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 9792.66420915907,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 10710.3454832771,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 10412.1857119853,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 7919.32826958636,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 6582.85801936108,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 6421.82565865562,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 6791.95381704821,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 7164.62803529469,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-06-01",
+      "price": 8380.12660951906,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-05-01",
+      "price": 7768.09837983038,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 9865.20603443829,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-03-01",
+      "price": 7297.55388407172,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-02-01",
+      "price": 5640.08761867767,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 4442.91977544222,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-12-01",
+      "price": 4253.90432911239,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-11-01",
+      "price": 4095.35620710136,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 3691.61471618218,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-09-01",
+      "price": 3629.16688338902,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-08-01",
+      "price": 3434.40659618607,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 3346.63454850788,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-06-01",
+      "price": 3124.43913501557,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 2905.34173330414,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 2823.27398456743,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-03-01",
+      "price": 2665.79131627609,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-02-01",
+      "price": 2586.52681702802,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 2540.07652395529,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-12-01",
+      "price": 2456.22695375839,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-11-01",
+      "price": 2380.80307026911,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 2243.63109825052,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-09-01",
+      "price": 2220.21424462955,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 2270.1027736141,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 2239.40228612775,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-06-01",
+      "price": 2323.11668724405,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-05-01",
+      "price": 2363.871129036,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 2457.38410728915,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-03-01",
+      "price": 2459.39831964072,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-02-01",
+      "price": 2551.32688358408,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 2467.3568625824,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-12-01",
+      "price": 2378.73085848743,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 2405.87446548502,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 2573.72524793001,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-09-01",
+      "price": 2552.76442186016,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-08-01",
+      "price": 2477.5003616693,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 2328.27955315558,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-06-01",
+      "price": 2366.29376388017,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-05-01",
+      "price": 2409.35743126594,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 2366.48605729395,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 2471.20432216576,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 2383.02850665624,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 2392.97356342042,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-12-01",
+      "price": 2405.76492397114,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-11-01",
+      "price": 2359.24371616157,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 2292.05417556777,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-09-01",
+      "price": 2457.61192365856,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-08-01",
+      "price": 2348.67630926201,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 2102.07713180143,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 2228.61763558442,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-05-01",
+      "price": 2317.45393156496,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 2270.23869684681,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-03-01",
+      "price": 2338.4705362227,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-02-01",
+      "price": 2716.21439777728,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 2603.07556121266,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-12-01",
+      "price": 2444.79207812378,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-11-01",
+      "price": 2519.66253231188,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 2435.27454023711,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-09-01",
+      "price": 2305.34171365752,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-08-01",
+      "price": 2194.69841555263,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 2416.52962109195,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-06-01",
+      "price": 2407.73108773711,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-05-01",
+      "price": 2315.07239968017,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 2331.1310220934,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-03-01",
+      "price": 2200.48467369723,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-02-01",
+      "price": 2255.80497302712,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 2263.33503646733,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-12-01",
+      "price": 2208.40804308194,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-11-01",
+      "price": 2185.03430248265,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 2134.1987717522,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-09-01",
+      "price": 2194.88579621512,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-08-01",
+      "price": 2171.61071074111,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 2357.04788545182,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-06-01",
+      "price": 2410.75862633418,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-05-01",
+      "price": 2659.61316532566,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 2624.73533456755,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-03-01",
+      "price": 2503.95123441796,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-02-01",
+      "price": 2122.79856105788,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 1951.82636758628,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-12-01",
+      "price": 1917.77560409513,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-11-01",
+      "price": 2127.90190237604,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 2097.05323803964,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-09-01",
+      "price": 1998.29596544082,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-08-01",
+      "price": 1988.55858478323,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 1988.57753865907,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-06-01",
+      "price": 1998.24532343575,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 1983.48485387547,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 1961.15730959898,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-03-01",
+      "price": 2063.09378081967,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-02-01",
+      "price": 2034.08396328063,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 2193.82674124701,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-12-01",
+      "price": 2295.30967167581,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-11-01",
+      "price": 2482.83126356115,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 2711.35091110878,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-09-01",
+      "price": 2881.18737013042,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 3032.48820296768,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 3049.97729681518,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-06-01",
+      "price": 3122.75028267201,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-05-01",
+      "price": 3098.38858371231,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 3078.49353330323,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-03-01",
+      "price": 3073.5191380389,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 2916.36653380488,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 2952.41608727993,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-12-01",
+      "price": 3345.65621942205,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-11-01",
+      "price": 3360.84046321504,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 3197.33984142531,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-09-01",
+      "price": 3278.45236058649,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-08-01",
+      "price": 3154.01802015011,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 3325.96010781497,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 3239.8841787899,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-05-01",
+      "price": 3095.99671499246,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 2868.27445389099,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-03-01",
+      "price": 2878.03316733308,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-02-01",
+      "price": 2961.93571359903,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 2915.60420369681,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 2946.94535933109,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-11-01",
+      "price": 2909.09136669635,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 3100.82970930733,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 3221.26737448068,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-08-01",
+      "price": 3270.26771810503,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 3196.03942765186,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-06-01",
+      "price": 3174.30611681317,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-05-01",
+      "price": 3029.99543124678,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 3050.6120638507,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-03-01",
+      "price": 3041.66697704191,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-02-01",
+      "price": 2992.76476821618,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 2819.43096143585,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-12-01",
+      "price": 2824.53914289773,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-11-01",
+      "price": 2755.17338184745,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 2730.69858636798,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-09-01",
+      "price": 2616.04732342337,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-08-01",
+      "price": 2483.6057473022,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 2308.52929089298,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-06-01",
+      "price": 2283.58387254418,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-05-01",
+      "price": 2345.7285926126,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 2294.72034730917,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-03-01",
+      "price": 2153.35871191912,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-02-01",
+      "price": 2197.70182383921,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 2275.43563491533,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-12-01",
+      "price": 2431.8220048234,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-11-01",
+      "price": 2478.16359624338,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 2463.53688210397,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-09-01",
+      "price": 2620.28367091802,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-08-01",
+      "price": 2512.25983282461,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 2349.81840761831,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-06-01",
+      "price": 2265.84009648494,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-05-01",
+      "price": 2309.50799142751,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 2266.7828936275,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-03-01",
+      "price": 2359.25129322166,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-02-01",
+      "price": 2356.23988067498,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 2307.76184935725,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-12-01",
+      "price": 2200.60517184562,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-11-01",
+      "price": 2527.42713962767,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 2680.04617734182,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-09-01",
+      "price": 2873.88312749223,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 3064.30919638405,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 3167.1840775825,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-06-01",
+      "price": 3015.64080672915,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-05-01",
+      "price": 3070.76634546098,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 3113.50842459052,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-03-01",
+      "price": 3392.96851971978,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-02-01",
+      "price": 3471.09674095203,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 3164.48435752407,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-12-01",
+      "price": 3047.06214220869,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 2910.31091568367,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 2927.45462291505,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-09-01",
+      "price": 2874.98361396243,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-08-01",
+      "price": 3071.71481749169,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 3229.54722564046,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-06-01",
+      "price": 3230.82767912164,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-05-01",
+      "price": 3165.76109446237,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 3221.2372116604,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 3089.64581385903,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 3276.54577475937,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 3522.09539822348,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-12-01",
+      "price": 3517.54364172808,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-11-01",
+      "price": 3384.12808576912,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 3372.50339663291,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-09-01",
+      "price": 3142.86387558054,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-08-01",
+      "price": 2956.66366726946,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 2791.35122181267,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 2700.36620109921,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-05-01",
+      "price": 2483.47925892937,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 2555.16632072476,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-03-01",
+      "price": 2501.75094160343,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-02-01",
+      "price": 2660.46621200081,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 2624.29313443738,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 2432.90600278573,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-11-01",
+      "price": 2068.0434271982,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 2258.6768144947,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 2672.05245165211,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-08-01",
+      "price": 2812.44491416739,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 2953.6715635618,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-06-01",
+      "price": 3021.75666697965,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-05-01",
+      "price": 2689.62027062232,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 2628.3291635329,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-03-01",
+      "price": 2649.83870812829,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-02-01",
+      "price": 2523.05063110131,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 2213.53913913183,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-12-01",
+      "price": 2119.84635940761,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-11-01",
+      "price": 1967.41592267042,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 1916.66995096912,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-09-01",
+      "price": 1965.13916568278,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-08-01",
+      "price": 1902.09189193206,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 2151.66585189595,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-06-01",
+      "price": 2012.51910970699,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-05-01",
+      "price": 2004.62709526417,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 1975.43260568748,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-03-01",
+      "price": 1924.20251093462,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-02-01",
+      "price": 1811.15204788049,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 1701.92811052628,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-12-01",
+      "price": 1702.15624793705,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-11-01",
+      "price": 1582.54181245102,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 1530.17100003858,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-09-01",
+      "price": 1566.33607223923,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-08-01",
+      "price": 1612.94257039368,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 1673.20654474569,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-06-01",
+      "price": 1605.78038874784,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 1594.29627918758,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 1552.34094844902,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-03-01",
+      "price": 1545.05127637864,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-02-01",
+      "price": 1545.40110009994,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 1576.22980089527,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-12-01",
+      "price": 1517.6103827326,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-11-01",
+      "price": 1428.77721016778,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 1453.83030526272,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-09-01",
+      "price": 1504.1559980323,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 1482.2308362734,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 1488.31593213842,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-06-01",
+      "price": 1538.62995911765,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-05-01",
+      "price": 1509.46467002621,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 1585.950389068,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-03-01",
+      "price": 1764.4528500814,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-02-01",
+      "price": 1633.9976032469,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 1550.2155109952,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-12-01",
+      "price": 1672.74882933391,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 1665.70854675731,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 1483.8020496912,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-09-01",
+      "price": 1541.13666739243,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-08-01",
+      "price": 1727.33360265832,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 1567.86437901554,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-06-01",
+      "price": 1407.88545649317,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-05-01",
+      "price": 1412.96118905473,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 1435.66806573637,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 1504.4284072765,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-02-01",
+      "price": 1566.08602785804,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 1626.39785347296,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 1627.28128473257,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-11-01",
+      "price": 1510.00935029147,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 1481.68128782414,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 1625.38851629466,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-08-01",
+      "price": 1565.54768021758,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 1562.70990884092,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-06-01",
+      "price": 1579.10846477664,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-05-01",
+      "price": 1732.51744967774,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 1932.19453123829,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-03-01",
+      "price": 1993.11300888278,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-02-01",
+      "price": 2230.352249546,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 2190.13811118364,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-12-01",
+      "price": 2025.61102182395,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-11-01",
+      "price": 1825.05743790573,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 2201.49510769065,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-09-01",
+      "price": 2167.41225964985,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-08-01",
+      "price": 1959.27273311832,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 1871.99852314152,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-06-01",
+      "price": 1656.45666951878,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-05-01",
+      "price": 1604.69583787364,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 1568.14640848596,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-03-01",
+      "price": 1592.0292323078,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-02-01",
+      "price": 1490.38718251107,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 1385.93297713796,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-12-01",
+      "price": 1337.42945636196,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-11-01",
+      "price": 1231.55077881715,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 1084.86237757982,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-09-01",
+      "price": 1026.20329397817,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-08-01",
+      "price": 1032.48380906939,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 965.322726956721,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-06-01",
+      "price": 973.29105488682,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-05-01",
+      "price": 1077.43612686205,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 1083.66282594128,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-03-01",
+      "price": 1124.40551391217,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-02-01",
+      "price": 1157.46657541196,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 966.394992193041,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-12-01",
+      "price": 892.782646836661,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-11-01",
+      "price": 873.987159458498,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 877.7229441397,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-09-01",
+      "price": 882.729175628467,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-08-01",
+      "price": 877.792726353178,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 967.111550127046,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-06-01",
+      "price": 948.22785784672,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 909.422413991637,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 911.952356580254,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-03-01",
+      "price": 925.925803499116,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-02-01",
+      "price": 860.739968864887,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 918.481742708907,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-12-01",
+      "price": 918.753685635882,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-11-01",
+      "price": 922.076617548214,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 1021.53721604018,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-09-01",
+      "price": 1060.56153712618,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-08-01",
+      "price": 1003.57274583327,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 1113.2391724194,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-06-01",
+      "price": 1162.90740491026,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-05-01",
+      "price": 1059.23634621547,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 1177.88805990602,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-03-01",
+      "price": 1313.89494312711,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-02-01",
+      "price": 1411.13742501879,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 1455.78771972656,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-12-01",
+      "price": 1524.12133789063,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-11-01",
+      "price": 1599.91125488281,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 1647.51867675781,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-09-01",
+      "price": 1685.86206054688,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-08-01",
+      "price": 1682.50231933594,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 1712.24377441406,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-06-01",
+      "price": 1723.35205078125,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-05-01",
+      "price": 1781.40881347656,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 1720.15942382813,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-03-01",
+      "price": 1721.06396484375,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-02-01",
+      "price": 1643.22595214844,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 1670.671875,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-12-01",
+      "price": 1738.74926757813,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-11-01",
+      "price": 1696.37390136719,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 1741.09875488281,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-09-01",
+      "price": 1765.58422851563,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-08-01",
+      "price": 1649.19458007813,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 1677.43139648438,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-06-01",
+      "price": 1693.62377929688,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-05-01",
+      "price": 1568.29809570313,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 1570.61486816406,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-03-01",
+      "price": 1521.87548828125,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-02-01",
+      "price": 1373.28405761719,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 1428.79064941406,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-12-01",
+      "price": 1474.232421875,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-11-01",
+      "price": 1465.53503417969,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 1477.580078125,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-09-01",
+      "price": 1475.95288085938,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-08-01",
+      "price": 1501.71887207031,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 1490.37707519531,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-06-01",
+      "price": 1537.56213378906,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-05-01",
+      "price": 1524.44140625,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 1457.33117675781,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-03-01",
+      "price": 1338.60034179688,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-02-01",
+      "price": 1370.55334472656,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 1349.11267089844,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-12-01",
+      "price": 1380.9619140625,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-11-01",
+      "price": 1435.90319824219,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 1394.64013671875,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-09-01",
+      "price": 1395.07531738281,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-08-01",
+      "price": 1410.49462890625,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 1360.7626953125,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-06-01",
+      "price": 1437.16955566406,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-05-01",
+      "price": 1448.40893554688,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 1463.96557617188,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-03-01",
+      "price": 1484.93188476563,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-02-01",
+      "price": 1510.63232421875,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 1467.55847167969,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-12-01",
+      "price": 1397.50695800781,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-11-01",
+      "price": 1430.61608886719,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 1447.70764160156,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-09-01",
+      "price": 1486.26354980469,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-08-01",
+      "price": 1551.17114257813,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 1555.869140625,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-06-01",
+      "price": 1458.94848632813,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-05-01",
+      "price": 1378.693359375,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 1244.00183105469,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-03-01",
+      "price": 1307.18884277344,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-02-01",
+      "price": 1226.59399414063,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 1263.62622070313,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-12-01",
+      "price": 1359.50708007813,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-11-01",
+      "price": 1321.7763671875,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 1290.47204589844,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-09-01",
+      "price": 1263.30114746094,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-08-01",
+      "price": 1087.17260742188,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 1058.64367675781,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-06-01",
+      "price": 941.685424804688,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-05-01",
+      "price": 998.066650390625,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 1010.74786376953,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-03-01",
+      "price": 977.318908691406,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-02-01",
+      "price": 990.991333007813,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 1035.56970214844,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-12-01",
+      "price": 1034.90209960938,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-11-01",
+      "price": 1076.38452148438,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 1071.47534179688,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-09-01",
+      "price": 1118.927734375,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-08-01",
+      "price": 1182.10791015625,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 1105.23828125,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-06-01",
+      "price": 962.632080078125,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-05-01",
+      "price": 995.311279296875,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 1045.48022460938,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-03-01",
+      "price": 1127.96362304688,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-02-01",
+      "price": 1191.04858398438,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 1281.56811523438,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-12-01",
+      "price": 1366.60913085938,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-11-01",
+      "price": 1316.93505859375,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 1304.39990234375,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-09-01",
+      "price": 1273.31982421875,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-08-01",
+      "price": 1136.35131835938,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 996.855224609375,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-06-01",
+      "price": 1041.47998046875,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-05-01",
+      "price": 1063.39990234375,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 1144.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-03-01",
+      "price": 1211.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-02-01",
+      "price": 1215.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 1242.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-12-01",
+      "price": 1297.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-11-01",
+      "price": 1352.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 1309.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-09-01",
+      "price": 1371.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-08-01",
+      "price": 1284.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 1346.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-06-01",
+      "price": 1330.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-05-01",
+      "price": 1443.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 1336.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-03-01",
+      "price": 1131.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-02-01",
+      "price": 1022.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-01-01",
+      "price": 995.0,
+      "commodity": "cocoa",
+      "source": "FRED",
+      "series_id": "PCOCOUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    }
+  ],
+  "series_id": "PCOCOUSDM",
+  "count": 426,
+  "commodity": "cocoa",
+  "series_info": {
+    "id": "PCOCOUSDM",
+    "realtime_start": "2025-09-16",
+    "realtime_end": "2025-09-16",
+    "title": "Global price of Cocoa",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "U.S. Dollars per Metric Ton",
+    "units_short": "U.S. $ per Metric Ton",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:06-05",
+    "popularity": 70,
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

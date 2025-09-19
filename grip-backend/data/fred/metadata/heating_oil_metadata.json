@@ -1,0 +1,17 @@
+{
+  "id": "DHOILNYH",
+  "realtime_start": "2025-09-19",
+  "realtime_end": "2025-09-19",
+  "title": "No. 2 Heating Oil Prices: New York Harbor",
+  "observation_start": "1986-06-02",
+  "observation_end": "2025-09-15",
+  "frequency": "Daily",
+  "frequency_short": "D",
+  "units": "Dollars per Gallon",
+  "units_short": "$ per Gallon",
+  "seasonal_adjustment": "Not Seasonally Adjusted",
+  "seasonal_adjustment_short": "NSA",
+  "last_updated": "2025-09-17 12:15:04-05",
+  "popularity": 40,
+  "notes": "Definitions, Sources and Explanatory Notes: http://www.eia.doe.gov/dnav/pet/TblDefs/pet_pri_spt_tbldef2.asp"
+}

@@ -1,0 +1,48 @@
+{
+  "search_term": "uranium price",
+  "collected_at": "2025-09-19T04:02:59.644626",
+  "series": [
+    {
+      "id": "PURANUSDM",
+      "title": "Global price of Uranium",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 71,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "PURANUSDA",
+      "title": "Global price of Uranium",
+      "frequency": "Annual",
+      "units": "U.S. Dollars per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 17,
+      "observation_start": "1990-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "PURANUSDQ",
+      "title": "Global price of Uranium",
+      "frequency": "Quarterly",
+      "units": "U.S. Dollars per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "PCU2122902122901",
+      "title": "Producer Price Index by Industry: Other Metal Ore Mining: Other Metal Ores, Including Uranium",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "2003-12-01",
+      "observation_end": "2023-07-01"
+    }
+  ],
+  "total_found": 4,
+  "filtered_count": 4
+}

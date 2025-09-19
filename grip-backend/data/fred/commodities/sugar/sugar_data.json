@@ -1,0 +1,3859 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "2025-06-01",
+      "price": 16.2261904761905,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 17.4313636363636,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 18.1718181818182,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 19.0561904761905,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 20.1855,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 18.93,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 20.3118181818182,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 21.6552380952381,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 22.3552173913043,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 20.6247619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 18.4195454545455,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 19.3517391304348,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-06-01",
+      "price": 19.1695,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-05-01",
+      "price": 18.7995652173913,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 20.6472727272727,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-03-01",
+      "price": 21.7690476190476,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-02-01",
+      "price": 23.3419047619048,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 22.4747826086957,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-12-01",
+      "price": 22.1457142857143,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-11-01",
+      "price": 27.3095454545455,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 26.9036363636364,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-09-01",
+      "price": 26.5638095238095,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-08-01",
+      "price": 24.1930434782609,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 24.0080952380952,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-06-01",
+      "price": 24.7622727272727,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 25.7295652173913,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 24.582,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-03-01",
+      "price": 20.9617391304348,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-02-01",
+      "price": 21.4035,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 19.9431818181818,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-12-01",
+      "price": 20.065,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-11-01",
+      "price": 19.4059090909091,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 18.3009523809524,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-09-01",
+      "price": 18.1859090909091,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 18.0626086956522,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 18.34,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-06-01",
+      "price": 18.7940909090909,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-05-01",
+      "price": 19.2809090909091,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 19.6990476190476,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-03-01",
+      "price": 19.1078260869565,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-02-01",
+      "price": 18.2031578947368,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 18.461,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-12-01",
+      "price": 19.1672727272727,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 19.7461904761905,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 19.6190476190476,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-09-01",
+      "price": 19.2642857142857,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-08-01",
+      "price": 19.3836363636364,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 17.7147619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-06-01",
+      "price": 17.2140909090909,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-05-01",
+      "price": 17.2033333333333,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 16.237619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 15.805652173913,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 17.0005263157895,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 15.9163157894737,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-12-01",
+      "price": 14.6677272727273,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-11-01",
+      "price": 14.9335,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 14.2877272727273,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-09-01",
+      "price": 12.4414285714286,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-08-01",
+      "price": 12.8142857142857,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 11.9018181818182,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 11.8281818181818,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-05-01",
+      "price": 10.641,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 10.0519047619048,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-03-01",
+      "price": 11.805,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-02-01",
+      "price": 15.0710526315789,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 14.1666666666667,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-12-01",
+      "price": 13.3352380952381,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-11-01",
+      "price": 12.687,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 12.4573913043478,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-09-01",
+      "price": 11.158,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-08-01",
+      "price": 11.5554545454546,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 12.1286363636364,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-06-01",
+      "price": 12.4395,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-05-01",
+      "price": 11.825,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 12.5357142857143,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-03-01",
+      "price": 12.4738095238095,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-02-01",
+      "price": 12.9289473684211,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 12.6809523809524,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-12-01",
+      "price": 12.5535,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-11-01",
+      "price": 12.792380952381,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 13.1847826086957,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-09-01",
+      "price": 10.7836842105263,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-08-01",
+      "price": 10.4552173913043,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 11.1552380952381,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-06-01",
+      "price": 12.0619047619048,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-05-01",
+      "price": 11.8272727272727,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 11.8242857142857,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-03-01",
+      "price": 12.8257142857143,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-02-01",
+      "price": 13.5726315789474,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 13.9795238095238,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-12-01",
+      "price": 14.4325,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-11-01",
+      "price": 14.9666666666667,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 14.2318181818182,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-09-01",
+      "price": 13.931,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-08-01",
+      "price": 13.7960869565217,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 14.119,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-06-01",
+      "price": 13.53,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 15.6890909090909,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 16.3168421052632,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-03-01",
+      "price": 18.0595652173913,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-02-01",
+      "price": 20.4057894736842,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 20.5375,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-12-01",
+      "price": 18.83,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-11-01",
+      "price": 20.8685714285714,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 22.9166666666667,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-09-01",
+      "price": 21.352380952381,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 20.014347826087,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 19.687,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-06-01",
+      "price": 19.3372727272727,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-05-01",
+      "price": 16.6842857142857,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 14.9980952380952,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-03-01",
+      "price": 15.4304545454545,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 13.314,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 14.2910526315789,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-12-01",
+      "price": 14.7627272727273,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-11-01",
+      "price": 14.843,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 14.1418181818182,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-09-01",
+      "price": 12.1371428571429,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-08-01",
+      "price": 10.6747619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 11.8786363636364,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 12.1136363636364,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-05-01",
+      "price": 12.7035,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 12.9109523809524,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-03-01",
+      "price": 12.8409090909091,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-02-01",
+      "price": 14.5121052631579,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 15.0625,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 14.9922727272727,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-11-01",
+      "price": 15.8789473684211,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 16.475652173913,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 16.5442857142857,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-08-01",
+      "price": 17.7247619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 18.7304545454545,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-06-01",
+      "price": 18.2419047619048,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-05-01",
+      "price": 18.2404761904762,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 18.2147619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-03-01",
+      "price": 17.8880952380952,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-02-01",
+      "price": 16.8852631578947,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 15.707619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-12-01",
+      "price": 16.5447619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-11-01",
+      "price": 17.7485,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 18.8126086956522,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-09-01",
+      "price": 17.619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-08-01",
+      "price": 17.2440909090909,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 17.0963636363636,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-06-01",
+      "price": 16.956,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-05-01",
+      "price": 17.4263636363636,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 17.6622727272727,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-03-01",
+      "price": 18.339,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-02-01",
+      "price": 18.2078947368421,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 18.8457142857143,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-12-01",
+      "price": 19.202,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-11-01",
+      "price": 19.3133333333333,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 20.3886956521739,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-09-01",
+      "price": 20.2063157894737,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-08-01",
+      "price": 20.5613043478261,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 22.7571428571429,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-06-01",
+      "price": 20.0980952380952,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-05-01",
+      "price": 20.2654545454545,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 22.477,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-03-01",
+      "price": 23.7881818181818,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-02-01",
+      "price": 23.416,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 24.0205,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-12-01",
+      "price": 23.4152380952381,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-11-01",
+      "price": 24.517619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 26.2985714285714,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-09-01",
+      "price": 26.6385714285714,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 28.874347826087,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 29.471,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-06-01",
+      "price": 24.9245454545455,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-05-01",
+      "price": 21.8409523809524,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 23.903,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-03-01",
+      "price": 25.9,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-02-01",
+      "price": 29.3063157894737,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 29.7368421052632,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-12-01",
+      "price": 28.0409090909091,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 26.4204761904762,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 26.9438095238095,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-09-01",
+      "price": 22.6695238095238,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-08-01",
+      "price": 18.6036363636364,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 17.69,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-06-01",
+      "price": 16.3,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-05-01",
+      "price": 15.105,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 16.8857142857143,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 18.1478260869565,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 21.978947368421,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 21.9052631578947,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-12-01",
+      "price": 24.9027272727273,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-11-01",
+      "price": 22.769,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 23.1609090909091,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-09-01",
+      "price": 23.4514285714286,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-08-01",
+      "price": 21.72,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 17.8045454545455,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 16.5759090909091,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-05-01",
+      "price": 15.466,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 13.4695238095238,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-03-01",
+      "price": 12.9281818181818,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-02-01",
+      "price": 13.3121052631579,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 12.244,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 11.32,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-11-01",
+      "price": 11.8284210526316,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 11.7021739130435,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 14.0204761904762,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-08-01",
+      "price": 13.6814285714286,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 13.2077272727273,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-06-01",
+      "price": 12.0652380952381,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-05-01",
+      "price": 10.9347619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 12.5227272727273,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-03-01",
+      "price": 12.8765,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-02-01",
+      "price": 13.6075,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 11.6595238095238,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-12-01",
+      "price": 10.4463157894737,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-11-01",
+      "price": 9.896,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 9.99478260869565,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-09-01",
+      "price": 9.85105263157895,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-08-01",
+      "price": 9.61304347826087,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 9.89571428571428,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-06-01",
+      "price": 9.26047619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-05-01",
+      "price": 9.08636363636364,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 9.594,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-03-01",
+      "price": 10.3668181818182,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-02-01",
+      "price": 10.5715789473684,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 10.9035,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-12-01",
+      "price": 11.6965,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-11-01",
+      "price": 11.732,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 11.5090909090909,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-09-01",
+      "price": 12.3135,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-08-01",
+      "price": 12.9795652173913,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 15.857,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-06-01",
+      "price": 15.6890909090909,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 16.9004545454545,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 17.4626315789474,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-03-01",
+      "price": 17.0821739130435,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-02-01",
+      "price": 18.0526315789474,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 16.187,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-12-01",
+      "price": 13.9271428571429,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-11-01",
+      "price": 11.808,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 11.6128571428571,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-09-01",
+      "price": 10.8104761904762,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 9.87521739130434,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 9.5975,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-06-01",
+      "price": 9.03318181818182,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-05-01",
+      "price": 8.51142857142857,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 8.52571428571428,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-03-01",
+      "price": 8.895,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-02-01",
+      "price": 9.32368421052632,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 8.922,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-12-01",
+      "price": 8.79523809523809,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 8.666,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 8.96380952380952,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-09-01",
+      "price": 8.67428571428571,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-08-01",
+      "price": 7.87909090909091,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 8.16571428571429,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-06-01",
+      "price": 7.51428571428571,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-05-01",
+      "price": 6.6225,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 6.86047619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 6.49608695652174,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-02-01",
+      "price": 5.87315789473684,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 6.03052631578947,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 6.34380952380952,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-11-01",
+      "price": 6.19111111111111,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 6.09826086956522,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 6.27142857142857,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-08-01",
+      "price": 6.70904761904762,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 6.73227272727273,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-06-01",
+      "price": 6.4047619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-05-01",
+      "price": 7.01380952380952,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 7.26190476190476,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-03-01",
+      "price": 7.84333333333334,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-02-01",
+      "price": 8.34833333333334,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 7.89047619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-12-01",
+      "price": 7.508,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-11-01",
+      "price": 7.29684210526316,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 7.02,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-09-01",
+      "price": 6.4095,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-08-01",
+      "price": 5.85681818181818,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 5.79476190476191,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-06-01",
+      "price": 5.246,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-05-01",
+      "price": 5.61181818181818,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 5.17818181818182,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-03-01",
+      "price": 5.9245,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-02-01",
+      "price": 5.68315789473684,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 7.31380952380952,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-12-01",
+      "price": 7.41,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-11-01",
+      "price": 7.278,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 6.59608695652174,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-09-01",
+      "price": 7.16066666666667,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-08-01",
+      "price": 7.90434782608696,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 8.53619047619048,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-06-01",
+      "price": 8.74285714285714,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-05-01",
+      "price": 8.95954545454546,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 8.05210526315789,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-03-01",
+      "price": 8.71681818181818,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-02-01",
+      "price": 9.3625,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 10.0595238095238,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-12-01",
+      "price": 9.7175,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-11-01",
+      "price": 9.5135,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 10.4131818181818,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-09-01",
+      "price": 9.8575,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-08-01",
+      "price": 10.5978260869565,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 9.64047619047619,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-06-01",
+      "price": 8.33454545454546,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 6.78086956521739,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 6.011,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-03-01",
+      "price": 5.1112,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-02-01",
+      "price": 5.351,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 5.6295,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-12-01",
+      "price": 5.982,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-11-01",
+      "price": 6.505,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 6.75428571428571,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-09-01",
+      "price": 6.67454545454545,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-08-01",
+      "price": 5.72347826086956,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 5.37818181818182,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-06-01",
+      "price": 6.03863636363636,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-05-01",
+      "price": 5.7485,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 5.42190476190476,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-03-01",
+      "price": 6.02521739130435,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-02-01",
+      "price": 6.8155,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 8.10900020599365,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-12-01",
+      "price": 8.07681846618652,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-11-01",
+      "price": 8.06142902374268,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 7.46272706985474,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-09-01",
+      "price": 7.22909069061279,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-08-01",
+      "price": 8.48238086700439,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 8.6247615814209,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-06-01",
+      "price": 8.09863662719727,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-05-01",
+      "price": 9.22550010681152,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 9.67681789398193,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-03-01",
+      "price": 9.84227275848389,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-02-01",
+      "price": 10.7194995880127,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 11.518500328064,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-12-01",
+      "price": 12.3266668319702,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-11-01",
+      "price": 12.0120000839233,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 11.3822727203369,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-09-01",
+      "price": 11.3313636779785,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-08-01",
+      "price": 11.7014284133911,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 11.5721740722656,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-06-01",
+      "price": 11.4290475845337,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-05-01",
+      "price": 11.1281814575195,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 11.2990913391113,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-03-01",
+      "price": 11.1409997940063,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-02-01",
+      "price": 10.8129997253418,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 10.6919050216675,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-12-01",
+      "price": 10.7379999160767,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-11-01",
+      "price": 10.7247619628906,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 11.1239128112793,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-09-01",
+      "price": 11.915714263916,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-08-01",
+      "price": 12.3663635253906,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 12.8069562911987,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-06-01",
+      "price": 12.173999786377,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-05-01",
+      "price": 11.3777275085449,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 11.9838094711304,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-03-01",
+      "price": 12.8990478515625,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-02-01",
+      "price": 12.8185710906982,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 12.5336360931396,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-12-01",
+      "price": 12.3100004196167,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-11-01",
+      "price": 11.9840908050537,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 11.837272644043,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-09-01",
+      "price": 11.6899995803833,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-08-01",
+      "price": 12.9808692932129,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 13.5923805236816,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-06-01",
+      "price": 14.0204544067383,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-05-01",
+      "price": 13.5222730636597,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 13.6052627563477,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-03-01",
+      "price": 14.5934782028198,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-02-01",
+      "price": 14.4075002670288,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 14.7950000762939,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-12-01",
+      "price": 14.6747617721558,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-11-01",
+      "price": 13.9259090423584,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 12.7580947875977,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-09-01",
+      "price": 12.594090461731,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-08-01",
+      "price": 12.0947828292847,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 11.7742853164673,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-06-01",
+      "price": 12.0481815338135,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-05-01",
+      "price": 11.5799999237061,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 11.013500213623,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-03-01",
+      "price": 11.7291307449341,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-02-01",
+      "price": 10.8225002288818,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 10.2990474700928,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-12-01",
+      "price": 10.522608757019,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-11-01",
+      "price": 10.0740909576416,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 10.2947616577148,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-09-01",
+      "price": 9.53590869903564,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-08-01",
+      "price": 9.34227275848389,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 9.67500019073486,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-06-01",
+      "price": 10.3986368179321,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-05-01",
+      "price": 11.8280000686646,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 11.1538095474243,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-03-01",
+      "price": 10.6247825622559,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-02-01",
+      "price": 8.55949974060059,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 8.23799991607666,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-12-01",
+      "price": 8.14863681793213,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-11-01",
+      "price": 8.55952453613281,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 8.7054557800293,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-09-01",
+      "price": 9.31227493286133,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-08-01",
+      "price": 9.86476135253906,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 10.3121757507324,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-06-01",
+      "price": 10.347728729248,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-05-01",
+      "price": 9.61333465576172,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 9.45571517944336,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-03-01",
+      "price": 8.25045394897461,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-02-01",
+      "price": 7.84299993515015,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 8.42409133911133,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-12-01",
+      "price": 9.00190353393555,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-11-01",
+      "price": 8.63299942016602,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 9.12588119506836,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-09-01",
+      "price": 9.29550170898438,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-08-01",
+      "price": 9.58829879760742,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 10.3219985961914,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-06-01",
+      "price": 9.20000076293945,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-05-01",
+      "price": 7.58809995651245,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 8.5099983215332,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-03-01",
+      "price": 9.13999938964844,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-02-01",
+      "price": 8.5099983215332,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 8.79999923706055,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-12-01",
+      "price": 9.7400016784668,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-11-01",
+      "price": 10.060001373291,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 9.38999938964844,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-09-01",
+      "price": 11.0200004577637,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-08-01",
+      "price": 10.9300003051758,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 12.0,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-06-01",
+      "price": 12.9700012207031,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-05-01",
+      "price": 14.6199989318848,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 15.2400016784668,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-03-01",
+      "price": 15.310001373291,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-02-01",
+      "price": 14.6500015258789,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-01-01",
+      "price": 14.2000007629395,
+      "commodity": "sugar",
+      "source": "FRED",
+      "series_id": "PSUGAISAUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    }
+  ],
+  "series_id": "PSUGAISAUSDM",
+  "count": 426,
+  "commodity": "sugar",
+  "series_info": {
+    "id": "PSUGAISAUSDM",
+    "realtime_start": "2025-09-16",
+    "realtime_end": "2025-09-16",
+    "title": "Global price of Sugar, No. 11, World",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "U.S. Cents per Pound",
+    "units_short": "U.S. Cents per Pound",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:21-05",
+    "popularity": 55,
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

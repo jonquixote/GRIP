@@ -1,0 +1,118 @@
+{
+  "search_term": "stock market",
+  "collected_at": "2025-09-19T04:03:47.085168",
+  "series": [
+    {
+      "id": "VIXCLS",
+      "title": "CBOE Volatility Index: VIX",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 83,
+      "observation_start": "1990-01-02",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "NASDAQCOM",
+      "title": "NASDAQ Composite Index",
+      "frequency": "Daily, Close",
+      "units": "Index Feb 5, 1971=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 75,
+      "observation_start": "1971-02-05",
+      "observation_end": "2025-09-18"
+    },
+    {
+      "id": "NASDAQ100",
+      "title": "NASDAQ 100 Index",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 67,
+      "observation_start": "1986-01-02",
+      "observation_end": "2025-09-18"
+    },
+    {
+      "id": "WEI",
+      "title": "Weekly Economic Index (Lewis-Mertens-Stock)",
+      "frequency": "Weekly, Ending Saturday",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 64,
+      "observation_start": "2008-01-05",
+      "observation_end": "2025-09-13"
+    },
+    {
+      "id": "GVZCLS",
+      "title": "CBOE Gold ETF Volatility Index",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 63,
+      "observation_start": "2008-06-03",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "DDDM01USA156NWDB",
+      "title": "Stock Market Capitalization to GDP for United States",
+      "frequency": "Annual",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 62,
+      "observation_start": "1975-01-01",
+      "observation_end": "2020-01-01"
+    },
+    {
+      "id": "VXVCLS",
+      "title": "CBOE S&P 500 3-Month Volatility Index",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 58,
+      "observation_start": "2007-12-04",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "M1109BUSM293NNBR",
+      "title": "Dow-Jones Industrial Stock Price Index for United States",
+      "frequency": "Monthly",
+      "units": "Dollars per Share",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 54,
+      "observation_start": "1914-12-01",
+      "observation_end": "1968-12-01"
+    },
+    {
+      "id": "VXNCLS",
+      "title": "CBOE NASDAQ 100 Volatility Index",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 50,
+      "observation_start": "2001-02-02",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "OVXCLS",
+      "title": "CBOE Crude Oil ETF Volatility Index",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 49,
+      "observation_start": "2007-05-10",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "M11007USM322NNBR",
+      "title": "Index of Common Stock Prices, New York Stock Exchange for United States",
+      "frequency": "Monthly",
+      "units": "Index 1909-1913=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 48,
+      "observation_start": "1902-01-01",
+      "observation_end": "1923-05-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 11
+}

@@ -16,15 +16,18 @@ import {
   Target,
   RefreshCw,
   Download,
-  CheckCircle
+  CheckCircle,
+  Layers
 } from 'lucide-react';
 import { motion } from 'framer-motion';
 import CommodityOverview from './CommodityOverview';
 import AnalyticsPanel from './AnalyticsPanel';
 import PredictionsPanel from './PredictionsPanel';
 import MarketTrends from './MarketTrends';
-import { dataIngestionService } from '../services/api';
-import '../App.css';
+import CommodityList from './CommodityList';
+import DataIngestionPanel from './DataIngestionPanel';
+import { dataIngestionService, analyticsService, commodityService } from '../services/api';
+import { mockDataService } from '../services/mockData';
 
 const Dashboard = () => {
   const [marketOverview, setMarketOverview] = useState(null);
@@ -39,24 +42,47 @@ const Dashboard = () => {
   const fetchMarketOverview = async () => {
     try {
       setLoading(true);
-      // Mock data for now since we don't have the actual API endpoint
-      const mockData = {
-        total_commodities: 42,
+      // Try to fetch real data from the backend
+      const response = await analyticsService.getMarketDashboard();
+      
+      // Transform the response data to match our UI structure
+      const transformedData = {
+        total_commodities: response.data.total_commodities || response.data.commodities_count || 0,
         market_summary: {
-          positive_outlook: 28,
-          high_risk_commodities: 8,
-          market_sentiment: 'Bullish'
+          positive_outlook: response.data.positive_outlook || response.data.trending_up || 0,
+          high_risk_commodities: response.data.high_risk_commodities || response.data.high_risk || 0,
+          market_sentiment: response.data.market_sentiment || response.data.sentiment || 'Neutral'
         },
-        risk_alerts: [
-          "Copper supply disruption in Chile",
-          "Lithium price volatility in Australia",
-          "Gold reserves declining in South Africa"
-        ]
+        risk_alerts: response.data.risk_alerts || response.data.alerts || []
       };
-      setMarketOverview(mockData);
+      
+      setMarketOverview(transformedData);
       setError(null);
     } catch (err) {
-      setError(err.message);
+      console.error('Error fetching market overview:', err);
+      // Fallback to mock data service
+      try {
+        const mockResponse = await mockDataService.getMarketOverview();
+        setMarketOverview(mockResponse.data);
+        setError('Using mock data - backend unavailable');
+      } catch (fallbackError) {
+        // Final fallback to hardcoded mock data
+        const mockData = {
+          total_commodities: 42,
+          market_summary: {
+            positive_outlook: 28,
+            high_risk_commodities: 8,
+            market_sentiment: 'Bullish'
+          },
+          risk_alerts: [
+            "Copper supply disruption in Chile",
+            "Lithium price volatility in Australia",
+            "Gold reserves declining in South Africa"
+          ]
+        };
+        setMarketOverview(mockData);
+        setError('Using mock data - service unavailable');
+      }
     } finally {
       setLoading(false);
     }
@@ -66,21 +92,6 @@ const Dashboard = () => {
     setRefreshing(true);
     await fetchMarketOverview();
     setRefreshing(false);
-  };
-
-  const handleDataIngestion = async (dataType) => {
-    try {
-      setRefreshing(true);
-      const response = await dataIngestionService.ingestFiles({ data_type: dataType });
-      console.log('Data ingestion response:', response);
-      // Refresh the dashboard after ingestion
-      await fetchMarketOverview();
-    } catch (err) {
-      console.error('Error ingesting data:', err);
-      setError(err.message);
-    } finally {
-      setRefreshing(false);
-    }
   };
 
   const containerVariants = {
@@ -150,73 +161,13 @@ const Dashboard = () => {
                 className="flex items-center space-x-2"
               >
                 <RefreshCw className={`h-4 w-4 ${refreshing ? 'animate-spin' : ''}`} />
-                <span className="text-foreground dark:text-foreground">Refresh</span>
+                <span>Refresh</span>
               </Button>
             </div>
           </div>
         </div>
       </motion.header>
 
-      {/* Data Ingestion Section */}
-      <motion.div 
-        className="container mx-auto px-6 py-4"
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5, delay: 0.2 }}
-      >
-        <Card className="bg-gradient-to-br from-indigo-50 to-purple-50 dark:from-indigo-950 dark:to-purple-950 border-indigo-200 dark:border-indigo-800">
-          <CardHeader>
-            <CardTitle className="flex items-center space-x-2 text-indigo-700 dark:text-indigo-300">
-              <Download className="h-5 w-5" />
-              <span>Data Ingestion</span>
-            </CardTitle>
-            <CardDescription>
-              Import existing data files into the GRIP system
-            </CardDescription>
-          </CardHeader>
-          <CardContent>
-            <div className="flex flex-col sm:flex-row gap-4">
-              <Button 
-                onClick={() => handleDataIngestion('all')}
-                disabled={refreshing}
-                className="flex items-center space-x-2 bg-indigo-600 hover:bg-indigo-700"
-              >
-                {refreshing ? (
-                  <RefreshCw className="h-4 w-4 animate-spin" />
-                ) : (
-                  <Download className="h-4 w-4" />
-                )}
-                <span>Ingest All Data</span>
-              </Button>
-              <Button 
-                variant="outline" 
-                onClick={() => handleDataIngestion('usgs')}
-                disabled={refreshing}
-                className="flex items-center space-x-2 border-indigo-300 text-indigo-700 dark:text-indigo-300"
-              >
-                <Database className="h-4 w-4" />
-                <span>USGS Data Only</span>
-              </Button>
-              <Button 
-                variant="outline" 
-                onClick={() => handleDataIngestion('fred')}
-                disabled={refreshing}
-                className="flex items-center space-x-2 border-indigo-300 text-indigo-700 dark:text-indigo-300"
-              >
-                <BarChart3 className="h-4 w-4" />
-                <span>FRED Data Only</span>
-              </Button>
-            </div>
-            {refreshing && (
-              <div className="mt-4 text-sm text-indigo-600 dark:text-indigo-400">
-                Ingesting data, please wait...
-              </div>
-            )}
-          </CardContent>
-        </Card>
-      </motion.div>
-
-      {/* Main Content */}
       <main className="container mx-auto px-6 py-8">
         <motion.div
           variants={containerVariants}
@@ -224,6 +175,11 @@ const Dashboard = () => {
           animate="visible"
           className="space-y-8"
         >
+          {/* Data Ingestion */}
+          <motion.div variants={itemVariants}>
+            <DataIngestionPanel />
+          </motion.div>
+
           {/* Key Metrics */}
           <motion.div variants={itemVariants}>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -316,10 +272,14 @@ const Dashboard = () => {
           {/* Main Dashboard Tabs */}
           <motion.div variants={itemVariants}>
             <Tabs defaultValue="overview" className="space-y-6">
-              <TabsList className="grid w-full grid-cols-4 lg:w-[600px]">
+              <TabsList className="grid w-full grid-cols-5 lg:w-[750px]">
                 <TabsTrigger value="overview" className="flex items-center space-x-2">
                   <BarChart3 className="h-4 w-4" />
                   <span>Overview</span>
+                </TabsTrigger>
+                <TabsTrigger value="commodities" className="flex items-center space-x-2">
+                  <Layers className="h-4 w-4" />
+                  <span>Commodities</span>
                 </TabsTrigger>
                 <TabsTrigger value="analytics" className="flex items-center space-x-2">
                   <Activity className="h-4 w-4" />
@@ -337,6 +297,10 @@ const Dashboard = () => {
 
               <TabsContent value="overview" className="space-y-6">
                 <CommodityOverview />
+              </TabsContent>
+
+              <TabsContent value="commodities" className="space-y-6">
+                <CommodityList />
               </TabsContent>
 
               <TabsContent value="analytics" className="space-y-6">

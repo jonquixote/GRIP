@@ -1,0 +1,38 @@
+{
+  "search_term": "lithium",
+  "collected_at": "2025-09-19T03:58:20.658494",
+  "series": [
+    {
+      "id": "NASDAQNSLITP",
+      "title": "Nasdaq Sprott Lithium Miners Index",
+      "frequency": "Daily",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 19,
+      "observation_start": "2022-12-19",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "NASDAQNSLITPN",
+      "title": "Nasdaq Sprott Lithium Miners Net Total Return Index",
+      "frequency": "Daily",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 9,
+      "observation_start": "2022-12-19",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "NASDAQNSLITPT",
+      "title": "Nasdaq Sprott Lithium Miners Total Return Index",
+      "frequency": "Daily",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "2022-12-19",
+      "observation_end": "2025-09-17"
+    }
+  ],
+  "total_found": 3,
+  "filtered_count": 3
+}

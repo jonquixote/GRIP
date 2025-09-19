@@ -163,7 +163,7 @@ build/
 # GRIP specific
 grip-backend/usgs_collector.log
 usgs_collector.log
-grip-backend/data/
+#grip-backend/data/
 grip-backend/src/database/app.db
 
 # Environment files

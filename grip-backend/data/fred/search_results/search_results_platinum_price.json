@@ -1,0 +1,108 @@
+{
+  "search_term": "platinum price",
+  "collected_at": "2025-09-19T10:01:49.194768",
+  "series": [
+    {
+      "id": "WPU159402",
+      "title": "Producer Price Index by Commodity: Miscellaneous Products: Jewelry (Gold and Platinum) and Silverware",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "1978-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IP7106",
+      "title": "Import Price Index (Harmonized System): Silver (Including Silver Plated with Gold or Platinum), Unwrought or in Semimanufactured Forms, or in Powder Form",
+      "frequency": "Monthly",
+      "units": "Index Dec 2021=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 14,
+      "observation_start": "2021-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU15940222",
+      "title": "Producer Price Index by Commodity: Miscellaneous Products: Jewelry, Gold and Platinum",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 13,
+      "observation_start": "2011-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3399103399101",
+      "title": "Producer Price Index by Industry: Jewelry and Silverware Manufacturing: Jewelry, Gold and Platinum",
+      "frequency": "Monthly",
+      "units": "Index Dec 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 9,
+      "observation_start": "1978-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IP7108",
+      "title": "Import Price Index (Harmonized System): Gold (Including Gold Plated with Platinum) Unwrought or in Semimanufactured Forms, or in Powder Form",
+      "frequency": "Monthly",
+      "units": "Index Dec 2024=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1996-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "ID7108",
+      "title": "Export Price Index (Harmonized System): Gold (Including Gold Plated with Platinum) Unwrought or in Semimanufactured Forms, or in Powder Form",
+      "frequency": "Monthly",
+      "units": "Index Dec 2024=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "2001-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IP7110",
+      "title": "Import Price Index (Harmonized System): Platinum, Unwrought or in Semimanufactured Forms, or in Powder Form",
+      "frequency": "Monthly",
+      "units": "Index Dec 2019=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "2019-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU33991033991011",
+      "title": "Producer Price Index by Industry: Jewelry and Silverware Manufacturing: Jewelry, Gold and Platinum (DISCONTINUED)",
+      "frequency": "Monthly",
+      "units": "Index Dec 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1975-12-01",
+      "observation_end": "2017-12-01"
+    },
+    {
+      "id": "IM681",
+      "title": "Import Price Index (SITC): Silver, platinum and other platinum group metals (DISCONTINUED)",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1995-01-01",
+      "observation_end": "2005-12-01"
+    },
+    {
+      "id": "ID7110",
+      "title": "Export Price Index (Harmonized System): Platinum, unwrought, semimanufactured or in powder form (DISCONTINUED)",
+      "frequency": "Monthly",
+      "units": "Index Dec 2009=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2009-12-01",
+      "observation_end": "2010-12-01"
+    }
+  ],
+  "total_found": 10,
+  "filtered_count": 10
+}

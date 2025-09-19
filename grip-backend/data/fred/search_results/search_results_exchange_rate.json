@@ -1,0 +1,178 @@
+{
+  "search_term": "exchange rate",
+  "collected_at": "2025-09-19T10:06:58.787967",
+  "series": [
+    {
+      "id": "BAMLH0A0HYM2",
+      "title": "ICE BofA US High Yield Index Option-Adjusted Spread",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 97,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLH0A0HYM2EY",
+      "title": "ICE BofA US High Yield Index Effective Yield",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 84,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "VIXCLS",
+      "title": "CBOE Volatility Index: VIX",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 83,
+      "observation_start": "1990-01-02",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLC0A0CM",
+      "title": "ICE BofA US Corporate Index Option-Adjusted Spread",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 83,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLC0A4CBBB",
+      "title": "ICE BofA BBB US Corporate Index Option-Adjusted Spread",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 82,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "DTWEXBGS",
+      "title": "Nominal Broad U.S. Dollar Index",
+      "frequency": "Daily",
+      "units": "Index Jan 2006=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 82,
+      "observation_start": "2006-01-02",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "BAMLC0A4CBBBEY",
+      "title": "ICE BofA BBB US Corporate Index Effective Yield",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 80,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "DEXUSEU",
+      "title": "U.S. Dollars to Euro Spot Exchange Rate",
+      "frequency": "Daily",
+      "units": "U.S. Dollars to One Euro",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 77,
+      "observation_start": "1999-01-04",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "DEXJPUS",
+      "title": "Japanese Yen to U.S. Dollar Spot Exchange Rate",
+      "frequency": "Daily",
+      "units": "Japanese Yen to One U.S. Dollar",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 75,
+      "observation_start": "1971-01-04",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "NASDAQCOM",
+      "title": "NASDAQ Composite Index",
+      "frequency": "Daily, Close",
+      "units": "Index Feb 5, 1971=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 75,
+      "observation_start": "1971-02-05",
+      "observation_end": "2025-09-18"
+    },
+    {
+      "id": "BAMLH0A3HYC",
+      "title": "ICE BofA CCC & Lower US High Yield Index Option-Adjusted Spread",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 75,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLH0A1HYBB",
+      "title": "ICE BofA BB US High Yield Index Option-Adjusted Spread",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 75,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLHE00EHYIOAS",
+      "title": "ICE BofA Euro High Yield Index Option-Adjusted Spread",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 72,
+      "observation_start": "1997-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLH0A3HYCEY",
+      "title": "ICE BofA CCC & Lower US High Yield Index Effective Yield",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 72,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "BAMLH0A1HYBBEY",
+      "title": "ICE BofA BB US High Yield Index Effective Yield",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 71,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "DEXCHUS",
+      "title": "Chinese Yuan Renminbi to U.S. Dollar Spot Exchange Rate",
+      "frequency": "Daily",
+      "units": "Chinese Yuan Renminbi to One U.S. Dollar",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 70,
+      "observation_start": "1981-01-02",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "BAMLH0A2HYBEY",
+      "title": "ICE BofA Single-B US High Yield Index Effective Yield",
+      "frequency": "Daily, Close",
+      "units": "Percent",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 68,
+      "observation_start": "1996-12-31",
+      "observation_end": "2025-09-17"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 17
+}

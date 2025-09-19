@@ -1,0 +1,110 @@
+[
+  {
+    "commodity": "rare_earths",
+    "country": "United States \u2014",
+    "year": 2019,
+    "production_volume": 1400000.0,
+    "reserves_volume": null,
+    "unit": "metric tons",
+    "multiplier": 1,
+    "source": "USGS",
+    "source_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/mcs-2019-raree.pdf",
+    "data_type": "production_reserves"
+  },
+  {
+    "commodity": "rare_earths",
+    "country": "Australia",
+    "year": 2019,
+    "production_volume": 20000.0,
+    "reserves_volume": 103400000.0,
+    "unit": "metric tons",
+    "multiplier": 1,
+    "source": "USGS",
+    "source_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/mcs-2019-raree.pdf",
+    "data_type": "production_reserves"
+  },
+  {
+    "commodity": "rare_earths",
+    "country": "Brazil",
+    "year": 2019,
+    "production_volume": 1000.0,
+    "reserves_volume": 22000000.0,
+    "unit": "metric tons",
+    "multiplier": 1,
+    "source": "USGS",
+    "source_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/mcs-2019-raree.pdf",
+    "data_type": "production_reserves"
+  },
+  {
+    "commodity": "rare_earths",
+    "country": "China",
+    "year": 2019,
+    "production_volume": 11120000.0,
+    "reserves_volume": 44000000.0,
+    "unit": "metric tons",
+    "multiplier": 1,
+    "source": "USGS",
+    "source_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/mcs-2019-raree.pdf",
+    "data_type": "production_reserves"
+  },
+  {
+    "commodity": "rare_earths",
+    "country": "India",
+    "year": 2019,
+    "production_volume": 1800.0,
+    "reserves_volume": 6900000.0,
+    "unit": "metric tons",
+    "multiplier": 1,
+    "source": "USGS",
+    "source_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/mcs-2019-raree.pdf",
+    "data_type": "production_reserves"
+  },
+  {
+    "commodity": "rare_earths",
+    "country": "Malaysia",
+    "year": 2019,
+    "production_volume": 200.0,
+    "reserves_volume": 30000.0,
+    "unit": "metric tons",
+    "multiplier": 1,
+    "source": "USGS",
+    "source_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/mcs-2019-raree.pdf",
+    "data_type": "production_reserves"
+  },
+  {
+    "commodity": "rare_earths",
+    "country": "Russia",
+    "year": 2019,
+    "production_volume": 2600.0,
+    "reserves_volume": 12000000.0,
+    "unit": "metric tons",
+    "multiplier": 1,
+    "source": "USGS",
+    "source_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/mcs-2019-raree.pdf",
+    "data_type": "production_reserves"
+  },
+  {
+    "commodity": "rare_earths",
+    "country": "Thailand   NA",
+    "year": 2019,
+    "production_volume": 1000.0,
+    "reserves_volume": null,
+    "unit": "metric tons",
+    "multiplier": 1,
+    "source": "USGS",
+    "source_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/mcs-2019-raree.pdf",
+    "data_type": "production_reserves"
+  },
+  {
+    "commodity": "rare_earths",
+    "country": "Vietnam",
+    "year": 2019,
+    "production_volume": 400.0,
+    "reserves_volume": 22000000.0,
+    "unit": "metric tons",
+    "multiplier": 1,
+    "source": "USGS",
+    "source_url": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/mcs-2019-raree.pdf",
+    "data_type": "production_reserves"
+  }
+]

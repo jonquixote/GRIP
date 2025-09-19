@@ -16,6 +16,9 @@ export const commodityService = {
   // Get a specific commodity by ID
   getById: (id) => api.get(`/commodities/${id}`),
   
+  // Get detailed commodity information
+  getDetails: (id) => api.get(`/commodities/${id}/details`),
+  
   // Create a new commodity
   create: (commodity) => api.post('/commodities', commodity),
   
@@ -32,6 +35,18 @@ export const dataIngestionService = {
   
   // Get ingestion status
   getStatus: () => api.get('/ingest/status'),
+  
+  // Collect data from specific source
+  collectFromSource: (source) => api.post('/collection/collect', { source }),
+  
+  // Get available sources
+  getAvailableSources: () => api.get('/collection/sources'),
+  
+  // Test a specific collector
+  testCollector: (source) => api.post(`/collection/test/${source}`),
+  
+  // Get collection status
+  getCollectionStatus: () => api.get('/collection/status')
 };
 
 export const analyticsService = {
@@ -42,7 +57,7 @@ export const analyticsService = {
   getCountryOverview: (params) => api.get('/analytics/country-overview', { params }),
   
   // Get market dashboard
-  getMarketDashboard: (params) => api.get('/analytics/market-dashboard', { params }),
+  getMarketDashboard: (params) => api.get('/analytics/market-overview', { params }),
   
   // Get supply risk assessment
   getSupplyRiskAssessment: (params) => api.get('/analytics/supply-risk', { params }),

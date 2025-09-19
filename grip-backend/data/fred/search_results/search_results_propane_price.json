@@ -1,0 +1,208 @@
+{
+  "search_term": "propane price",
+  "collected_at": "2025-09-19T05:44:20.155247",
+  "series": [
+    {
+      "id": "DPROPANEMBTX",
+      "title": "Propane Prices: Mont Belvieu, Texas",
+      "frequency": "Daily",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 41,
+      "observation_start": "1992-07-09",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "WPROPANEMBTX",
+      "title": "Propane Prices: Mont Belvieu, Texas",
+      "frequency": "Weekly, Ending Friday",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 31,
+      "observation_start": "1992-07-03",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "WPU05320104",
+      "title": "Producer Price Index by Commodity: Fuels and Related Products and Power: Propane",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 16,
+      "observation_start": "1977-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "MPROPANEMBTX",
+      "title": "Propane Prices: Mont Belvieu, Texas",
+      "frequency": "Monthly",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 12,
+      "observation_start": "1992-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452FRM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for France",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 9,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452CZM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Czech Republic",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "1999-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "APROPANEMBTX",
+      "title": "Propane Prices: Mont Belvieu, Texas",
+      "frequency": "Annual",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "1992-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "PCU21111221111212",
+      "title": "Producer Price Index by Industry: Natural Gas Liquids Extraction: Propane",
+      "frequency": "Monthly",
+      "units": "Index Jun 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1984-06-01",
+      "observation_end": "2025-01-01"
+    },
+    {
+      "id": "CP0452PLM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Poland",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452TRM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Turkey",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452ITM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Italy",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452DEM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Germany",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CUUS0000SEHE02",
+      "title": "Consumer Price Index for All Urban Consumers: Propane, Kerosene, and Firewood in U.S. City Average",
+      "frequency": "Semiannual",
+      "units": "Index Dec 1986=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 3,
+      "observation_start": "1987-01-01",
+      "observation_end": "2025-01-01"
+    },
+    {
+      "id": "CP0452SKM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Slovakia",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452HUM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Hungary",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452NLM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Netherlands",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452HRM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Croatia",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1998-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452ROM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Romania",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "2000-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452DKM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for Denmark",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "1996-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CP0452GBM086NEST",
+      "title": "Harmonized Index of Consumer Prices: Gas for United Kingdom",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "1996-01-01",
+      "observation_end": "2020-11-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

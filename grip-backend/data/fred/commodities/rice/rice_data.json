@@ -1,0 +1,3859 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "2025-06-01",
+      "price": 388.619047619048,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 396.454545454545,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 403.909090909091,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 417.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 423.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 459.782608695652,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 495.681818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 487.428571428571,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 496.608695652174,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 555.095238095238,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 563.772727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 567.04347826087,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-06-01",
+      "price": 605.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-05-01",
+      "price": 600.521739130435,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 570.136363636364,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-03-01",
+      "price": 601.714285714286,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-02-01",
+      "price": 609.52380952381,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 629.086956521739,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-12-01",
+      "price": 603.238095238095,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-11-01",
+      "price": 555.409090909091,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 574.454545454545,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-09-01",
+      "price": 606.904761904762,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-08-01",
+      "price": 607.95652173913,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 512.238095238095,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-06-01",
+      "price": 492.272727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 491.739130434783,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 479.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-03-01",
+      "price": 453.565217391304,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-02-01",
+      "price": 484.95,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 480.636363636364,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-12-01",
+      "price": 444.227272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-11-01",
+      "price": 416.318181818182,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 416.095238095238,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-09-01",
+      "price": 426.818181818182,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 411.086956521739,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 412.47619047619,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-06-01",
+      "price": 434.181818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-05-01",
+      "price": 425.272727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 415.761904761905,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-03-01",
+      "price": 419.434782608696,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-02-01",
+      "price": 410.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 397.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-12-01",
+      "price": 383.565217391304,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 383.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 388.904761904762,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-09-01",
+      "price": 387.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-08-01",
+      "price": 386.772727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 414.863636363636,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-06-01",
+      "price": 454.863636363636,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-05-01",
+      "price": 477.190476190476,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 470.272727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 502.347826086957,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 535.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 518.47619047619,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-12-01",
+      "price": 499.347826086957,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-11-01",
+      "price": 459.857142857143,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 458.863636363636,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-09-01",
+      "price": 491.909090909091,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-08-01",
+      "price": 484.428571428571,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 464.478260869565,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 503.045454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-05-01",
+      "price": 498.857142857143,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 542.818181818182,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-03-01",
+      "price": 471.681818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-02-01",
+      "price": 430.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 428.521739130435,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-12-01",
+      "price": 397.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-11-01",
+      "price": 394.571428571429,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 399.130434782609,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-09-01",
+      "price": 415.428571428571,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-08-01",
+      "price": 414.681818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 395.95652173913,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-06-01",
+      "price": 396.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-05-01",
+      "price": 390.304347826087,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 397.409090909091,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-03-01",
+      "price": 383.142857142857,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-02-01",
+      "price": 390.55,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 383.739130434783,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-12-01",
+      "price": 380.333333333333,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-11-01",
+      "price": 390.818181818182,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 392.04347826087,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-09-01",
+      "price": 383.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-08-01",
+      "price": 383.434782608696,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 378.681818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-06-01",
+      "price": 413.142857142857,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-05-01",
+      "price": 433.217391304348,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 432.380952380952,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-03-01",
+      "price": 409.772727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-02-01",
+      "price": 417.85,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 422.304347826087,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-12-01",
+      "price": 407.952380952381,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-11-01",
+      "price": 404.045454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 407.227272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-09-01",
+      "price": 413.142857142857,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-08-01",
+      "price": 405.652173913043,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 419.952380952381,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-06-01",
+      "price": 444.681818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 402.913043478261,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 374.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-03-01",
+      "price": 367.782608695652,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-02-01",
+      "price": 368.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 372.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-12-01",
+      "price": 367.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-11-01",
+      "price": 360.818181818182,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 367.666666666667,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-09-01",
+      "price": 384.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 414.217391304348,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 456.238095238095,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-06-01",
+      "price": 420.681818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-05-01",
+      "price": 408.818181818182,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 376.047619047619,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-03-01",
+      "price": 370.478260869565,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 373.190476190476,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 359.47619047619,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-12-01",
+      "price": 354.347826086957,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-11-01",
+      "price": 358.380952380952,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 360.454545454545,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-09-01",
+      "price": 358.772727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-08-01",
+      "price": 375.571428571429,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 387.739130434783,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 370.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-05-01",
+      "price": 382.428571428571,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 392.409090909091,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-03-01",
+      "price": 400.727272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-02-01",
+      "price": 409.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 409.681818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 410.739130434783,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-11-01",
+      "price": 419.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 432.695652173913,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 436.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-08-01",
+      "price": 440.380952380952,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 428.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-06-01",
+      "price": 414.666666666667,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-05-01",
+      "price": 403.590909090909,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 409.941176470588,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-03-01",
+      "price": 434.142857142857,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-02-01",
+      "price": 447.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 441.04347826087,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-12-01",
+      "price": 447.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-11-01",
+      "price": 448.809523809524,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 453.260869565217,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-09-01",
+      "price": 470.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-08-01",
+      "price": 509.772727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 538.260869565217,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-06-01",
+      "price": 546.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-05-01",
+      "price": 552.086956521739,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 553.727272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-03-01",
+      "price": 564.52380952381,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-02-01",
+      "price": 574.066666666667,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 573.391304347826,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-12-01",
+      "price": 565.52380952381,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-11-01",
+      "price": 590.727272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 584.739130434783,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-09-01",
+      "price": 590.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-08-01",
+      "price": 582.869565217391,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 578.363636363636,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-06-01",
+      "price": 606.142857142857,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-05-01",
+      "price": 612.434782608696,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 585.952380952381,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-03-01",
+      "price": 577.045454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-02-01",
+      "price": 547.47619047619,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 541.058823529412,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-12-01",
+      "price": 580.909090909091,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-11-01",
+      "price": 609.090909090909,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 602.142857142857,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-09-01",
+      "price": 615.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 577.304347826087,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 546.190476190476,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-06-01",
+      "price": 518.090909090909,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-05-01",
+      "price": 500.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 500.571428571429,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-03-01",
+      "price": 508.95652173913,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-02-01",
+      "price": 532.8,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 528.380952380952,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-12-01",
+      "price": 536.782608695652,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 543.136363636364,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 532.380952380952,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-09-01",
+      "price": 519.954545454545,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-08-01",
+      "price": 486.863636363636,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 470.681818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-06-01",
+      "price": 458.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-05-01",
+      "price": 472.47619047619,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 502.227272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 540.125,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 584.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 598.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-12-01",
+      "price": 606.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-11-01",
+      "price": 566.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 566.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-09-01",
+      "price": 593.666666666667,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-08-01",
+      "price": 576.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 623.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 548.6,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-05-01",
+      "price": 540.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 577.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-03-01",
+      "price": 625.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-02-01",
+      "price": 634.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 615.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 550.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-11-01",
+      "price": 563.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 624.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 722.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-08-01",
+      "price": 737.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 799.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-06-01",
+      "price": 834.6,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-05-01",
+      "price": 1009.31818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 1015.21126461713,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-03-01",
+      "price": 672.644748327029,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-02-01",
+      "price": 481.142857142857,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 393.478260869565,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-12-01",
+      "price": 378.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-11-01",
+      "price": 356.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 335.304347826087,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-09-01",
+      "price": 330.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-08-01",
+      "price": 331.478260869565,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 332.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-06-01",
+      "price": 326.285714285714,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-05-01",
+      "price": 320.608695652174,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 322.285714285714,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-03-01",
+      "price": 326.181818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-02-01",
+      "price": 316.05,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 313.478260869565,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-12-01",
+      "price": 309.285714285714,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-11-01",
+      "price": 300.590909090909,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 309.636363636364,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-09-01",
+      "price": 312.904761904762,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-08-01",
+      "price": 313.391304347826,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 312.428571428571,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-06-01",
+      "price": 305.590909090909,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 301.260869565217,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 298.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-03-01",
+      "price": 297.739130434783,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-02-01",
+      "price": 296.4,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 284.454545454545,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-12-01",
+      "price": 277.272727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-11-01",
+      "price": 278.954545454545,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 290.714285714286,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-09-01",
+      "price": 287.409090909091,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 283.478260869565,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 278.714285714286,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-06-01",
+      "price": 287.045454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-05-01",
+      "price": 295.272727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 299.142857142857,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-03-01",
+      "price": 295.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-02-01",
+      "price": 292.35,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 288.380952380952,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-12-01",
+      "price": 278.434782608696,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 262.318181818182,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 253.523809523809,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-09-01",
+      "price": 252.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-08-01",
+      "price": 252.545454545455,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 240.318181818182,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-06-01",
+      "price": 244.227272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-05-01",
+      "price": 251.571428571429,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 253.409090909091,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 240.347826086957,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-02-01",
+      "price": 213.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 207.454545454545,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 197.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-11-01",
+      "price": 201.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 204.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 202.863636363636,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-08-01",
+      "price": 196.428571428571,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 199.478260869565,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-06-01",
+      "price": 203.666666666667,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-05-01",
+      "price": 197.727272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 195.181818181818,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-03-01",
+      "price": 196.952380952381,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-02-01",
+      "price": 198.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 199.739130434783,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-12-01",
+      "price": 185.272727272727,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-11-01",
+      "price": 187.190476190476,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 185.478260869565,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-09-01",
+      "price": 188.47619047619,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-08-01",
+      "price": 191.318181818182,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 199.608695652174,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-06-01",
+      "price": 202.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-05-01",
+      "price": 198.304347826087,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 189.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-03-01",
+      "price": 189.285714285714,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-02-01",
+      "price": 194.35,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 191.130434782609,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-12-01",
+      "price": 179.380952380952,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-11-01",
+      "price": 170.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 170.869565217391,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-09-01",
+      "price": 173.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-08-01",
+      "price": 168.739130434783,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 169.727272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-06-01",
+      "price": 167.761904761905,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-05-01",
+      "price": 164.260869565217,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 162.095238095238,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-03-01",
+      "price": 177.090909090909,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-02-01",
+      "price": 185.1,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 184.434782608696,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-12-01",
+      "price": 183.571428571429,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-11-01",
+      "price": 184.863636363636,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 186.727272727273,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-09-01",
+      "price": 178.142857142857,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-08-01",
+      "price": 187.086956521739,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 191.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-06-01",
+      "price": 197.863636363636,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 198.782608695652,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 217.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-03-01",
+      "price": 228.8,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-02-01",
+      "price": 243.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 247.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-12-01",
+      "price": 231.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-11-01",
+      "price": 227.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 217.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-09-01",
+      "price": 233.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-08-01",
+      "price": 251.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 255.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-06-01",
+      "price": 254.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-05-01",
+      "price": 244.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 235.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-03-01",
+      "price": 256.2,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-02-01",
+      "price": 280.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 301.666656494141,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-12-01",
+      "price": 282.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-11-01",
+      "price": 270.333343505859,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 298.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-09-01",
+      "price": 322.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-08-01",
+      "price": 323.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 323.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-06-01",
+      "price": 331.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-05-01",
+      "price": 318.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 311.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-03-01",
+      "price": 295.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-02-01",
+      "price": 297.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 293.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-12-01",
+      "price": 263.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-11-01",
+      "price": 251.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 265.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-09-01",
+      "price": 270.200012207031,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-08-01",
+      "price": 285.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 320.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-06-01",
+      "price": 323.200012207031,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-05-01",
+      "price": 324.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 299.333343505859,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-03-01",
+      "price": 323.399993896484,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-02-01",
+      "price": 347.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 356.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-12-01",
+      "price": 313.666656494141,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-11-01",
+      "price": 315.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 312.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-09-01",
+      "price": 328.399993896484,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-08-01",
+      "price": 335.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 358.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-06-01",
+      "price": 341.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-05-01",
+      "price": 332.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 325.799987792969,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-03-01",
+      "price": 362.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-02-01",
+      "price": 367.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 364.399993896484,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-12-01",
+      "price": 341.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-11-01",
+      "price": 340.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 382.600006103516,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-09-01",
+      "price": 359.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-08-01",
+      "price": 340.666656494141,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 345.600006103516,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-06-01",
+      "price": 326.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-05-01",
+      "price": 287.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 281.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-03-01",
+      "price": 283.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-02-01",
+      "price": 286.25,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 274.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-12-01",
+      "price": 260.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-11-01",
+      "price": 264.5,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 261.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-09-01",
+      "price": 259.75,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-08-01",
+      "price": 250.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 226.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-06-01",
+      "price": 216.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-05-01",
+      "price": 235.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 269.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-03-01",
+      "price": 274.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-02-01",
+      "price": 363.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 354.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-12-01",
+      "price": 315.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-11-01",
+      "price": 323.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 257.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-09-01",
+      "price": 206.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-08-01",
+      "price": 210.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 210.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-06-01",
+      "price": 189.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-05-01",
+      "price": 185.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 206.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-03-01",
+      "price": 230.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-02-01",
+      "price": 254.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 262.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-12-01",
+      "price": 256.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-11-01",
+      "price": 252.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 250.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-09-01",
+      "price": 256.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-08-01",
+      "price": 269.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 279.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-06-01",
+      "price": 266.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-05-01",
+      "price": 274.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 279.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-03-01",
+      "price": 277.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-02-01",
+      "price": 278.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 276.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-12-01",
+      "price": 270.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-11-01",
+      "price": 274.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 277.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-09-01",
+      "price": 290.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-08-01",
+      "price": 298.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 306.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-06-01",
+      "price": 293.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-05-01",
+      "price": 288.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 286.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-03-01",
+      "price": 311.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-02-01",
+      "price": 326.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 305.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-12-01",
+      "price": 264.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-11-01",
+      "price": 272.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 281.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-09-01",
+      "price": 259.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-08-01",
+      "price": 260.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 256.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-06-01",
+      "price": 255.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-05-01",
+      "price": 260.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 276.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-03-01",
+      "price": 289.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-02-01",
+      "price": 300.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    },
+    {
+      "date": "1990-01-01",
+      "price": 276.0,
+      "commodity": "rice",
+      "source": "FRED",
+      "series_id": "PRICENPQUSDM",
+      "realtime_start": "2025-09-18",
+      "realtime_end": "2025-09-18"
+    }
+  ],
+  "series_id": "PRICENPQUSDM",
+  "count": 426,
+  "commodity": "rice",
+  "series_info": {
+    "id": "PRICENPQUSDM",
+    "realtime_start": "2025-09-18",
+    "realtime_end": "2025-09-18",
+    "title": "Global price of Rice, Thailand",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "U.S. Dollars per Metric Ton",
+    "units_short": "U.S. $ per Metric Ton",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:18-05",
+    "popularity": 48,
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

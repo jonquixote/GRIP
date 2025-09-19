@@ -1,0 +1,3007 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "1990-01-01",
+      "price": 209.8274827,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-02-01",
+      "price": 208.449456325,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-03-01",
+      "price": 218.2793778,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 220.66795685,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-05-01",
+      "price": 228.31600323125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-06-01",
+      "price": 221.05839765625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 222.4593911375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-08-01",
+      "price": 222.71202930625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-09-01",
+      "price": 226.91500975,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 224.802035975,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-11-01",
+      "price": 211.84858805,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1990-12-01",
+      "price": 213.8696934,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 207.50780496875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-02-01",
+      "price": 210.12605508125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-03-01",
+      "price": 213.31848285,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 215.89079875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-05-01",
+      "price": 210.654298525,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-06-01",
+      "price": 208.8628642375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 199.10184408125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-08-01",
+      "price": 208.081982625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-09-01",
+      "price": 216.23530534375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 205.7393377875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-11-01",
+      "price": 205.67043646875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1991-12-01",
+      "price": 204.15460745625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 208.61022606875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-02-01",
+      "price": 211.1595748625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-03-01",
+      "price": 216.14343691875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 211.2973775,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-05-01",
+      "price": 220.36938446875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-06-01",
+      "price": 224.3886280625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 208.10494973125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-08-01",
+      "price": 202.86844950625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-09-01",
+      "price": 202.8914166125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 197.67788349375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-11-01",
+      "price": 205.21109434375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1992-12-01",
+      "price": 208.90879845,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 212.33089728125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-02-01",
+      "price": 210.03418665625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-03-01",
+      "price": 214.12233156875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 217.6822330375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-05-01",
+      "price": 221.494772675,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-06-01",
+      "price": 221.9081805875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 258.8392874375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-08-01",
+      "price": 246.64375401875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-09-01",
+      "price": 236.0559180375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 226.088193925,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-11-01",
+      "price": 243.93363548125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1993-12-01",
+      "price": 252.52333321875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 255.60092545625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-02-01",
+      "price": 249.67541204375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-03-01",
+      "price": 250.54816208125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 242.7623130625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-05-01",
+      "price": 250.22662259375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-06-01",
+      "price": 249.606510725,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 223.24027275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-08-01",
+      "price": 214.0993644625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-09-01",
+      "price": 207.87527866875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 198.711403275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-11-01",
+      "price": 205.39483119375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1994-12-01",
+      "price": 206.3824167625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 202.50097580625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-02-01",
+      "price": 203.64933111875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-03-01",
+      "price": 209.34517346875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 211.27441039375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-05-01",
+      "price": 211.64188409375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-06-01",
+      "price": 216.64871325625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 226.91500975,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-08-01",
+      "price": 218.922456775,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-09-01",
+      "price": 232.58788499375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 240.99384588125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-11-01",
+      "price": 249.7443133625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1995-12-01",
+      "price": 263.96095213125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 270.11613660625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-02-01",
+      "price": 268.255801,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-03-01",
+      "price": 265.775353525,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 290.41905853125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-05-01",
+      "price": 295.51775611875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-06-01",
+      "price": 284.60838065,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 288.76542688125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-08-01",
+      "price": 296.29863773125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-09-01",
+      "price": 297.49292725625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 259.8039059,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-11-01",
+      "price": 255.27938596875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1996-12-01",
+      "price": 257.16268868125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 268.09503125625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-02-01",
+      "price": 280.54320284375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-03-01",
+      "price": 305.8759210375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 313.363197675,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-05-01",
+      "price": 319.8399216375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-06-01",
+      "price": 304.7734999375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 281.1633147125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-08-01",
+      "price": 267.58975491875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-09-01",
+      "price": 255.21048465,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 250.7548660375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-11-01",
+      "price": 265.43084693125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1997-12-01",
+      "price": 254.59037278125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 246.00067504375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-02-01",
+      "price": 247.42463563125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-03-01",
+      "price": 240.12109584375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 235.091299575,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-05-01",
+      "price": 236.1477864625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-06-01",
+      "price": 231.11799019375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 232.42711525,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-08-01",
+      "price": 202.2483376375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-09-01",
+      "price": 193.3371004125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 200.75547573125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-11-01",
+      "price": 209.89638401875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1998-12-01",
+      "price": 204.9125219625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 195.036666275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-02-01",
+      "price": 179.67167219375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-03-01",
+      "price": 175.0552838375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 177.5357313125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-05-01",
+      "price": 171.44944815625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-06-01",
+      "price": 170.0025204625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 158.31226338125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-08-01",
+      "price": 172.00065870625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-09-01",
+      "price": 180.63629065625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 178.1788102875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-11-01",
+      "price": 171.1968099875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "1999-12-01",
+      "price": 169.95658625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 180.3836524875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-02-01",
+      "price": 185.75795535,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-03-01",
+      "price": 190.97148846875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 197.1037058375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 200.8703112625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-06-01",
+      "price": 186.952244875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 169.497244125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-08-01",
+      "price": 167.86657958125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-09-01",
+      "price": 180.45255380625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 173.60835614375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-11-01",
+      "price": 177.19122471875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2000-12-01",
+      "price": 185.96465930625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 175.4227575375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-02-01",
+      "price": 167.45317166875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-03-01",
+      "price": 164.37557943125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 158.6108357625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-05-01",
+      "price": 163.87030309375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-06-01",
+      "price": 170.232191525,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 186.65367249375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-08-01",
+      "price": 182.74926443125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-09-01",
+      "price": 172.3451653,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 160.6319411125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-11-01",
+      "price": 162.5611780375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2001-12-01",
+      "price": 160.14963188125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 160.05776345625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-02-01",
+      "price": 160.19556609375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-03-01",
+      "price": 168.69339540625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 171.35757973125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-05-01",
+      "price": 176.64001416875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-06-01",
+      "price": 185.36751454375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 209.0925353,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-08-01",
+      "price": 208.2197852625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-09-01",
+      "price": 208.2197852625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 200.08942965,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-11-01",
+      "price": 210.21792350625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2002-12-01",
+      "price": 208.24275236875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 208.67359625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-02-01",
+      "price": 209.613139105263,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-03-01",
+      "price": 210.22208075,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 221.70886125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-05-01",
+      "price": 232.412651,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-06-01",
+      "price": 229.77497825,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 214.0320525,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-08-01",
+      "price": 208.21867425,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 231.69964825,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 268.987847282609,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-11-01",
+      "price": 279.721085644737,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 283.185366068182,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 300.8987522625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-02-01",
+      "price": 316.551810197368,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 360.675360423913,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 363.50454925,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-05-01",
+      "price": 347.87097975,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-06-01",
+      "price": 320.229696340909,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 289.785314,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-08-01",
+      "price": 225.7900365,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-09-01",
+      "price": 206.447103,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 193.43370925,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 195.8176755,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2004-12-01",
+      "price": 198.59095,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 195.6647954625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-02-01",
+      "price": 197.58924675,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-03-01",
+      "price": 233.180530704545,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 228.7645265,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-05-01",
+      "price": 233.462471,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-06-01",
+      "price": 254.742401931818,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 253.3478115,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 230.426931684783,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-09-01",
+      "price": 212.01552325,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 211.16691875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-11-01",
+      "price": 210.9000895,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2005-12-01",
+      "price": 216.542872,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 214.0090876875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-02-01",
+      "price": 214.365646618421,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-03-01",
+      "price": 212.714071956522,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 208.902438592105,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 217.355687181818,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-06-01",
+      "price": 216.503901409091,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 217.2517192125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-08-01",
+      "price": 203.84366351087,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-09-01",
+      "price": 199.307014725,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 217.885965579545,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-11-01",
+      "price": 244.00003925,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2006-12-01",
+      "price": 243.307595475,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 255.8673795,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-02-01",
+      "price": 278.038610960526,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-03-01",
+      "price": 276.959814170455,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 270.3922953375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-05-01",
+      "price": 283.206243170455,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-06-01",
+      "price": 302.8293275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 313.476252,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-08-01",
+      "price": 309.00652923913,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-09-01",
+      "price": 347.561559118421,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 358.402842456522,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-11-01",
+      "price": 389.01517525,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2007-12-01",
+      "price": 423.0807406875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 461.71521025,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-02-01",
+      "price": 508.2158935875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-03-01",
+      "price": 495.69088485,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 482.791340897727,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-05-01",
+      "price": 489.08926675,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-06-01",
+      "price": 552.47214925,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 554.149276465909,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-08-01",
+      "price": 471.06735675,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 433.383193,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 338.78490176087,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-11-01",
+      "price": 329.136527447368,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 318.814228806818,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 364.7179662,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-02-01",
+      "price": 341.271617842105,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-03-01",
+      "price": 333.657848522727,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 374.46641975,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-05-01",
+      "price": 422.3550526125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 445.108171295455,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 398.088761556818,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-08-01",
+      "price": 408.957381,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-09-01",
+      "price": 349.05202725,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 354.864809011364,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-11-01",
+      "price": 370.7071893,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2009-12-01",
+      "price": 379.299369511364,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 358.966610210526,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 344.660740697368,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 348.949327467391,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 357.63868,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-05-01",
+      "price": 349.0513711125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-06-01",
+      "price": 348.5139945,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 370.97576825,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-08-01",
+      "price": 379.462210909091,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-09-01",
+      "price": 390.23121675,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 427.17613225,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 459.961136,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2010-12-01",
+      "price": 483.755863022727,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 511.104867,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-02-01",
+      "price": 512.052467684211,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-03-01",
+      "price": 498.739813173913,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 501.468831675,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-05-01",
+      "price": 498.76510775,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-06-01",
+      "price": 499.772775886364,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 501.82708275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 501.423700826087,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-09-01",
+      "price": 490.90895475,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 446.016027,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-11-01",
+      "price": 428.8252245,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2011-12-01",
+      "price": 420.04610475,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 441.7327614,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-02-01",
+      "price": 461.55598755,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-03-01",
+      "price": 496.290475227273,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 529.42160145,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-05-01",
+      "price": 520.925455909091,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-06-01",
+      "price": 522.3291925,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 609.4467555,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-08-01",
+      "price": 622.913549771739,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-09-01",
+      "price": 615.18139725,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 565.525481804348,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-11-01",
+      "price": 533.028608,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2012-12-01",
+      "price": 534.7907746125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 526.047305,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-02-01",
+      "price": 536.375830144737,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-03-01",
+      "price": 536.081397075,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 517.789715147727,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-05-01",
+      "price": 542.199223125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-06-01",
+      "price": 560.1577065,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 548.349617454545,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-08-01",
+      "price": 498.048327238636,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-09-01",
+      "price": 503.2371222375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 472.827516913043,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-11-01",
+      "price": 476.6622412125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2013-12-01",
+      "price": 488.66933875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 476.1021185,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-02-01",
+      "price": 496.798997486842,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-03-01",
+      "price": 522.00112375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 547.18805525,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-05-01",
+      "price": 546.03325325,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-06-01",
+      "price": 528.00259475,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 463.233671488636,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-08-01",
+      "price": 432.98513625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 368.84988275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 354.440913065217,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-11-01",
+      "price": 379.344859618421,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 378.781617375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 367.49211555,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-02-01",
+      "price": 364.739238868421,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-03-01",
+      "price": 359.595560386364,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 356.92567725,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-05-01",
+      "price": 351.94953045,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 354.823054806818,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 372.347294454545,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-08-01",
+      "price": 347.02237525,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-09-01",
+      "price": 323.554524,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 327.419770363636,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-11-01",
+      "price": 319.0822908,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2015-12-01",
+      "price": 323.315332056818,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 323.204353776316,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 320.12948625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-03-01",
+      "price": 326.935421590909,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 353.80246275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-05-01",
+      "price": 388.5121365,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-06-01",
+      "price": 421.228941715909,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 390.4018125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 370.316587793478,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-09-01",
+      "price": 355.90210275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 358.38667675,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-11-01",
+      "price": 368.3730895,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2016-12-01",
+      "price": 375.28877875,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 379.589978775,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-02-01",
+      "price": 380.872623986842,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-03-01",
+      "price": 366.095056173913,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 347.861310355263,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 350.179987261364,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-06-01",
+      "price": 339.728909863636,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 365.4528402,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-08-01",
+      "price": 345.410749402174,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-09-01",
+      "price": 353.86020285,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 358.276127522727,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-11-01",
+      "price": 361.4092835,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2017-12-01",
+      "price": 357.1533569625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 356.868812,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-02-01",
+      "price": 371.232237434211,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-03-01",
+      "price": 381.89389625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 381.2683785,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-05-01",
+      "price": 374.848371306818,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-06-01",
+      "price": 339.9579615,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 312.56203375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-08-01",
+      "price": 316.658804152174,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-09-01",
+      "price": 306.432788605263,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 315.852040304348,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-11-01",
+      "price": 322.28161725,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2018-12-01",
+      "price": 330.482023725,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 333.77714625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-02-01",
+      "price": 334.503041526316,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-03-01",
+      "price": 329.23667475,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 324.254404,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-05-01",
+      "price": 305.310919056818,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-06-01",
+      "price": 326.6147493,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 325.469849011364,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-08-01",
+      "price": 314.626282090909,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-09-01",
+      "price": 322.453525275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 339.87123723913,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-11-01",
+      "price": 332.9576305125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2019-12-01",
+      "price": 334.94944525,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 337.079705,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-02-01",
+      "price": 325.428314565789,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-03-01",
+      "price": 319.336156363636,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 309.994349,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-05-01",
+      "price": 309.3314314125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 318.643036568182,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 328.935447988636,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-08-01",
+      "price": 332.14117675,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-09-01",
+      "price": 366.824605,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 387.575052852273,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-11-01",
+      "price": 419.585496225,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2020-12-01",
+      "price": 443.655124977273,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 504.312117197368,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 507.817272789474,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 519.879422315217,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 537.418366704545,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-05-01",
+      "price": 576.96794925,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-06-01",
+      "price": 537.355735397727,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 523.5714795,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-08-01",
+      "price": 504.040055590909,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-09-01",
+      "price": 469.44013575,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 452.02187225,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 454.57643425,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2021-12-01",
+      "price": 473.8100115,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 514.4485437,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-02-01",
+      "price": 583.693013289474,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-03-01",
+      "price": 617.198306869565,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 618.13839025,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-05-01",
+      "price": 617.122967761364,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-06-01",
+      "price": 621.198178125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 571.00147225,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 576.824169554348,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-09-01",
+      "price": 537.551980159091,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 507.5442275,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-11-01",
+      "price": 529.748119329545,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2022-12-01",
+      "price": 541.831786125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 555.506288113636,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-02-01",
+      "price": 561.2921682375,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-03-01",
+      "price": 547.225521652174,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 546.87485895,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 508.345095619565,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-06-01",
+      "price": 526.295046613636,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 555.11419625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-08-01",
+      "price": 510.150329576087,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-09-01",
+      "price": 487.151474,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 471.931072295454,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-11-01",
+      "price": 494.348904715909,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2023-12-01",
+      "price": 481.48682025,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 452.626469673913,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-02-01",
+      "price": 429.72632,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-03-01",
+      "price": 433.52754325,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 427.922140704545,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-05-01",
+      "price": 447.494333315217,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-06-01",
+      "price": 430.9714502625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 411.082125391304,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 361.829410329545,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 372.09557625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 368.491384434783,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 365.51670425,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 361.236500625,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 377.853040173913,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 382.0839574125,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 369.344173,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 378.066199057543,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 387.649984285498,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 383.520686995902,
+      "commodity": "soybeans",
+      "source": "FRED",
+      "series_id": "PSOYBUSDM"
+    }
+  ],
+  "series_id": "PSOYBUSDM",
+  "count": 426,
+  "commodity": "soybeans",
+  "series_info": {
+    "id": "PSOYBUSDM",
+    "realtime_start": "2025-09-19",
+    "realtime_end": "2025-09-19",
+    "title": "Global price of Soybeans",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "U.S. Dollars per Metric Ton",
+    "units_short": "U.S. $ per Metric Ton",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:21-05",
+    "popularity": "50",
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.  Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

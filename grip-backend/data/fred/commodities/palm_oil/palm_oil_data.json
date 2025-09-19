@@ -1,0 +1,3859 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "2025-06-01",
+      "price": 934.503407087944,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 902.788167615884,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 981.177632038137,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 1057.14730604186,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 1067.32480018818,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 1030.03810887266,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 1127.77705164522,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 1132.87300496479,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 1034.05187625719,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 942.607250673338,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 888.202718366771,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 860.592964766065,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-06-01",
+      "price": 838.229313107343,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-05-01",
+      "price": 826.166094575576,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 896.87261770745,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-03-01",
+      "price": 899.043922536385,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-02-01",
+      "price": 825.08902614383,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 815.364421600749,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-12-01",
+      "price": 783.343965701014,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-11-01",
+      "price": 795.987930507008,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 767.48133500497,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-09-01",
+      "price": 790.712155888081,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-08-01",
+      "price": 823.608174534713,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 844.977016726366,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-06-01",
+      "price": 769.098476597759,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 834.628551223305,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 934.809681844592,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-03-01",
+      "price": 910.155527014026,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-02-01",
+      "price": 902.161131806761,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 903.28692399913,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-12-01",
+      "price": 887.10700458863,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-11-01",
+      "price": 875.659936221517,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 796.676318197842,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-09-01",
+      "price": 794.488878874876,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 926.324432586423,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 902.891147870967,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-06-01",
+      "price": 1322.18462139461,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-05-01",
+      "price": 1601.22210374741,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 1613.0743554943,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-03-01",
+      "price": 1652.71639279719,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-02-01",
+      "price": 1458.06977711168,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 1293.59521574041,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-12-01",
+      "price": 1207.46390510091,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 1279.64081229113,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 1238.17285657319,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-09-01",
+      "price": 1105.97830115752,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-08-01",
+      "price": 1077.78061255766,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 1010.22385393131,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-06-01",
+      "price": 920.962647934837,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-05-01",
+      "price": 1104.58493292694,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 1036.29341179646,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 995.801045240987,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 968.868406413008,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 936.449653369777,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-12-01",
+      "price": 910.648399616273,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-11-01",
+      "price": 841.639684375727,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 730.949822826911,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-09-01",
+      "price": 707.32528125622,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-08-01",
+      "price": 674.699438865209,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 610.495597533936,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 573.22358653095,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-05-01",
+      "price": 498.482164768442,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 518.474155088473,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-03-01",
+      "price": 557.90283704059,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-02-01",
+      "price": 642.252155857179,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 726.585601903826,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-12-01",
+      "price": 685.283404717487,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-11-01",
+      "price": 612.802778088192,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 523.520131772373,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-09-01",
+      "price": 506.856315453768,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-08-01",
+      "price": 508.608892809685,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 466.214596109574,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-06-01",
+      "price": 474.627071385656,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-05-01",
+      "price": 472.097758555727,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 503.28511243152,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-03-01",
+      "price": 492.679439788188,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-02-01",
+      "price": 522.287898643095,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 519.152943137988,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-12-01",
+      "price": 462.438918474042,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-11-01",
+      "price": 444.079833274839,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 506.85604169469,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-09-01",
+      "price": 524.853111692692,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-08-01",
+      "price": 534.352874709735,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 538.208165734094,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-06-01",
+      "price": 582.897990498486,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-05-01",
+      "price": 606.02164191076,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 618.000861676943,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-03-01",
+      "price": 624.308918836003,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-02-01",
+      "price": 642.943711013104,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 633.347501155855,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-12-01",
+      "price": 592.797796439949,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-11-01",
+      "price": 635.563806500635,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 648.161663544148,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-09-01",
+      "price": 661.631565157988,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-08-01",
+      "price": 621.819465680048,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 617.158220835306,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-06-01",
+      "price": 621.181586939107,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 655.510616305257,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 623.207664785016,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-03-01",
+      "price": 663.299519382585,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-02-01",
+      "price": 706.793595646491,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 726.488555994266,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-12-01",
+      "price": 711.756236551718,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-11-01",
+      "price": 669.99758823287,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 651.448642642048,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-09-01",
+      "price": 692.406658440732,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 664.377119626144,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 584.190132904984,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-06-01",
+      "price": 618.453034128718,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-05-01",
+      "price": 644.564789449039,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 680.375486749158,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-03-01",
+      "price": 633.067782763729,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 595.900683226908,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 531.619442572607,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-12-01",
+      "price": 520.602567605653,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-11-01",
+      "price": 503.163620012229,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 530.246639789742,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-09-01",
+      "price": 483.487307650792,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-08-01",
+      "price": 484.677591320546,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 575.682129641201,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 606.404488474595,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-05-01",
+      "price": 601.396540199212,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 591.787920473602,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-03-01",
+      "price": 607.654865340564,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-02-01",
+      "price": 634.378125181584,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 641.597233169228,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 624.535496211625,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-11-01",
+      "price": 662.402970237562,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 673.086555708356,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 656.983081654465,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-08-01",
+      "price": 677.86216106537,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 752.885193673306,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-06-01",
+      "price": 758.471935550584,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-05-01",
+      "price": 800.287339283589,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 825.324971657079,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-03-01",
+      "price": 860.51868173512,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-02-01",
+      "price": 811.204668117423,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 769.337282775421,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-12-01",
+      "price": 795.274809614982,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-11-01",
+      "price": 810.300668509088,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 762.620879508893,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-09-01",
+      "price": 725.796977269961,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-08-01",
+      "price": 722.835323978943,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 729.857477270013,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-06-01",
+      "price": 763.043603845228,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-05-01",
+      "price": 763.381461314682,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 756.461298988703,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-03-01",
+      "price": 771.87090169633,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-02-01",
+      "price": 792.38025467019,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 776.540602794027,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-12-01",
+      "price": 713.936122329513,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-11-01",
+      "price": 743.12977503119,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 768.090641601712,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-09-01",
+      "price": 879.533980138316,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-08-01",
+      "price": 930.614436340847,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 952.539138657086,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-06-01",
+      "price": 927.6276422504,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-05-01",
+      "price": 1031.12437851623,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 1157.44852277015,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-03-01",
+      "price": 1105.74186940845,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-02-01",
+      "price": 1047.68849150072,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 1020.53563972811,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-12-01",
+      "price": 969.07252384964,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-11-01",
+      "price": 985.766474625382,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 914.437416029703,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-09-01",
+      "price": 995.17881593662,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 1047.51169150189,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 1033.57231533957,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-06-01",
+      "price": 1075.90842453737,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-05-01",
+      "price": 1143.43623728316,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 1123.78684415852,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-03-01",
+      "price": 1142.23124195196,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-02-01",
+      "price": 1248.55261174094,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 1238.57182207044,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-12-01",
+      "price": 1171.21592825812,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 1059.00982246095,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 935.217659661426,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-09-01",
+      "price": 884.893042919494,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-08-01",
+      "price": 865.229330871734,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 774.501169427167,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-06-01",
+      "price": 764.909333022946,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-05-01",
+      "price": 775.566241672249,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 798.533249805834,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 793.901139382917,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 754.31851098769,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 742.003865958231,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-12-01",
+      "price": 727.598664400009,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-11-01",
+      "price": 674.329955307001,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 636.557784902832,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-09-01",
+      "price": 636.419863747806,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-08-01",
+      "price": 686.790283594875,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 601.95014544538,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 690.818417968187,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-05-01",
+      "price": 772.385048687789,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 693.212401100708,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-03-01",
+      "price": 557.287771059739,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-02-01",
+      "price": 528.713498464696,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 522.00293019203,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 442.66337227235,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-11-01",
+      "price": 433.138274613001,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 486.395563108566,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 667.043491607084,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-08-01",
+      "price": 791.76941644964,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 1026.24548726103,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-06-01",
+      "price": 1096.38744565422,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-05-01",
+      "price": 1086.83316209246,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 1083.48970644843,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-03-01",
+      "price": 1146.85898052923,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-02-01",
+      "price": 1109.4976702408,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 987.020215570752,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-12-01",
+      "price": 883.447756497178,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-11-01",
+      "price": 877.612871747668,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 824.068960832286,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-09-01",
+      "price": 745.179984869138,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-08-01",
+      "price": 729.564457324347,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 764.470315506677,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-06-01",
+      "price": 748.506251839672,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-05-01",
+      "price": 740.614763638899,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 645.390481904618,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-03-01",
+      "price": 566.388111256959,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-02-01",
+      "price": 553.752509442535,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 550.78450381921,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-12-01",
+      "price": 528.387848489549,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-11-01",
+      "price": 476.743036489659,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 422.32091252862,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-09-01",
+      "price": 416.937544036895,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-08-01",
+      "price": 434.480533607149,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 404.024288411363,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-06-01",
+      "price": 386.182190745516,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 394.519823542927,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 386.413287706215,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-03-01",
+      "price": 383.357839784371,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-02-01",
+      "price": 390.633430547115,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 377.919061133427,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-12-01",
+      "price": 368.903885256657,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-11-01",
+      "price": 375.965915905651,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 382.817363253686,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-09-01",
+      "price": 369.984515891257,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 360.276773343493,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 369.601601199205,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-06-01",
+      "price": 369.641148325359,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-05-01",
+      "price": 370.157894736842,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 375.842105263158,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-03-01",
+      "price": 374.828375286041,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-02-01",
+      "price": 347.565789473684,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 346.631578947368,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-12-01",
+      "price": 370.091533180778,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 386.666666666667,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 381.604010025063,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-09-01",
+      "price": 401.638755980861,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-08-01",
+      "price": 393.709273182957,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 386.626794258373,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-06-01",
+      "price": 408.983253588517,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-05-01",
+      "price": 481.135734072022,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 516.33971291866,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 520.572082379863,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-02-01",
+      "price": 501.609907120743,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 467.690058479532,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 478.468899521531,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-11-01",
+      "price": 484.628482972136,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 449.019138755981,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 374.874686716792,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-08-01",
+      "price": 361.942355889724,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 382.826086956522,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-06-01",
+      "price": 390.438596491228,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-05-01",
+      "price": 382.119113573407,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 377.200956937799,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-03-01",
+      "price": 390.131578947368,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-02-01",
+      "price": 421.517027863777,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 431.315789473684,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-12-01",
+      "price": 433.556146214374,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-11-01",
+      "price": 409.973684210526,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 372.802631578947,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-09-01",
+      "price": 369.397368421053,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-08-01",
+      "price": 391.507894736842,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 369.210526315789,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-06-01",
+      "price": 376.0,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-05-01",
+      "price": 337.818421052632,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 311.147661780573,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-03-01",
+      "price": 302.447368421053,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-02-01",
+      "price": 296.768506091945,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 310.3,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-12-01",
+      "price": 295.471171811268,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-11-01",
+      "price": 281.513157894737,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 232.094736842105,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-09-01",
+      "price": 259.555766092952,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-08-01",
+      "price": 312.618421052632,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 279.628947368421,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-06-01",
+      "price": 209.165548275045,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-05-01",
+      "price": 194.010526315789,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 208.963865568334,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-03-01",
+      "price": 210.900286849654,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-02-01",
+      "price": 185.065003421233,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 191.788825433587,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-12-01",
+      "price": 199.178947368421,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-11-01",
+      "price": 215.305665938577,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 208.457894736842,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-09-01",
+      "price": 239.786842105263,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-08-01",
+      "price": 257.149248624891,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 266.543846720707,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-06-01",
+      "price": 272.233919359933,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 283.167092138853,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 318.140905860989,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-03-01",
+      "price": 294.389030712951,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-02-01",
+      "price": 277.579808932284,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 301.789567871993,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-12-01",
+      "price": 311.998315656499,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-11-01",
+      "price": 315.968841285297,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 326.073797241815,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-09-01",
+      "price": 342.40446362775,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-08-01",
+      "price": 308.271052631579,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 279.581578947368,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-06-01",
+      "price": 330.785020658438,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-05-01",
+      "price": 398.457894736842,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 439.736301910627,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-03-01",
+      "price": 428.768421052632,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-02-01",
+      "price": 484.718018895234,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 560.56052631579,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-12-01",
+      "price": 579.736842105263,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-11-01",
+      "price": 616.525423728814,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 613.45617267702,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-09-01",
+      "price": 626.842851888825,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-08-01",
+      "price": 589.898124345425,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 583.586786786787,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-06-01",
+      "price": 583.237976264834,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-05-01",
+      "price": 643.723706352545,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 628.882695039262,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-03-01",
+      "price": 599.866063057513,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-02-01",
+      "price": 595.774316625725,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 548.631434767721,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-12-01",
+      "price": 498.66839625139,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-11-01",
+      "price": 493.09355497057,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 490.541116318705,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-09-01",
+      "price": 460.627811590368,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-08-01",
+      "price": 444.545157898553,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 445.02540630697,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-06-01",
+      "price": 471.648255582929,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-05-01",
+      "price": 508.570744553507,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 509.470151042915,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-03-01",
+      "price": 508.010659345096,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-02-01",
+      "price": 532.262345182564,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 522.674908682214,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-12-01",
+      "price": 480.961622242465,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-11-01",
+      "price": 466.772402854877,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 448.41244515357,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-09-01",
+      "price": 468.685010398336,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-08-01",
+      "price": 449.58684316085,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 418.136566175585,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-06-01",
+      "price": 446.578799775659,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-05-01",
+      "price": 503.06834590085,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 494.922948273802,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-03-01",
+      "price": 462.982925485876,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-02-01",
+      "price": 483.417085427136,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 482.303139575902,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-12-01",
+      "price": 539.940828402367,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-11-01",
+      "price": 549.546243686869,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 553.615576004107,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-09-01",
+      "price": 524.822751533498,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-08-01",
+      "price": 540.407867161051,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 563.408459905275,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-06-01",
+      "price": 521.992873817422,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-05-01",
+      "price": 491.135341088728,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 511.388216303471,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-03-01",
+      "price": 567.713039720269,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-02-01",
+      "price": 546.227538944829,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 541.269346458189,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-12-01",
+      "price": 590.024905910148,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-11-01",
+      "price": 584.240348009069,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 510.69382612391,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-09-01",
+      "price": 507.38836446615,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-08-01",
+      "price": 472.515733889314,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 419.793630535512,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-06-01",
+      "price": 419.793630535512,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-05-01",
+      "price": 403.266322246712,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 358.642589866953,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-03-01",
+      "price": 326.414338703794,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-02-01",
+      "price": 319.803415388274,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 334.677992848193,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-12-01",
+      "price": 337.570271798733,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-11-01",
+      "price": 297.698140552004,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 275.179683008515,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-09-01",
+      "price": 290.880625882874,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-08-01",
+      "price": 294.186087540634,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 299.144280027274,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-06-01",
+      "price": 294.186087540634,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-05-01",
+      "price": 305.755203342794,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 323.935242460474,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-03-01",
+      "price": 337.157089091513,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-02-01",
+      "price": 351.205301136993,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 338.809819920393,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-12-01",
+      "price": 331.372531190434,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-11-01",
+      "price": 341.288916163713,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 326.414338703794,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-09-01",
+      "price": 323.315468399644,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-08-01",
+      "price": 315.671588316074,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 315.671588316074,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-06-01",
+      "price": 333.851627433753,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-05-01",
+      "price": 323.935242460474,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 333.025262019313,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-03-01",
+      "price": 327.240704118234,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-02-01",
+      "price": 315.671588316074,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 316.497953730514,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-12-01",
+      "price": 310.713395829434,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-11-01",
+      "price": 299.144280027274,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 285.096067981794,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-09-01",
+      "price": 266.916028864115,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-08-01",
+      "price": 279.311510080714,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 281.790606324034,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-06-01",
+      "price": 256.999643890835,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-05-01",
+      "price": 262.784201791915,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 263.610567206355,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-03-01",
+      "price": 287.575164225114,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-02-01",
+      "price": 279.311510080714,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 288.401529639554,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-12-01",
+      "price": 285.922433396234,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-11-01",
+      "price": 274.353317594075,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 239.645970187595,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-09-01",
+      "price": 234.687777700955,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-08-01",
+      "price": 240.472335602035,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 230.555950628755,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-06-01",
+      "price": 224.771392727676,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-05-01",
+      "price": 232.208681457635,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 220.639565655476,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-03-01",
+      "price": 236.340508529835,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-02-01",
+      "price": 223.945027313236,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    },
+    {
+      "date": "1990-01-01",
+      "price": 230.555950628755,
+      "commodity": "palm_oil",
+      "source": "FRED",
+      "series_id": "PPOILUSDM",
+      "realtime_start": "2025-09-19",
+      "realtime_end": "2025-09-19"
+    }
+  ],
+  "series_id": "PPOILUSDM",
+  "count": 426,
+  "commodity": "palm_oil",
+  "series_info": {
+    "id": "PPOILUSDM",
+    "realtime_start": "2025-09-16",
+    "realtime_end": "2025-09-16",
+    "title": "Global price of Palm Oil",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "U.S. Dollars per Metric Ton",
+    "units_short": "U.S. $ per Metric Ton",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:17-05",
+    "popularity": 64,
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.\n\nCopyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

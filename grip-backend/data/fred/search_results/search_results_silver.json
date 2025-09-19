@@ -1,0 +1,188 @@
+{
+  "search_term": "silver",
+  "collected_at": "2025-09-19T03:58:20.233747",
+  "series": [
+    {
+      "id": "PCU2122212122210",
+      "title": "Producer Price Index by Industry: Gold Ore and Silver Ore Mining: Gold Ores",
+      "frequency": "Monthly",
+      "units": "Index Jun 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 59,
+      "observation_start": "1985-06-01",
+      "observation_end": "2017-12-01"
+    },
+    {
+      "id": "A04018GB00LONA286NNBR",
+      "title": "Price of Bar Silver for London, Great Britain",
+      "frequency": "Annual",
+      "units": "Dollars per Fine Ounce",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 23,
+      "observation_start": "1833-01-01",
+      "observation_end": "1933-01-01"
+    },
+    {
+      "id": "PCU2122221222",
+      "title": "Producer Price Index by Industry: Gold Ore and Silver Ore Mining",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "1984-12-01",
+      "observation_end": "2018-08-01"
+    },
+    {
+      "id": "IP7106",
+      "title": "Import Price Index (Harmonized System): Silver (Including Silver Plated with Gold or Platinum), Unwrought or in Semimanufactured Forms, or in Powder Form",
+      "frequency": "Monthly",
+      "units": "Index Dec 2021=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 14,
+      "observation_start": "2021-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IPG21222S",
+      "title": "Industrial Production: Mining: Gold Ore and Silver Ore Mining (NAICS = 21222)",
+      "frequency": "Monthly",
+      "units": "Index 2017=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 11,
+      "observation_start": "1972-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "NASDAQQSLVO",
+      "title": "Credit Suisse NASDAQ Silver FLOWS106 Price Index",
+      "frequency": "Daily",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 8,
+      "observation_start": "2013-02-28",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "M1433AUSM144NNBR",
+      "title": "Silver Held in the Treasury, Treasury and Federal Reserve Banks for United States",
+      "frequency": "Monthly, End of Month",
+      "units": "Millions of Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1878-06-01",
+      "observation_end": "1914-12-01"
+    },
+    {
+      "id": "ATNHPIUS43524Q",
+      "title": "All-Transactions House Price Index for Silver Spring-Frederick-Rockville, MD (MSAD) (DISCONTINUED)",
+      "frequency": "Quarterly",
+      "units": "Index 1995:Q1=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "1976-04-01",
+      "observation_end": "2018-07-01"
+    },
+    {
+      "id": "VXSLVCLS",
+      "title": "CBOE Silver ETF Volatility Index (DISCONTINUED)",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "2011-03-16",
+      "observation_end": "2022-02-11"
+    },
+    {
+      "id": "RIWG21222S",
+      "title": "Relative Importance Weights: Mining: Gold Ore and Silver Ore Mining (NAICS = 21222)",
+      "frequency": "Monthly",
+      "units": "Percent",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1972-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "RALTSCCRO",
+      "title": "Resources and Assets: Legal Tender Notes, Silver Certificates, and Subsidiary Coin; Reserves Other than Gold; Other Cash",
+      "frequency": "Weekly, Ending Wednesday",
+      "units": "Millions of U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1914-11-20",
+      "observation_end": "2018-04-11"
+    },
+    {
+      "id": "IM681",
+      "title": "Import Price Index (SITC): Silver, platinum and other platinum group metals (DISCONTINUED)",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1995-01-01",
+      "observation_end": "2005-12-01"
+    },
+    {
+      "id": "IPG21222SQ",
+      "title": "Industrial Production: Mining: Gold Ore and Silver Ore Mining (NAICS = 21222)",
+      "frequency": "Quarterly",
+      "units": "Index 2017=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1972-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "M0143AUSM409NNBR",
+      "title": "Silver Production for United States",
+      "frequency": "Monthly",
+      "units": "Millions of Fine Ounces",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1921-01-01",
+      "observation_end": "1944-07-01"
+    },
+    {
+      "id": "NASDAQNSLVRT",
+      "title": "Nasdaq Sprott Silver Miners Index Total Return Index",
+      "frequency": "Daily",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "2024-08-05",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "IPG21222A",
+      "title": "Industrial Production: Mining: Gold Ore and Silver Ore Mining (NAICS = 21222)",
+      "frequency": "Annual",
+      "units": "Index 2017=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "1972-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "PCU3259923259923",
+      "title": "Producer Price Index by Industry: Photographic Film and Chemical Manufacturing: Photographic Sensitized Film, Plates, Etc., Not Silver Halide Type (DISCONTINUED)",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 2,
+      "observation_start": "2003-12-01",
+      "observation_end": "2007-04-01"
+    },
+    {
+      "id": "ATNHPIUS30093A",
+      "title": "All-Transactions House Price Index for Silver Bow County, MT",
+      "frequency": "Annual",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 1,
+      "observation_start": "1991-01-01",
+      "observation_end": "2024-01-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 18
+}

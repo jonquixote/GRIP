@@ -1,0 +1,208 @@
+{
+  "search_term": "cotton price",
+  "collected_at": "2025-09-19T06:28:00.924769",
+  "series": [
+    {
+      "id": "PCOTTINDUSDM",
+      "title": "Global price of Cotton",
+      "frequency": "Monthly",
+      "units": "U.S. Cents per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 56,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "WPU015",
+      "title": "Producer Price Index by Commodity: Farm Products: Raw Cotton",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 22,
+      "observation_start": "1926-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU034203",
+      "title": "Producer Price Index by Commodity: Textile Products and Apparel: Finished Manmade, Silk, and Other Natural Fiber (Excluding Cotton and Wool) Broadwoven Fabrics",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "1975-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU034201",
+      "title": "Producer Price Index by Commodity: Textile Products and Apparel: Finished Cotton Broadwoven Fabrics",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "1975-12-01",
+      "observation_end": "2025-07-01"
+    },
+    {
+      "id": "PCOTTINDUSDQ",
+      "title": "Global price of Cotton",
+      "frequency": "Quarterly",
+      "units": "U.S. Cents per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 15,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "WPU027A0104",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Cotton Linters",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 10,
+      "observation_start": "2011-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01510101",
+      "title": "Producer Price Index by Commodity: Farm Products: Raw Cotton",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 10,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCOTTINDUSDA",
+      "title": "Global price of Cotton",
+      "frequency": "Annual",
+      "units": "U.S. Cents per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 8,
+      "observation_start": "1990-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "CP0115EU28M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Oils and Fats for European Union (28 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 8,
+      "observation_start": "2000-12-01",
+      "observation_end": "2020-01-01"
+    },
+    {
+      "id": "WPU01830121",
+      "title": "Producer Price Index by Commodity: Farm Products: Cottonseed",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU032601",
+      "title": "Producer Price Index by Commodity: Textile Products and Apparel: Spun Cotton Yarns",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "M0400AUSM267NNBR",
+      "title": "Wholesale Price of Cotton Yarn, Mills for United States",
+      "frequency": "Monthly",
+      "units": "Cents per Pound",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "1890-01-01",
+      "observation_end": "1942-05-01"
+    },
+    {
+      "id": "WPS032601",
+      "title": "Producer Price Index by Commodity: Textile Products and Apparel: Spun Cotton Yarns",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "1984-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU0151",
+      "title": "Producer Price Index by Commodity: Farm Products: Raw Cotton",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "1971-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IR40000",
+      "title": "Import Price Index (End Use): Apparel, Household Goods - Cotton",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "1980-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IR40020",
+      "title": "Import Price Index (End Use): Apparel, Textiles, Nonwool or Cotton",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "1980-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU015101",
+      "title": "Producer Price Index by Commodity: Farm Products: Raw Cotton",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1975-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "M041BAUSM268NNBR",
+      "title": "Wholesale Price of Cottonseed Oil, Crude for United States",
+      "frequency": "Monthly",
+      "units": "Cents per Pound (In Tanks)",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1909-08-01",
+      "observation_end": "1941-06-01"
+    },
+    {
+      "id": "ID52",
+      "title": "Export Price Index (Harmonized System): Cotton",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "1992-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU015101011",
+      "title": "Producer Price Index by Commodity: Farm Products: Upland Cotton",
+      "frequency": "Monthly",
+      "units": "Index Sep 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 4,
+      "observation_start": "2015-09-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

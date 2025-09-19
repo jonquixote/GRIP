@@ -1,0 +1,208 @@
+{
+  "search_term": "soybeans",
+  "collected_at": "2025-09-19T03:55:07.984761",
+  "series": [
+    {
+      "id": "PSOYBUSDM",
+      "title": "Global price of Soybeans",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 49,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "PSOILUSDM",
+      "title": "Global price of Soybeans Oil",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 42,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "WPU026301",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Coffee (Whole Bean, Ground, and Instant)",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 35,
+      "observation_start": "1958-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3113513113517",
+      "title": "Producer Price Index by Industry: Chocolate and Confectionery Manufacturing from Cacao: Other Chocolate and Cocoa Products, Made from Cacao Beans",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 33,
+      "observation_start": "2011-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PSOYBUSDQ",
+      "title": "Global price of Soybeans",
+      "frequency": "Quarterly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 33,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "WPU01830131",
+      "title": "Producer Price Index by Commodity: Farm Products: Soybeans",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 32,
+      "observation_start": "1947-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PSMEAUSDM",
+      "title": "Global price of Soybean Meal",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 30,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "IR000",
+      "title": "Import Price Index (End Use): Green Coffee, Cocoa Beans, and Cane Sugar",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 19,
+      "observation_start": "1982-03-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU02630103",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Coffee, Concentrated, Including Coffee Substitutes",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 18,
+      "observation_start": "1959-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU02840102",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Canned Dry Beans",
+      "frequency": "Monthly",
+      "units": "Index Dec 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 15,
+      "observation_start": "1982-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "IQ00100",
+      "title": "Export Price Index (End Use): Soybeans",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 15,
+      "observation_start": "1980-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU029201122",
+      "title": "Producer Price Index by Commodity: Processed Foods and Feeds: Other Soybean Products, Including Isolates and Concentrates",
+      "frequency": "Monthly",
+      "units": "Index Dec 2009=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 12,
+      "observation_start": "2009-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU064101312",
+      "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Soybean Oil, All Other Types",
+      "frequency": "Monthly",
+      "units": "Index Dec 2007=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 11,
+      "observation_start": "2007-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PSOILUSDQ",
+      "title": "Global price of Soybeans Oil",
+      "frequency": "Quarterly",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 8,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "CP0115EU28M086NEST",
+      "title": "Harmonized Index of Consumer Prices: Oils and Fats for European Union (28 Countries)",
+      "frequency": "Monthly",
+      "units": "Index 2015=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 8,
+      "observation_start": "2000-12-01",
+      "observation_end": "2020-01-01"
+    },
+    {
+      "id": "IQ001",
+      "title": "Export Price Index (End Use): Soybeans and Other Oil Seeds and Food Oils",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 7,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01130110",
+      "title": "Producer Price Index by Commodity: Farm Products: Dry Pinto Beans",
+      "frequency": "Monthly",
+      "units": "Index Dec 1991=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "1991-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU01130116",
+      "title": "Producer Price Index by Commodity: Farm Products: Dry Garbanzo Beans",
+      "frequency": "Monthly",
+      "units": "Index Dec 2011=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 6,
+      "observation_start": "2011-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU064101311",
+      "title": "Producer Price Index by Commodity: Chemicals and Allied Products: Crude Soybean Oil, Degummed, Made from Soybeans Crushed in the Same Establishment",
+      "frequency": "Monthly",
+      "units": "Index Dec 2007=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "2007-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PSMEAUSDA",
+      "title": "Global price of Soybean Meal",
+      "frequency": "Annual",
+      "units": "U.S. Dollars per Metric Ton",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 5,
+      "observation_start": "1990-01-01",
+      "observation_end": "2024-01-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

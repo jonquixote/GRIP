@@ -1,0 +1,198 @@
+{
+  "search_term": "gold",
+  "collected_at": "2025-09-19T04:02:05.483187",
+  "series": [
+    {
+      "id": "GVZCLS",
+      "title": "CBOE Gold ETF Volatility Index",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 63,
+      "observation_start": "2008-06-03",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "PCU2122212122210",
+      "title": "Producer Price Index by Industry: Gold Ore and Silver Ore Mining: Gold Ores",
+      "frequency": "Monthly",
+      "units": "Index Jun 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 59,
+      "observation_start": "1985-06-01",
+      "observation_end": "2017-12-01"
+    },
+    {
+      "id": "IQ12260",
+      "title": "Export Price Index (End Use): Nonmonetary Gold",
+      "frequency": "Monthly",
+      "units": "Index Dec 2024=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 53,
+      "observation_start": "1984-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "TRESEGCNM052N",
+      "title": "Total Reserves excluding Gold for China",
+      "frequency": "Monthly",
+      "units": "Millions of Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 49,
+      "observation_start": "1977-12-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "M14062USM027NNBR",
+      "title": "Total Gold Reserves of Federal Reserve Banks for United States",
+      "frequency": "Monthly",
+      "units": "Billions of Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 48,
+      "observation_start": "1914-11-01",
+      "observation_end": "1949-05-01"
+    },
+    {
+      "id": "IR14270",
+      "title": "Import Price Index (End Use): Nonmonetary Gold",
+      "frequency": "Monthly",
+      "units": "Index Dec 2024=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 43,
+      "observation_start": "1992-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WPU10210501",
+      "title": "Producer Price Index by Commodity: Metals and Metal Products: Gold Ores",
+      "frequency": "Monthly",
+      "units": "Index Jun 1985=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 39,
+      "observation_start": "1985-06-01",
+      "observation_end": "2021-12-01"
+    },
+    {
+      "id": "TRESEGUSM052N",
+      "title": "Total Reserves excluding Gold for United States",
+      "frequency": "Monthly",
+      "units": "Millions of Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 37,
+      "observation_start": "1950-12-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "FRVGBSV",
+      "title": "Book Value of Federal Reserve Bank Held Gold Bullion: NY Vault",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 36,
+      "observation_start": "2012-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WGCAL",
+      "title": "Assets: Other: Gold Certificate Account: Wednesday Level",
+      "frequency": "Weekly, As of Wednesday",
+      "units": "Millions of U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 26,
+      "observation_start": "2002-12-18",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "M1476BUSM027NNBR",
+      "title": "Monetary Gold Stock for United States",
+      "frequency": "Monthly",
+      "units": "Billions of Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 26,
+      "observation_start": "1914-01-01",
+      "observation_end": "1946-12-01"
+    },
+    {
+      "id": "NASDAQQGLDI",
+      "title": "Credit Suisse NASDAQ Gold FLOWS103 Price Index",
+      "frequency": "Daily",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 26,
+      "observation_start": "2012-11-05",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "TRESEGARM052N",
+      "title": "Total Reserves excluding Gold for Argentina",
+      "frequency": "Monthly",
+      "units": "Millions of Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 25,
+      "observation_start": "1950-12-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "A04018GB00LONA286NNBR",
+      "title": "Price of Bar Silver for London, Great Britain",
+      "frequency": "Annual",
+      "units": "Dollars per Fine Ounce",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 23,
+      "observation_start": "1833-01-01",
+      "observation_end": "1933-01-01"
+    },
+    {
+      "id": "TRESEGINM052N",
+      "title": "Total Reserves excluding Gold for India",
+      "frequency": "Monthly",
+      "units": "Millions of Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 23,
+      "observation_start": "1950-12-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "RAGGCTGGC",
+      "title": "Resources and Assets: Gold and Gold Certificates: Total Gold; Gold Certificate Reserve",
+      "frequency": "Weekly, Ending Wednesday",
+      "units": "Millions of U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 22,
+      "observation_start": "1914-11-20",
+      "observation_end": "2018-04-11"
+    },
+    {
+      "id": "TRESEGJPM052N",
+      "title": "Total Reserves excluding Gold for Japan",
+      "frequency": "Monthly",
+      "units": "Millions of Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "1950-12-01",
+      "observation_end": "2025-07-01"
+    },
+    {
+      "id": "PCU2122221222",
+      "title": "Producer Price Index by Industry: Gold Ore and Silver Ore Mining",
+      "frequency": "Monthly",
+      "units": "Index Dec 1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "1984-12-01",
+      "observation_end": "2018-08-01"
+    },
+    {
+      "id": "WPU159402",
+      "title": "Producer Price Index by Commodity: Miscellaneous Products: Jewelry (Gold and Platinum) and Silverware",
+      "frequency": "Monthly",
+      "units": "Index 1982=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 20,
+      "observation_start": "1978-12-01",
+      "observation_end": "2025-08-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 19
+}

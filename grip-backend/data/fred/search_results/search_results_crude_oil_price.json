@@ -1,0 +1,208 @@
+{
+  "search_term": "crude oil price",
+  "collected_at": "2025-09-19T10:04:46.673768",
+  "series": [
+    {
+      "id": "DCOILWTICO",
+      "title": "Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",
+      "frequency": "Daily",
+      "units": "Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 80,
+      "observation_start": "1986-01-02",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "DCOILBRENTEU",
+      "title": "Crude Oil Prices: Brent - Europe",
+      "frequency": "Daily",
+      "units": "Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 73,
+      "observation_start": "1987-05-20",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "WTISPLC",
+      "title": "Spot Crude Oil Price: West Texas Intermediate (WTI)",
+      "frequency": "Monthly",
+      "units": "Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 67,
+      "observation_start": "1946-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "POILBREUSDM",
+      "title": "Global price of Brent Crude",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 64,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "MCOILWTICO",
+      "title": "Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",
+      "frequency": "Monthly",
+      "units": "Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 57,
+      "observation_start": "1986-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "MCOILBRENTEU",
+      "title": "Crude Oil Prices: Brent - Europe",
+      "frequency": "Monthly",
+      "units": "Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 52,
+      "observation_start": "1987-05-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "POILWTIUSDM",
+      "title": "Global price of WTI Crude",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 51,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "OVXCLS",
+      "title": "CBOE Crude Oil ETF Volatility Index",
+      "frequency": "Daily, Close",
+      "units": "Index",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 50,
+      "observation_start": "2007-05-10",
+      "observation_end": "2025-09-17"
+    },
+    {
+      "id": "POILBREUSDQ",
+      "title": "Global price of Brent Crude",
+      "frequency": "Quarterly",
+      "units": "U.S. Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 43,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "POILDUBUSDM",
+      "title": "Global price of Dubai Crude",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 42,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "POILBREUSDA",
+      "title": "Global price of Brent Crude",
+      "frequency": "Annual",
+      "units": "U.S. Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 39,
+      "observation_start": "1990-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "WCOILWTICO",
+      "title": "Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",
+      "frequency": "Weekly, Ending Friday",
+      "units": "Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 35,
+      "observation_start": "1986-01-03",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "WCOILBRENTEU",
+      "title": "Crude Oil Prices: Brent - Europe",
+      "frequency": "Weekly, Ending Friday",
+      "units": "Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 30,
+      "observation_start": "1987-05-15",
+      "observation_end": "2025-09-12"
+    },
+    {
+      "id": "POILWTIUSDQ",
+      "title": "Global price of WTI Crude",
+      "frequency": "Quarterly",
+      "units": "U.S. Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 27,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "ACOILWTICO",
+      "title": "Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",
+      "frequency": "Annual",
+      "units": "Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 25,
+      "observation_start": "1986-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "IR10000",
+      "title": "Import Price Index (End Use): Crude Oil",
+      "frequency": "Monthly",
+      "units": "Index 2000=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 25,
+      "observation_start": "1980-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "ACOILBRENTEU",
+      "title": "Crude Oil Prices: Brent - Europe",
+      "frequency": "Annual",
+      "units": "Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 21,
+      "observation_start": "1987-01-01",
+      "observation_end": "2024-01-01"
+    },
+    {
+      "id": "PCU486110486110",
+      "title": "Producer Price Index by Industry: Pipeline Transportation of Crude Oil",
+      "frequency": "Monthly",
+      "units": "Index Jun 1986=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 18,
+      "observation_start": "1986-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "POILDUBUSDQ",
+      "title": "Global price of Dubai Crude",
+      "frequency": "Quarterly",
+      "units": "U.S. Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 14,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-04-01"
+    },
+    {
+      "id": "POILAPSPUSDM",
+      "title": "Global price of APSP crude oil",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Barrel",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 12,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}

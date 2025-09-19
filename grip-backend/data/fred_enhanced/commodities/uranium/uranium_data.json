@@ -1,0 +1,3007 @@
+{
+  "success": true,
+  "data": [
+    {
+      "date": "1990-01-01",
+      "price": 9.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-02-01",
+      "price": 8.8,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-03-01",
+      "price": 8.8,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-04-01",
+      "price": 8.65,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-05-01",
+      "price": 9.35,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-06-01",
+      "price": 11.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-07-01",
+      "price": 11.6,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-08-01",
+      "price": 11.45,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-09-01",
+      "price": 10.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-10-01",
+      "price": 8.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-11-01",
+      "price": 9.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1990-12-01",
+      "price": 9.7,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-01-01",
+      "price": 9.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-02-01",
+      "price": 9.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-03-01",
+      "price": 9.4,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-04-01",
+      "price": 9.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-05-01",
+      "price": 9.2,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-06-01",
+      "price": 9.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-07-01",
+      "price": 8.55,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-08-01",
+      "price": 8.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-09-01",
+      "price": 7.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-10-01",
+      "price": 7.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-11-01",
+      "price": 7.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1991-12-01",
+      "price": 7.4,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-01-01",
+      "price": 8.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-02-01",
+      "price": 7.9,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-03-01",
+      "price": 7.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-04-01",
+      "price": 7.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-05-01",
+      "price": 7.55,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-06-01",
+      "price": 7.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-07-01",
+      "price": 7.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-08-01",
+      "price": 8.05,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-09-01",
+      "price": 8.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-10-01",
+      "price": 10.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-11-01",
+      "price": 10.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1992-12-01",
+      "price": 10.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-01-01",
+      "price": 9.8,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-02-01",
+      "price": 10.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-03-01",
+      "price": 10.2,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-04-01",
+      "price": 10.35,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-05-01",
+      "price": 10.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-06-01",
+      "price": 10.3,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-07-01",
+      "price": 9.9,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-08-01",
+      "price": 10.05,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-09-01",
+      "price": 10.2,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-10-01",
+      "price": 10.175,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-11-01",
+      "price": 9.9,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1993-12-01",
+      "price": 9.85,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-01-01",
+      "price": 9.45,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-02-01",
+      "price": 9.45,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-03-01",
+      "price": 9.3,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-04-01",
+      "price": 9.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-05-01",
+      "price": 9.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-06-01",
+      "price": 9.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-07-01",
+      "price": 9.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-08-01",
+      "price": 9.05,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-09-01",
+      "price": 9.45,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-10-01",
+      "price": 9.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-11-01",
+      "price": 9.6,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1994-12-01",
+      "price": 10.4,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-01-01",
+      "price": 10.775,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-02-01",
+      "price": 11.15,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-03-01",
+      "price": 11.8,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-04-01",
+      "price": 11.85,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-05-01",
+      "price": 11.9,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-06-01",
+      "price": 11.7,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-07-01",
+      "price": 11.7,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-08-01",
+      "price": 11.7,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-09-01",
+      "price": 11.85,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-10-01",
+      "price": 11.85,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-11-01",
+      "price": 11.85,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1995-12-01",
+      "price": 11.85,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-01-01",
+      "price": 12.2,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-02-01",
+      "price": 15.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-03-01",
+      "price": 15.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-04-01",
+      "price": 15.9875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-05-01",
+      "price": 16.3833333333333,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-06-01",
+      "price": 16.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-07-01",
+      "price": 16.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-08-01",
+      "price": 16.46,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-09-01",
+      "price": 16.15,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-10-01",
+      "price": 15.74,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-11-01",
+      "price": 15.07,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1996-12-01",
+      "price": 14.7625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-01-01",
+      "price": 14.4875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-02-01",
+      "price": 13.81,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-03-01",
+      "price": 13.62,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-04-01",
+      "price": 12.825,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-05-01",
+      "price": 11.8277777777778,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-06-01",
+      "price": 10.9444444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-07-01",
+      "price": 10.485,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-08-01",
+      "price": 10.3944444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-09-01",
+      "price": 10.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-10-01",
+      "price": 11.28,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-11-01",
+      "price": 12.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1997-12-01",
+      "price": 12.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-01-01",
+      "price": 12.0375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-02-01",
+      "price": 11.375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-03-01",
+      "price": 10.6625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-04-01",
+      "price": 10.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-05-01",
+      "price": 10.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-06-01",
+      "price": 10.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-07-01",
+      "price": 10.6111111111111,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-08-01",
+      "price": 10.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-09-01",
+      "price": 10.2333333333333,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-10-01",
+      "price": 9.60555555555556,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-11-01",
+      "price": 8.88333333333333,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1998-12-01",
+      "price": 8.4875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-01-01",
+      "price": 9.0125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-02-01",
+      "price": 9.2,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-03-01",
+      "price": 10.43571429,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-04-01",
+      "price": 10.85,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-05-01",
+      "price": 10.725,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-06-01",
+      "price": 10.55555556,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-07-01",
+      "price": 10.2625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-08-01",
+      "price": 10.11428571,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-09-01",
+      "price": 9.91666667,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-10-01",
+      "price": 9.76111111,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-11-01",
+      "price": 9.7125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "1999-12-01",
+      "price": 9.6375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-01-01",
+      "price": 9.55,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-02-01",
+      "price": 9.39375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-03-01",
+      "price": 9.31,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-04-01",
+      "price": 9.14285714,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-05-01",
+      "price": 8.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-06-01",
+      "price": 8.23125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-07-01",
+      "price": 8.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-08-01",
+      "price": 7.95714286,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-09-01",
+      "price": 7.56666667,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-10-01",
+      "price": 7.4,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-11-01",
+      "price": 7.12777778,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2000-12-01",
+      "price": 7.13571429,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-01-01",
+      "price": 7.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-02-01",
+      "price": 7.3875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-03-01",
+      "price": 7.69444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-04-01",
+      "price": 8.22857143,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-05-01",
+      "price": 9.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-06-01",
+      "price": 8.77777778,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-07-01",
+      "price": 8.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-08-01",
+      "price": 8.95,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-09-01",
+      "price": 9.15,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-10-01",
+      "price": 9.46666667,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-11-01",
+      "price": 9.43333333,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2001-12-01",
+      "price": 9.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-01-01",
+      "price": 9.5875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-02-01",
+      "price": 9.71875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-03-01",
+      "price": 9.95,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-04-01",
+      "price": 9.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-05-01",
+      "price": 9.9,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-06-01",
+      "price": 9.9,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-07-01",
+      "price": 9.89375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-08-01",
+      "price": 9.85,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-09-01",
+      "price": 9.79761904761905,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-10-01",
+      "price": 9.84130434782609,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-11-01",
+      "price": 9.86428571428571,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2002-12-01",
+      "price": 9.88181818181818,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-01-01",
+      "price": 10.1565217391304,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-02-01",
+      "price": 10.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-03-01",
+      "price": 10.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-04-01",
+      "price": 10.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-05-01",
+      "price": 10.8954545454545,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-06-01",
+      "price": 10.9,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-07-01",
+      "price": 10.9521739130435,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-08-01",
+      "price": 11.2375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-09-01",
+      "price": 11.4928571428571,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-10-01",
+      "price": 12.3722222222222,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-11-01",
+      "price": 13.175,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2003-12-01",
+      "price": 13.35,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-01-01",
+      "price": 14.8,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-02-01",
+      "price": 16.05,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-03-01",
+      "price": 17.1388888888889,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-04-01",
+      "price": 17.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-05-01",
+      "price": 17.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-06-01",
+      "price": 17.88125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-07-01",
+      "price": 17.9,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-08-01",
+      "price": 17.9,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-09-01",
+      "price": 18.6,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-10-01",
+      "price": 20.08,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-11-01",
+      "price": 20.2,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2004-12-01",
+      "price": 20.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-01-01",
+      "price": 20.5357142857143,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-02-01",
+      "price": 21.2,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-03-01",
+      "price": 21.8444444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-04-01",
+      "price": 23.1444444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-05-01",
+      "price": 28.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-06-01",
+      "price": 29.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-07-01",
+      "price": 29.2777777777778,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-08-01",
+      "price": 29.65,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-09-01",
+      "price": 30.43125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-10-01",
+      "price": 32.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-11-01",
+      "price": 33.5555555555556,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2005-12-01",
+      "price": 35.53125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-01-01",
+      "price": 36.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-02-01",
+      "price": 37.6875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-03-01",
+      "price": 39.77,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-04-01",
+      "price": 41.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-05-01",
+      "price": 42.2777777777778,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-06-01",
+      "price": 44.1666666666667,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-07-01",
+      "price": 46.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-08-01",
+      "price": 47.4444444444445,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-09-01",
+      "price": 52.4444444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-10-01",
+      "price": 56.0625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-11-01",
+      "price": 61.4444444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2006-12-01",
+      "price": 66.5714285714286,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-01-01",
+      "price": 72.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-02-01",
+      "price": 76.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-03-01",
+      "price": 89.4444444444445,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-04-01",
+      "price": 110.428571428571,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-05-01",
+      "price": 119.111111111111,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-06-01",
+      "price": 136.222222222222,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-07-01",
+      "price": 131.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-08-01",
+      "price": 109.6,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-09-01",
+      "price": 85.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-10-01",
+      "price": 77.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-11-01",
+      "price": 92.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2007-12-01",
+      "price": 91.8,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-01-01",
+      "price": 87.5555555555555,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-02-01",
+      "price": 76.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-03-01",
+      "price": 73.7142857142857,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-04-01",
+      "price": 69.4444444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-05-01",
+      "price": 61.6666666666667,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-06-01",
+      "price": 59.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-07-01",
+      "price": 61.84375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-08-01",
+      "price": 64.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-09-01",
+      "price": 63.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-10-01",
+      "price": 48.6,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-11-01",
+      "price": 50.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2008-12-01",
+      "price": 54.3333333333333,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-01-01",
+      "price": 51.4444444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-02-01",
+      "price": 47.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-03-01",
+      "price": 43.375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-04-01",
+      "price": 41.71875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-05-01",
+      "price": 48.5555555555555,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-06-01",
+      "price": 51.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-07-01",
+      "price": 49.7,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-08-01",
+      "price": 47.1875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-09-01",
+      "price": 44.2777777777778,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-10-01",
+      "price": 46.1111111111111,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-11-01",
+      "price": 44.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2009-12-01",
+      "price": 44.4375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-01-01",
+      "price": 43.825,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-02-01",
+      "price": 42.1,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-03-01",
+      "price": 40.9111111111111,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-04-01",
+      "price": 41.325,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-05-01",
+      "price": 41.3,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-06-01",
+      "price": 40.7777777777778,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-07-01",
+      "price": 41.9444444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-08-01",
+      "price": 46.0625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-09-01",
+      "price": 46.6666666666667,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-10-01",
+      "price": 48.8333333333333,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-11-01",
+      "price": 57.1625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2010-12-01",
+      "price": 60.625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-01-01",
+      "price": 63.875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-02-01",
+      "price": 65.0,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-03-01",
+      "price": 63.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-04-01",
+      "price": 57.8214285714286,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-05-01",
+      "price": 56.0625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-06-01",
+      "price": 55.4,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-07-01",
+      "price": 52.7888888888889,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-08-01",
+      "price": 50.6833333333333,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-09-01",
+      "price": 51.9833333333333,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-10-01",
+      "price": 52.3375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-11-01",
+      "price": 53.1944444444444,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2011-12-01",
+      "price": 52.1785714285714,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-01-01",
+      "price": 52.3125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-02-01",
+      "price": 52.0555555555556,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-03-01",
+      "price": 51.2888888888889,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-04-01",
+      "price": 51.3,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-05-01",
+      "price": 51.8888888888889,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-06-01",
+      "price": 50.8333333333333,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-07-01",
+      "price": 50.3555555555556,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-08-01",
+      "price": 49.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-09-01",
+      "price": 47.725,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-10-01",
+      "price": 44.6111111111111,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-11-01",
+      "price": 41.5,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2012-12-01",
+      "price": 43.6666666666667,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-01-01",
+      "price": 42.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-02-01",
+      "price": 43.40625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-03-01",
+      "price": 42.28125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-04-01",
+      "price": 41.4125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-05-01",
+      "price": 40.605,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-06-01",
+      "price": 39.9375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-07-01",
+      "price": 38.0222222222222,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-08-01",
+      "price": 34.9941626409018,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-09-01",
+      "price": 34.4532867494824,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-10-01",
+      "price": 34.8484955891619,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-11-01",
+      "price": 35.59200310559,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2013-12-01",
+      "price": 34.5932971014493,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-01-01",
+      "price": 35.2149889729048,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-02-01",
+      "price": 35.5467391304348,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-03-01",
+      "price": 34.7028554175293,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-04-01",
+      "price": 32.7445652173913,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-05-01",
+      "price": 28.5398550724638,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-06-01",
+      "price": 28.2254572118702,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-07-01",
+      "price": 28.4002047889099,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-08-01",
+      "price": 30.8293219461698,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-09-01",
+      "price": 34.3718297101449,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-10-01",
+      "price": 35.7517328292375,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-11-01",
+      "price": 40.5973731884058,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2014-12-01",
+      "price": 36.9482514177693,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-01-01",
+      "price": 35.8977272727273,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-02-01",
+      "price": 38.1875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-03-01",
+      "price": 39.3181818181818,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-04-01",
+      "price": 38.8409090909091,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-05-01",
+      "price": 35.6904761904762,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-06-01",
+      "price": 36.0454545454545,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-07-01",
+      "price": 36.2826086956522,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-08-01",
+      "price": 36.0952380952381,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-09-01",
+      "price": 37.0568181818182,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-10-01",
+      "price": 37.2386363636364,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-11-01",
+      "price": 35.9642857142857,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2015-12-01",
+      "price": 35.1630434782609,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-01-01",
+      "price": 34.6904761904762,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-02-01",
+      "price": 34.0071428571429,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-03-01",
+      "price": 30.1065217391304,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-04-01",
+      "price": 27.8166666666667,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-05-01",
+      "price": 27.9545454545455,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-06-01",
+      "price": 27.3522727272727,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-07-01",
+      "price": 25.8452380952381,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-08-01",
+      "price": 25.9021739130435,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-09-01",
+      "price": 24.875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-10-01",
+      "price": 21.4880952380952,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-11-01",
+      "price": 18.5681818181818,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2016-12-01",
+      "price": 19.2159090909091,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-01-01",
+      "price": 22.1704545454545,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-02-01",
+      "price": 25.15,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-03-01",
+      "price": 24.6413043478261,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-04-01",
+      "price": 23.25,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-05-01",
+      "price": 21.6413043478261,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-06-01",
+      "price": 19.75,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-07-01",
+      "price": 20.3642857142857,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-08-01",
+      "price": 20.4065217391304,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-09-01",
+      "price": 20.4285714285714,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-10-01",
+      "price": 20.2340909090909,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-11-01",
+      "price": 22.3454545454545,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2017-12-01",
+      "price": 24.6904761904762,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-01-01",
+      "price": 23.3695652173913,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-02-01",
+      "price": 21.7625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-03-01",
+      "price": 21.7272727272727,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-04-01",
+      "price": 20.8452380952381,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-05-01",
+      "price": 21.9782608695652,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-06-01",
+      "price": 23.0714285714286,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-07-01",
+      "price": 23.4159090909091,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-08-01",
+      "price": 26.0478260869565,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-09-01",
+      "price": 27.1075,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-10-01",
+      "price": 27.5086956521739,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-11-01",
+      "price": 28.9340909090909,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2018-12-01",
+      "price": 28.7619047619048,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-01-01",
+      "price": 28.7108695652174,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-02-01",
+      "price": 28.645,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-03-01",
+      "price": 27.202380952381,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-04-01",
+      "price": 25.7045454545455,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-05-01",
+      "price": 24.6847826086956,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-06-01",
+      "price": 24.475,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-07-01",
+      "price": 25.2282608695652,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-08-01",
+      "price": 25.2840909090909,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-09-01",
+      "price": 25.4119047619048,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-10-01",
+      "price": 24.9173913043478,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-11-01",
+      "price": 24.9880952380952,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2019-12-01",
+      "price": 25.625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-01-01",
+      "price": 24.6413043478261,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-02-01",
+      "price": 24.6875,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-03-01",
+      "price": 24.6613636363636,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-04-01",
+      "price": 29.9636363636364,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-05-01",
+      "price": 33.5119047619048,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-06-01",
+      "price": 33.0886363636364,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-07-01",
+      "price": 32.3608695652174,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-08-01",
+      "price": 31.3761904761905,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-09-01",
+      "price": 29.9818181818182,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-10-01",
+      "price": 29.6363636363636,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-11-01",
+      "price": 29.4857142857143,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2020-12-01",
+      "price": 29.7739130434783,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-01-01",
+      "price": 29.8571428571429,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-02-01",
+      "price": 28.6625,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-03-01",
+      "price": 28.3347826086957,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-04-01",
+      "price": 29.7522727272727,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-05-01",
+      "price": 30.2571428571429,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-06-01",
+      "price": 32.1421052631579,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-07-01",
+      "price": 32.3386363636364,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-08-01",
+      "price": 32.1477272727273,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-09-01",
+      "price": 45.078125,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-10-01",
+      "price": 38.4761904761905,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-11-01",
+      "price": 31.099584036973,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2021-12-01",
+      "price": 36.129303027445,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-01-01",
+      "price": 36.8729211858279,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-02-01",
+      "price": 35.8319143167028,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-03-01",
+      "price": 45.5147010280109,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-04-01",
+      "price": 48.7047309162276,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-05-01",
+      "price": 40.8916264050483,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-06-01",
+      "price": 40.331517452179,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-07-01",
+      "price": 38.9391591777708,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-08-01",
+      "price": 39.8023083089691,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-09-01",
+      "price": 40.9503919345296,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-10-01",
+      "price": 41.3035972523499,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-11-01",
+      "price": 40.9540647801222,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2022-12-01",
+      "price": 39.1782439361072,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-01-01",
+      "price": 40.0633997239202,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-02-01",
+      "price": 41.3143709327548,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-03-01",
+      "price": 40.7415230049091,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-04-01",
+      "price": 41.7620173535791,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-05-01",
+      "price": 43.4626662265395,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-06-01",
+      "price": 45.7004831394201,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-07-01",
+      "price": 45.2475338291498,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-08-01",
+      "price": 46.3771809865131,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-09-01",
+      "price": 53.2027424852803,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-10-01",
+      "price": 57.6464134293038,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-11-01",
+      "price": 62.2859519818575,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2023-12-01",
+      "price": 70.0597045759734,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-01-01",
+      "price": 80.3634584551541,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-02-01",
+      "price": 81.3182005991115,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-03-01",
+      "price": 71.8142753847742,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-04-01",
+      "price": 71.6388532833759,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-05-01",
+      "price": 73.9501909836838,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-06-01",
+      "price": 69.1872288503253,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-07-01",
+      "price": 68.251850891257,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-08-01",
+      "price": 65.288503253796,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-09-01",
+      "price": 64.6305392004957,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-10-01",
+      "price": 66.5110817693104,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-11-01",
+      "price": 63.158777502324,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2024-12-01",
+      "price": 60.2199763360283,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2025-01-01",
+      "price": 58.9595515420163,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2025-02-01",
+      "price": 54.3155097613882,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2025-03-01",
+      "price": 51.8348698481561,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2025-04-01",
+      "price": 52.6851336028396,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2025-05-01",
+      "price": 57.3055733583119,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    },
+    {
+      "date": "2025-06-01",
+      "price": 59.5765287676892,
+      "commodity": "uranium",
+      "source": "FRED",
+      "series_id": "PURANUSDM"
+    }
+  ],
+  "series_id": "PURANUSDM",
+  "count": 426,
+  "commodity": "uranium",
+  "series_info": {
+    "id": "PURANUSDM",
+    "realtime_start": "2025-09-19",
+    "realtime_end": "2025-09-19",
+    "title": "Global price of Uranium",
+    "observation_start": "1990-01-01",
+    "observation_end": "2025-06-01",
+    "frequency": "Monthly",
+    "frequency_short": "M",
+    "units": "U.S. Dollars per Pound",
+    "units_short": "U.S. $ per Pound",
+    "seasonal_adjustment": "Not Seasonally Adjusted",
+    "seasonal_adjustment_short": "NSA",
+    "last_updated": "2025-07-18 09:37:23-05",
+    "popularity": "71",
+    "notes": "Value represents the benchmark prices which are representative of the global market. They are determined by the largest exporter of a given commodity. Prices are period averages in nominal U.S. dollars.  Copyright \u00a9 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available at http://www.imf.org/external/terms.htm."
+  }
+}

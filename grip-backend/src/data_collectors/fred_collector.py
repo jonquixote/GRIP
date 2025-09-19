@@ -408,6 +408,22 @@ class FREDCollector(BaseDataCollector):
             'House_Price_Index': 'USSTHPI',  # FHFA House Price Index
             # Additional trade indicators
             'Foreign_Direct_Investment': 'ROWFDI01USQ027S',  # Foreign Direct Investment in the United States
+            # Additional macroeconomic indicators
+            'Capacity_Utilization': 'CAPUTLG2211S',  # Capacity Utilization: Manufacturing
+            'Business_Inventories': 'CBUS',  # Business Inventories
+            'New_Private_Housing_Permits': 'PERMIT',  # New Private Housing Units Authorized by Building Permits
+            # Additional financial indicators
+            '30Y_Conventional_Mortgage_Rate': 'MORTGAGE30US',  # 30-Year Fixed Rate Mortgage Average in the United States
+            'Total_Assets_of_Commercial_Banks': 'TOTALSL',  # Total Assets: Total Assets for all Commercial Banks
+            # Additional employment indicators
+            'Job_Openings': 'JTSJOL',  # Job Openings: Total Nonfarm
+            'Total_Nonfarm_Payrolls': 'PAYEMS',  # All Employees, Total Nonfarm
+            # Additional consumer indicators
+            'Motor_Vehicle_Retail_Sales': 'MRTVSACSGFNS',  # Motor Vehicle Retail Sales: Domestic and Foreign Autos
+            'Restaurant_and_Bar_Sales': 'SASPNFSGFRS',  # Advance Real Retail and Food Services Sales: Retail Trade and Food Services
+            # Additional trade indicators
+            'Trade_Balance_Goods': 'BOPGSTBGS',  # Balance on Goods and Services: Goods
+            'Trade_Balance_Services': 'BOPGSTBSS',  # Balance on Goods and Services: Services
         }
         
         results = {}

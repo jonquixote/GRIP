@@ -1,0 +1,208 @@
+{
+  "search_term": "gasoline price",
+  "collected_at": "2025-09-19T05:48:16.806054",
+  "series": [
+    {
+      "id": "GASREGW",
+      "title": "US Regular All Formulations Gas Price",
+      "frequency": "Weekly, Ending Monday",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 74,
+      "observation_start": "1990-08-20",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "APU000074714",
+      "title": "Average Price: Gasoline, Unleaded Regular (Cost per Gallon/3.785 Liters) in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 69,
+      "observation_start": "1976-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "DHHNGSP",
+      "title": "Henry Hub Natural Gas Spot Price",
+      "frequency": "Daily",
+      "units": "Dollars per Million BTU",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 66,
+      "observation_start": "1997-01-07",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "PNGASEUUSDM",
+      "title": "Global price of Natural gas, EU",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Million Metric British Thermal Unit",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 59,
+      "observation_start": "1990-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "CUSR0000SETB01",
+      "title": "Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "Index 1982-1984=100",
+      "seasonal_adjustment": "Seasonally Adjusted",
+      "popularity": 52,
+      "observation_start": "1967-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "MHHNGSP",
+      "title": "Henry Hub Natural Gas Spot Price",
+      "frequency": "Monthly",
+      "units": "Dollars per Million BTU",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 52,
+      "observation_start": "1997-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "GASREGCOVW",
+      "title": "US Regular Conventional Gas Price",
+      "frequency": "Weekly",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 52,
+      "observation_start": "1990-08-20",
+      "observation_end": "2025-09-15"
+    },
+    {
+      "id": "PCU333132333132",
+      "title": "Producer Price Index by Industry: Oil and Gas Field Machinery and Equipment Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 1980=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 47,
+      "observation_start": "1965-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "APU000074716",
+      "title": "Average Price: Gasoline, Unleaded Premium (Cost per Gallon/3.785 Liters) in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 47,
+      "observation_start": "1981-09-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "APU00007471A",
+      "title": "Average Price: Gasoline, All Types (Cost per Gallon/3.785 Liters) in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 42,
+      "observation_start": "1978-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PNGASUSUSDM",
+      "title": "Global price of Natural Gas, US Henry Hub Gas",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars per Million Metric British Thermal Unit",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 41,
+      "observation_start": "1991-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "GASREGM",
+      "title": "US Regular All Formulations Gas Price",
+      "frequency": "Monthly, End of Period",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 38,
+      "observation_start": "1990-09-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU3251203251207",
+      "title": "Producer Price Index by Industry: Industrial Gas Manufacturing: Nitrogen",
+      "frequency": "Monthly",
+      "units": "Index Jun 1981=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 37,
+      "observation_start": "1981-06-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "APUS48A74714",
+      "title": "Average Price: Gasoline, Unleaded Regular (Cost per Gallon/3.785 Liters) in Phoenix-Mesa-Scottsdale, AZ (CBSA)",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 37,
+      "observation_start": "2018-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "PCU325120325120",
+      "title": "Producer Price Index by Industry: Industrial Gas Manufacturing",
+      "frequency": "Monthly",
+      "units": "Index Dec 2003=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 37,
+      "observation_start": "2003-12-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "CUUR0000SETB01",
+      "title": "Consumer Price Index for All Urban Consumers: Gasoline (All Types) in U.S. City Average",
+      "frequency": "Monthly",
+      "units": "Index 1982-1984=100",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 35,
+      "observation_start": "1935-03-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "MNGLCP",
+      "title": "U.S. Natural Gas Liquid Composite Price",
+      "frequency": "Monthly",
+      "units": "Dollars per Million BTU",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 33,
+      "observation_start": "2009-01-01",
+      "observation_end": "2025-06-01"
+    },
+    {
+      "id": "GASREGCOVM",
+      "title": "US Regular Conventional Gas Price",
+      "frequency": "Monthly",
+      "units": "Dollars per Gallon",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 32,
+      "observation_start": "1990-09-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "APUS35C7471A",
+      "title": "Average Price: Gasoline, All Types (Cost per Gallon/3.785 Liters) in Atlanta-Sandy Springs-Roswell, GA (CBSA)",
+      "frequency": "Monthly",
+      "units": "U.S. Dollars",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 32,
+      "observation_start": "1978-01-01",
+      "observation_end": "2025-08-01"
+    },
+    {
+      "id": "WHHNGSP",
+      "title": "Henry Hub Natural Gas Spot Price",
+      "frequency": "Weekly",
+      "units": "Dollars per Million BTU",
+      "seasonal_adjustment": "Not Seasonally Adjusted",
+      "popularity": 32,
+      "observation_start": "1997-01-10",
+      "observation_end": "2025-09-12"
+    }
+  ],
+  "total_found": 20,
+  "filtered_count": 20
+}
